@@ -1,0 +1,14 @@
+[
+    {
+        "id": "mx",
+        "name": "MX Live",
+        "icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/mxplayer_logo.png",
+        "url": "https://api.mxplay.com/v1/web/live/channels"
+    },
+    {
+        "id": "sun",
+        "name": "Sun NXT",
+        "icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/sunnxt_logo.png",
+        "url": "https://github.com/Gaurav-V7/FireVideo/raw/main/DB/sunnxtlive.json"
+    }
+]

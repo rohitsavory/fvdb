@@ -1,0 +1,10 @@
+[
+  {
+    "serverId" : "firebase",
+    "serverName" : "Server 1"
+  },
+  {
+    "serverId" : "github",
+    "serverName" : "Server 2"
+  }
+]
