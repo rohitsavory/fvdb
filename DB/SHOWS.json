@@ -1,5 +1,16 @@
 [
 	{
+		"contentId": "cobrakai_en_hi",
+        "dateAdded": "12-01-2022-12:00:00 PM",
+        "provider": "nf",
+        "showArt": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ecc8908-608c-4564-8192-c947fe7edd0d.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+        "showGenre": "Action, Fiction",
+        "showImage": "https://www.binged.com/wp-content/uploads/2020/07/Cobra-Kai-Season-Web-Series-Is-Streaming-Online-Watch-on-Netflix-.jpg",
+        "showLang": "Hindi",
+        "showName": "Cobra Kai",
+        "showStory": "Thirty four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso."
+    },
+	{
 		"adult": true,
 		"contentId": "thewhistleblower_hi",
         "dateAdded": "28-12-2021-12:00:00 PM",
