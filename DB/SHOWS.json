@@ -1,5 +1,16 @@
 [
-	{
+    {
+        "contentId": "badlee_mr",
+        "dateAdded": "16-01-2022-12:12:12 PM",
+        "provider": "planetmarathi",
+        "showArt": "https://ik.imagekit.io/planetmarathi/pre-launch/pm-originals/badali/cards/badlee_16x9_DLR4KZTCE.jpg",
+        "showGenre": "Social",
+        "showImage": "https://ik.imagekit.io/planetmarathi/pre-launch/pm-originals/badali/cards/badlee_3x4_new_MVVy3vADn.jpg",
+        "showLang": "Marathi",
+        "showName": "Badlee",
+        "showStory": "A job transfer to a remote area forces a small-town teacher to reinvent himself, as he realizes the plight of the educational system in rural India."
+    },
+    {
         "adult": true,
         "contentId": "hotspotmatrimony",
         "dateAdded": "14-01-2022-12:12:12 PM",
@@ -11,7 +22,7 @@
         "showName": "Hotspot Matrimony",
         "showStory": "Ullu Web Series"
     },
-	{
+    {
         "adult": true,
         "contentId": "charmsukhtrain",
         "dateAdded": "14-01-2022-12:12:12 PM",
@@ -23,7 +34,7 @@
         "showName": "Charmsukh Train",
         "showStory": "Ullu Web Series"
     },
-	{
+    {
         "adult": true,
         "contentId": "palangtodgaonkigarmipart2",
         "dateAdded": "14-01-2022-12:12:12 PM",
@@ -35,8 +46,8 @@
         "showName": "Gaon Ki Garmi Part 2",
         "showStory": "Ullu Web Series"
     },
-	{
-		"contentId": "cobrakai_en_hi",
+    {
+        "contentId": "cobrakai_en_hi",
         "dateAdded": "12-01-2022-12:00:00 PM",
         "provider": "nf",
         "showArt": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ecc8908-608c-4564-8192-c947fe7edd0d.__CR0,0,970,600_PT0_SX970_V1___.jpg",
@@ -46,9 +57,9 @@
         "showName": "Cobra Kai",
         "showStory": "Thirty four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso."
     },
-	{
-		"adult": true,
-		"contentId": "thewhistleblower_hi",
+    {
+        "adult": true,
+        "contentId": "thewhistleblower_hi",
         "dateAdded": "28-12-2021-12:00:00 PM",
         "provider": "liv",
         "showArt": "https://resources.sonyliv.com/image/fetch/w_1349,c_fill,fl_lossy,f_auto,q_auto:eco,e_contrast:30,e_brightness:10/https://origin-staticv2.sonyliv.com/detail_cover_bg_mobile/Whistleblower_Newposter_Mobile_Detail_Coverbg.jpg",
@@ -58,9 +69,9 @@
         "showName": "The WhistleBlower",
         "showStory": "Sanket, an intern doctor studying at a government hospital discovers a massive medical entrance exam scam that has been running for years, lured by greed becomes a part of it, only to lose everything that his perfect life was made of. Now, determined to find his father’s killer, he turns into a whistleblower, unaware of how deep the rot runs."
     },
-	{
-		"adult": true,
-		"contentId": "robot_ullu",
+    {
+        "adult": true,
+        "contentId": "robot_ullu",
         "dateAdded": "27-12-2021-12:00:00 PM",
         "provider": "ullu",
         "showArt": "https://ullu2-files.ullu.app/media-metadata/61c4c094b4b28f0baaf44620",
@@ -70,9 +81,9 @@
         "showName": "ROBOT",
         "showStory": "Mr. Chadda, the cunning head of customs, confiscates a sex Robot imported from Bangkok and hides it at his junior Anand’s home. Anxious and inquisitive Anand opens the box and finds the semi-nude sex robot Rosy and his life takes an unexpected turn."
     },
-	{
-		"adult": true,
-		"contentId": "charmsukhtuitionteacher",
+    {
+        "adult": true,
+        "contentId": "charmsukhtuitionteacher",
         "dateAdded": "27-12-2021-12:00:00 PM",
         "provider": "ullu",
         "showArt": "https://ullu2-files.ullu.app/media-metadata/61c0cc3d09a5b90ba122ea20",
@@ -82,9 +93,9 @@
         "showName": "Tuition Teacher Charmsukh",
         "showStory": "Concerned about his son Shreyas's studies, Atharva hires a tuition teacher. Slowly Shreyas and the teacher build up a bond and he falls for her. On the other hand, Atharva is also seeing her secretly and Shreyas is left heartbroken when he sees her making out with his father."
     },
-	{
-		"adult": true,
-		"contentId": "anuradha_mr",
+    {
+        "adult": true,
+        "contentId": "anuradha_mr",
         "dateAdded": "27-12-2021-12:00:00 PM",
         "provider": "planetmarathi",
         "showArt": "https://ik.imagekit.io/planetmarathi/pre-launch/pm-originals/anuradha/cards/anuradha_16x9_c6ViDsTqO.jpg",
@@ -94,8 +105,8 @@
         "showName": "Anuradha",
         "showStory": "Anuradha is a naive but beautiful girl in her late 20s. Originally from Satara, she now lives alone in Mumbai & works for a marketing company. She is in a relationship with an ambitious lawyer, Shantanu. In a mysterious turn of events, a doppelganger commits murders and Anuradha gets dragged in as the prime suspect. Is Anuradha really the “man-eater” people consider her to be?"
     },
-	{
-		"contentId": "thewitcher_nf_hi_en",
+    {
+        "contentId": "thewitcher_nf_hi_en",
         "dateAdded": "20-12-2021-12:00:00 PM",
         "provider": "nf",
         "showArt": "https://static.digit.in/default/dccb5b8f6453a72efe4571c1956654f966e37552.jpeg?tr=w-1200",
@@ -105,8 +116,8 @@
         "showName": "The Witcher",
         "showStory": "The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts."
     },
-	{
-		"adult": true,
+    {
+        "adult": true,
         "contentId": "aaryahindi",
         "dateAdded": "18-12-2021-12:00:00 PM",
         "provider": "hs",
@@ -117,7 +128,7 @@
         "showName": "Aarya",
         "showStory": "A compelling story of a family, friends, foes and police in Indian drug industry. While one partner wants to get out, the others want a bigger slice of pie. In the chaos that ensues, its difficult to make out a friend from a foe. Can Aarya rise to the occasion?"
     },
-	{
+    {
         "contentId": "decoupled_nf_2021_hi",
         "dateAdded": "19-12-2021-11:00:00 PM",
         "provider": "nf",
@@ -128,7 +139,7 @@
         "showName": "Decoupled",
         "showStory": "A misanthropic writer and his startup-founder wife juggle their divorce with the absurdities and annoyances of life in their affluent world."
     },
-	{
+    {
         "contentId": "aranyak_hindi_2021",
         "dateAdded": "11-12-2021-12:00:00 PM",
         "provider": "nf",
@@ -139,8 +150,8 @@
         "showName": "Aranyak",
         "showStory": "Political ploys, personal agendas and the myth of a murderous entity all surface as two mismatched hill station police officers navigate a web of suspects after a puzzling murder."
     },
-	{
-		"adult": true,
+    {
+        "adult": true,
         "contentId": "insideedge_hi_show",
         "dateAdded": "04-12-2021-12:00:00 PM",
         "provider": "prime",
@@ -151,7 +162,7 @@
         "showName": "Inside Edge",
         "showStory": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League. Set in a landscape of conflicting interests, where selfishness is almost a virtue, where sex, money, and power are mere means to an end, Inside Edge is a story that pulls no punches, minces no words, and takes no prisoners. Come witness the game behind the game."
     },
-	{
+    {
         "contentId": "illegal_hi_show",
         "dateAdded": "27-11-2021-07:00:00 PM",
         "keywords": "Illegal,Illegal all seasons,Illegal Voot Select Originals TV Show,Illegal hd streaming,Illegal HD streaming online,web show Illegal online,watch Illegal online,Drama Illegal,Illegal Voot Select Show,Voot Select shows,Voot Select TV series,courtroom drama,illegal,neha sharma,new select series",
@@ -483,7 +494,7 @@
         "showStory": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
     },
     {
-		"adult": true,
+        "adult": true,
         "contentId": "moneyheist_multi",
         "dateAdded": "03-12-2021-12:12:12 PM",
         "provider": "nf",
