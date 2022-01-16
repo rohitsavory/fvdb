@@ -1,5 +1,17 @@
 [
     {
+		"adult": true,
+        "contentId": "human_hs",
+        "dateAdded": "16-01-2022-12:12:12 PM",
+        "provider": "hs",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1843/1101843-h-8fe5640fea8a",
+        "showGenre": "Thriller",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1540/1101540-v-24d739cdcc59",
+        "showLang": "Hindi",
+        "showName": "Human",
+        "showStory": "In the race to make the next money-spinning drug, saving lives takes a backseat and people become less than human. Step into the murky world of drug trials."
+    },
+	{
         "contentId": "badlee_mr",
         "dateAdded": "16-01-2022-12:12:12 PM",
         "provider": "planetmarathi",

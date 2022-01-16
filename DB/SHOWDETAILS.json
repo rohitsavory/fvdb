@@ -1,5 +1,27 @@
 [
 	{
+		"contentId": "human_hs",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1 to 5",
+						"epNo": 1,
+						"epUrl": "https://watchsb.com/vu5xcd321mc3.html",
+						"downloadUrl": "https://rocklinks.net/IgedM7L"
+					},
+					{
+						"epName": "Episode 6 to 10",
+						"epNo": 8,
+						"epUrl": "https://watchsb.com/rp8eegigus7i.html",
+						"downloadUrl": "https://rocklinks.net/RbCCJII"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "badlee_mr",
 		"seasons": [
 			{
