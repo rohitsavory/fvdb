@@ -1,6 +1,29 @@
 [
     {
 		"adult": true,
+		"contentId": "fatherhood_ullu",
+        "dateAdded": "16-01-2022-12:12:12 PM",
+        "provider": "ullu",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/6166ab1d8d5f0d0bbcca3eed",
+        "showGenre": "Emotional, Romantic",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/6166ab25b151770ba7ca10fd",
+        "showLang": "Hindi",
+        "showName": "Fatherhood",
+        "showStory": "Ullu Web Series"
+    },
+	{
+		"contentId": "yekaalikaaliankhen_nf",
+        "dateAdded": "16-01-2022-12:12:12 PM",
+        "provider": "nf",
+        "showArt": "https://occ-0-2368-2186.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd9a5MXKyYcL-k1jSUWk0jThcCT2WBs6_xvg8NR9YjQD_kbhBn0vVd1zyDYoGkVhIajCw_LTx5PsGZFEkWPD-NhAiZsiVEtGaePEwts0J_UNtO6JQfbrk5JvXIPUbcLJR6-Kz8ONt0o3GH__W-XEs3UAUyHuOaqwlDkIo9tO3MOxC3O7uUn-WZE.jpg?r=0ee",
+        "showGenre": "Emotional, Romantic",
+        "showImage": "https://bingeddata.s3.amazonaws.com/uploads/2022/01/Yeh-Kaali-Kaali-Ankhein-2.jpg",
+        "showLang": "Hindi",
+        "showName": "Ye Kaali Kaali Aankhein",
+        "showStory": "Relentlessly pursued by a powerful politician’s daughter who will do anything to make him hers, a man slips down a dark, risky path to reclaim his life."
+    },
+	{
+		"adult": true,
         "contentId": "human_hs",
         "dateAdded": "16-01-2022-12:12:12 PM",
         "provider": "hs",
