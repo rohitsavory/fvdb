@@ -3,78 +3,84 @@
 		"id": "nf",
 		"name": "Netflix",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/netflix_logo.jpg"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/netflix_logo.jpg"
 	},
 	{
 		"id": "prime",
 		"name": "Prime Video",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/primevideo_logo.jpg"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/primevideo_logo.jpg"
+	},
+	{
+		"id": "sunnxt",
+		"name": "SunNXT",
+		"adult": false,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sunnxt_logo.png"
 	},
 	{
 		"id": "jiocinema",
 		"name": "JioCinema",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/jiocinema_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/jiocinema_logo.png"
 	},
 	{
 		"id": "hs",
 		"name": "Hotstar",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/hotstar_logo.jpg"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/hotstar_logo.jpg"
 	},
 	{
 		"id": "planetmarathi",
 		"name": "Planet Marathi",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/planetmarathi.webp"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/planetmarathi.webp"
 	},
 	{
 		"id": "aha",
 		"name": "Aha",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/aha_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/aha_logo.png"
 	},
 	{
 		"id": "z5",
 		"name": "Zee5",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/zee5_logo.jpeg"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/zee5_logo.jpeg"
 	},
 	{
 		"id": "liv",
 		"name": "Sony LIV",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/sonyliv_logo.webp"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sonyliv_logo.webp"
 	},
 	{
 		"id": "mx",
 		"name": "MX Player",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/mxplayer_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/mxplayer_logo.png"
 	},
 	{
 		"id": "voot",
 		"name": "Voot",
 		"adult": false,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/voot_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/voot_logo.png"
 	},
 	{
 		"id": "altb",
 		"name": "ALT Balaji",
 		"adult": true,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/alt_balaji_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/alt_balaji_logo.png"
 	},
 	{
 		"id": "ullu",
 		"name": "ULLU",
 		"adult": true,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/ullu_logo.jpg"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/ullu_logo.jpg"
 	},
 	{
 		"id": "kooku",
 		"name": "Kooku",
 		"adult": true,
-		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/kooku_logo.png"
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/kooku_logo.png"
 	}
 ]
