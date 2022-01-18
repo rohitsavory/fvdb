@@ -12,6 +12,12 @@
 		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/primevideo_logo.jpg"
 	},
 	{
+		"id": "jiocinema",
+		"name": "JioCinema",
+		"adult": false,
+		"icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/jiocinema_logo.png"
+	},
+	{
 		"id": "hs",
 		"name": "Hotstar",
 		"adult": false,
