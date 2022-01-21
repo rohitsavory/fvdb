@@ -12,34 +12,10 @@
 		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/primevideo_logo.jpg"
 	},
 	{
-		"id": "sunnxt",
-		"name": "SunNXT",
-		"adult": false,
-		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sunnxt_logo.png"
-	},
-	{
-		"id": "jiocinema",
-		"name": "JioCinema",
-		"adult": false,
-		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/jiocinema_logo.png"
-	},
-	{
 		"id": "hs",
 		"name": "Hotstar",
 		"adult": false,
 		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/hotstar_logo.jpg"
-	},
-	{
-		"id": "planetmarathi",
-		"name": "Planet Marathi",
-		"adult": false,
-		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/planetmarathi.webp"
-	},
-	{
-		"id": "aha",
-		"name": "Aha",
-		"adult": false,
-		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/aha_logo.png"
 	},
 	{
 		"id": "z5",
@@ -52,6 +28,30 @@
 		"name": "Sony LIV",
 		"adult": false,
 		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sonyliv_logo.webp"
+	},
+	{
+		"id": "sunnxt",
+		"name": "SunNXT",
+		"adult": false,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sunnxt_logo.png"
+	},
+	{
+		"id": "jiocinema",
+		"name": "JioCinema",
+		"adult": false,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/jiocinema_logo.png"
+	},
+	{
+		"id": "planetmarathi",
+		"name": "Planet Marathi",
+		"adult": false,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/planetmarathi.webp"
+	},
+	{
+		"id": "aha",
+		"name": "Aha",
+		"adult": false,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/aha_logo.png"
 	},
 	{
 		"id": "mx",
