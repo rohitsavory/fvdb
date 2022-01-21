@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "akhanda_te",
+        "dateAdded": "21-01-2022-10:30:00 PM",
+		"downloadUrl": "https://rocklinks.net/uI1R",
+        "movieArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3982/1103982-h-d3d5988aa315",
+        "movieGenre": "Drama, Fantasy",
+        "movieImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4168/1104168-v-ba2198deb8fd",
+        "movieLang": "Telugu",
+        "movieName": "Akhanda",
+        "moviePrime": "Free",
+        "movieStory": "Akhanda is a strong fierce devotee of Lord Shiva, who stands tall against evildoers.",
+		"movieUrl": "https://viewsb.com/b0trlddz7gyk.html",
+        "tmdb": "794961-bb3",
+		"provider": "hs"
+    },
+	{
 		"adult": true,
         "contentId": "churuli_multi",
         "dateAdded": "21-01-2022-06:40:00 PM",
@@ -832,20 +847,6 @@
         "movieUrl": "https://m-storagellnw-j2apps.s.llnwi.net/content/2a8257e15deb5b34639be0ad1d1a83b6/dash/h264_baseline.mpd",
 		"drmLicense": "https://playlicense.mxplay.com/widevine/proxy?content_id=2a8257e15deb5b34639be0ad1d1a83b6",
         "provider": "sun"
-    },
-	{
-        "contentId": "akhanda_telugu",
-        "dateAdded": "12-12-2021-08:50:51 PM",
-        "downloadUrl": "https://rocklinks.net/U704CUkF",
-        "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/akhanda-et00132847-19-04-2021-03-07-21.jpg",
-        "movieGenre": "Action, Drama",
-        "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/akhanda-et00132847-19-04-2021-03-07-21.jpg",
-        "movieLang": "Telugu",
-        "movieName": "Akhanda",
-        "moviePrime": "Free",
-        "movieStory": "Balakrishna plays a fierce devotee of Lord Shiva, who stands tall against evildoers.",
-        "movieUrl": "https://jiorockerss.art/files/Telugu%20Movies/Telugu%202021%20Movies/Akhanda%20(2021)%20Telugu%20HQ%20PreDVD/Akhanda%20Telugu%20HQ%20PreDVD%20Single%20Part/Akhanda%20(2021)%20Telugu%20HQ%20PreDVD%20Single%20Part.mp4",
-        "provider": ""
     },
 	{
         "contentId": "bobbiswas",
