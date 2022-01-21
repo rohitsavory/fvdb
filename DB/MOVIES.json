@@ -1,5 +1,21 @@
 [
 	{
+		"adult": true,
+        "contentId": "churuli_multi",
+        "dateAdded": "21-01-2022-06:40:00 PM",
+		"downloadUrl": "https://rocklinks.net/7AkD",
+        "movieArt": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/Churuli_181121_Landscape_Thumb.jpg",
+        "movieGenre": "Mystery, Sci-Fi",
+        "movieImage": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Churuli_9dec_PORTRAITE_THUMB_Multilang.jpg",
+        "movieLang": "Malayalam, Hindi, Tamil, Telugu, Kannada",
+        "movieName": "Churuli",
+        "moviePrime": "Free",
+        "movieStory": "Two undercover police officers go in search of a wanted criminal and get stuck in the village of Churuli.",
+		"movieUrl": "https://viewsb.com/jjf062pz608n.html",
+        "tmdb": "721636",
+		"provider": "liv"
+    },
+	{
         "contentId": "shyamsingharoy_multi",
         "dateAdded": "21-01-2022-12:30:00 PM",
 		"downloadUrl": "https://rocklinks.net/d7Ks",
@@ -16,7 +32,7 @@
     },
 	{
         "contentId": "jhimma_mr",
-        "dateAdded": "21-11-2022-12:00:00 PM",
+        "dateAdded": "21-01-2022-12:00:00 PM",
 		"downloadUrl": "https://rocklinks.net/TvSz0",
         "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jhimma-et00308384-17-11-2021-01-06-54.jpg",
         "movieGenre": "Drama",
@@ -31,7 +47,7 @@
     },
 	{
         "contentId": "boyz2_mr",
-        "dateAdded": "17-11-2022",
+        "dateAdded": "17-01-2022-01:00:00 AM",
 		"downloadUrl": "https://rocklinks.net/FMV41Ge",
         "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxuUfh2YFXJo_rKkm5_YkoK8lfEdK1ZBB_VQ&usqp=CAU",
         "movieGenre": "Comedy, Drama",
