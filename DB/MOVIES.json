@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "jhimma_mr",
+        "dateAdded": "21-11-2022-12:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/TvSz0",
+        "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jhimma-et00308384-17-11-2021-01-06-54.jpg",
+        "movieGenre": "Drama",
+        "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/jhimma-et00308384-17-11-2021-01-06-54.jpg",
+        "movieLang": "Marathi",
+        "movieName": "Jhimma",
+        "moviePrime": "Free",
+        "movieStory": "Seven women from entirely different backgrounds embark on a trip to the United Kingdom.",
+		"movieUrl": "https://viewsb.com/8l6qaut4y13m.html",
+        "tmdb": "904137",
+		"provider": "prime"
+    },
+	{
         "contentId": "boyz2_mr",
         "dateAdded": "17-11-2022",
 		"downloadUrl": "https://rocklinks.net/FMV41Ge",
