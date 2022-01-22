@@ -1,5 +1,34 @@
 [
 	{
+        "contentId": "atkanchatkan",
+        "dateAdded": "22-01-2022-11:30:00 PM",
+		"downloadUrl": "https://rocklinks.net/SOYrD",
+        "movieArt": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Atkan-Chatkan-Movie-Review.jpg",
+        "movieGenre": "Drama, Musical",
+        "movieImage": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Atkan-Chatkan-Hindi-Movie-Review.jpg",
+        "movieLang": "Hindi",
+        "movieName": "Atkan Chatkan",
+        "moviePrime": "Free",
+        "movieStory": "It is the story of a gifted kid Guddu, who along with his street kid friends, forms a band to win a prestigious musical competition without using conventional instruments and unites his separated musician parents.",
+        "movieUrl": "https://viewsb.com/6kjgqw1ydswv.html",
+        "tmdb": "739812",
+		"provider": "z5"
+    },
+	{
+        "contentId": "avpl",
+        "dateAdded": "09-03-2021-12:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/DOmpC9Db",
+        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRP5jvBsROBxF1-w0NIWGnDHDal5dzUE6XZWg&usqp=CAU",
+        "movieGenre": "Action, Comedy, Drama, Adventure",
+        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9z22mm3s2J84xaSjZabZKg1vyCkvJcqBOZw&usqp=CAU",
+        "movieLang": "Telugu",
+        "movieName": "Ala Vaikunthapurramuloo",
+        "moviePrime": "Free",
+        "movieStory": "Bantu grows up being constantly subjected to his father's scorn. However, when he learns of his real parentage, he decides to carve a place for himself within the family he truly belongs to.",
+        "movieUrl": "https://viewsb.com/wtbq9d410653.html",
+		"provider": "nf"
+    },
+	{
 		"contentId": "akhanda_te",
         "dateAdded": "21-01-2022-10:30:00 PM",
 		"downloadUrl": "https://rocklinks.net/uI1R",
@@ -2250,20 +2279,6 @@
         "Views": 8
     },
     {
-        "contentId": "Atkan Chatkan",
-        "dateAdded": "29-11-2020",
-        "movieArt": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Atkan-Chatkan-Movie-Review.jpg",
-        "movieGenre": "Drama, Musical",
-        "movieImage": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Atkan-Chatkan-Hindi-Movie-Review.jpg",
-        "movieLang": "Hindi",
-        "movieName": "Atkan Chatkan",
-        "moviePrime": "Free",
-        "movieStory": "It is the story of a gifted kid Guddu, who along with his street kid friends, forms a band to win a prestigious musical competition without using conventional instruments and unites his separated musician parents.",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINAL_CONTENT_BRO/DOMESTIC/HINDI/ATKAN_CHATKAN_HINDI_MOVIE_HINDI_MOVIE_BRO_ABHAY_SEASON2_CROSS_PROMO_hi_54609b31564d5eb16dc6265603a3d635/index.m3u8",
-        "tmdb": "739812",
-        "Views": 12
-    },
-    {
         "contentId": "Baaghi 3",
         "dateAdded": "24-05-2021-07:00:00 PM",
         "downloadUrl": "https://droplink.co/ZpgHTm",
@@ -4414,19 +4429,6 @@
         "movieStory": "A smart and witty police officer attempts to unravel the mystery behind the lost hidden treasure in Amaravati. However, he must battle the dangerous clan of dacoits and a fierce leader on his way.",
         "sdServer": "http://srv90.ptvcdn.top/api/aws/media.php?srv2/Pocket%20TV%20-%20ATHADE%20SRIMANNARAYANA%20%282019%29%20Telugu%20%28Org%20Vers%29%20HDRip%20-%20700MB%20-%20x264%20-%20MP3%20-%20ESub.mkv",
         "Views": 4
-    },
-    {
-        "contentId": "avpl",
-        "dateAdded": "09-03-2021-12:00:00 PM",
-        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRP5jvBsROBxF1-w0NIWGnDHDal5dzUE6XZWg&usqp=CAU",
-        "movieGenre": "Action, Comedy, Drama, Adventure",
-        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9z22mm3s2J84xaSjZabZKg1vyCkvJcqBOZw&usqp=CAU",
-        "movieLang": "Telugu",
-        "movieName": "Ala Vaikunthapurramuloo",
-        "moviePrime": "Free",
-        "movieStory": "Bantu grows up being constantly subjected to his father's scorn. However, when he learns of his real parentage, he decides to carve a place for himself within the family he truly belongs to.",
-        "movieUrl": "https://sbembed1.com/uwles3jucone.html",
-        "Views": 89
     },
     {
         "contentId": "baaghi_hi_movie",
