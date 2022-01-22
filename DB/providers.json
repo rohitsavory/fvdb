@@ -78,6 +78,12 @@
 		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/ullu_logo.jpg"
 	},
 	{
+		"id": "hotmx",
+		"name": "HotMX",
+		"adult": true,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/hotmx_logo.webp"
+	},
+	{
 		"id": "kooku",
 		"name": "Kooku",
 		"adult": true,
