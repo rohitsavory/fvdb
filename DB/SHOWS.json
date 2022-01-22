@@ -1,5 +1,16 @@
 [
     {
+		"contentId": "unpaused_nayasafar",
+        "dateAdded": "22-01-2022-10:50:12 PM",
+        "provider": "prime",
+        "showArt": "https://bingeddata.s3.amazonaws.com/uploads/2022/01/Unpaused-Naya-Safar-Review-Amazon-Prime-Video.jpg",
+        "showGenre": "Drama",
+        "showImage": "https://bingeddata.s3.amazonaws.com/uploads/2022/01/Unpaused-Naya-Safar-Review-Rating.jpg",
+        "showLang": "Hindi",
+        "showName": "Unpaused: Naya Safar",
+        "showStory": "Unpaused: Naya Safar continues to takes the legacy of the first anthology forward and yet again brings together 5 unique filmmakers - Nupur Asthana, Ayappa KM, Ruchir Arun, Shikha Makan and Nagraj Manjule - with new stories of hope, love, connections and second chances that celebrate the resilient human spirit in these uncertain times."
+    },
+	{
 		"adult": true,
 		"contentId": "gaachi_ullu",
         "dateAdded": "21-01-2022-11:00:12 PM",
