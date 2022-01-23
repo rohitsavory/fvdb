@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "comedycouple",
+        "dateAdded": "23-01-2022-11:30:00 AM",
+		"downloadUrl": "https://rocklinks.net/ZePkQRN",
+        "movieArt": "https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-0-213623/list/1170x658withlog_1151441018.jpg",
+        "movieGenre": "Comedy, Romance",
+        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28DN3dkiYxI6oCne70AJnGN_9UYoqhalEMQ&usqp=CAU",
+        "movieLang": "Hindi",
+        "movieName": "Comedy Couple",
+        "moviePrime": "Free",
+        "movieStory": "Comedy Couple is a ZEE5 Original film, starring Saqib Saleem, Shweta Basu Prasad, Pooja Bedi, and Aadar Malik. The movie revolves around the lives of Zoya and Deep–a stand-up comedy duo and real-life lovers. They are a laugh-riot on stage with their sharp and witty take on a variety of issues like relationship problems while grappling with them off-stage.",
+        "movieUrl": "https://viewsb.com/3wlhger4yupz.html",
+        "tmdb": "748027",
+        "provider": "z5"
+    },
+	{
         "contentId": "atkanchatkan",
         "dateAdded": "22-01-2022-11:30:00 PM",
 		"downloadUrl": "https://rocklinks.net/SOYrD",
@@ -2348,32 +2363,6 @@
         "Views": 4
     },
     {
-        "contentId": "Boyz",
-        "dateAdded": "25-11-2020",
-        "movieArt": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-0-movie_1656777896/list/1170x658withlog_1290006252.jpg",
-        "movieGenre": "Drama, Comedy",
-        "movieImage": "https://akamaividz1.zee5.com/resources/0-0-movie_1656777896/cover/270x405/1920x770_841456194.jpg",
-        "movieLang": "Marathi",
-        "movieName": "Boyz",
-        "movieStory": "Boyz is a 2017 Marathi dramedy film starring Sumant Shinde, Pratik Lad, Parth Bhalerao and Shilpa Tulaskar. This heartfelt coming-of-age story is about family, friendships and accepting life’s inconsistencies. Kabir, a young boy raised by a single mother, constantly looks for answers regarding his father. Things take a turn when he is sent to a boarding school and develops an unlikely friendship with Dhairya and Dhungya, two mischievous village boys. The trio sticks together through thick and thin and helps each other evolve.",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls/PRIORITY1080/MARATHI_MOVIE/BOYZ_ZEE_MARATHI_HD.mp4/index.m3u8",
-        "tmdb": "553778",
-        "Views": 18
-    },
-    {
-        "contentId": "Cheater",
-        "dateAdded": "24-12-2020-10:00:09 PM",
-        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFBCFtPYRNFlhG9MIjHO4b_XRPV-vsaZLYg&usqp=CAU",
-        "movieGenre": "Drama, Comedy",
-        "movieImage": "https://akamaividz1.zee5.com/resources/0-0-7584/cover/270x405/007584_cover_1865697842.jpg",
-        "movieLang": "Marathi",
-        "movieName": "Cheater",
-        "moviePrime": "Prime",
-        "movieStory": "Cheater is a 2016 Marathi horror comedy film starring Vaibhav Tatwawdi and Pooja Sawant. Abhay Agnihotri, a liar and cheater, belongs to the family of Agnihotri pandits of Pune. Abhay's rich girlfriend, Mrudula, invites him to Mauritius to help her father get rid of the spirit that haunts his new house. Abhay travels to Mauritius posing to be an exorcist but soon realises that his worst nightmare has come true.",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls/PRIORITY1080/MARATHI_MOVIE/CHEATER_mr.mp4/index.m3u8",
-        "Views": 2
-    },
-    {
         "contentId": "Chennai Central (Hindi Dubbed)",
         "dateAdded": "30-10-2020",
         "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdgWwa3UxYXO_GrDql2sOak2BrI9f3PjmTNQ&usqp=CAU",
@@ -2443,20 +2432,6 @@
         "sdServer": "http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+COLOUR+PHOTO+(2020)+Telugu+HDRip+-+700MB+-+x264+-+MP3+-+ESub.mkv",
         "tmdb": "690565",
         "Views": 63
-    },
-    {
-        "contentId": "Comedy Couple",
-        "dateAdded": "08-12-2020",
-        "movieArt": "https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-0-213623/list/1170x658withlog_1151441018.jpg",
-        "movieGenre": "Comedy, Romance",
-        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28DN3dkiYxI6oCne70AJnGN_9UYoqhalEMQ&usqp=CAU",
-        "movieLang": "Hindi",
-        "movieName": "Comedy Couple",
-        "moviePrime": "Free",
-        "movieStory": "Comedy Couple is a ZEE5 Original film, starring Saqib Saleem, Shweta Basu Prasad, Pooja Bedi, and Aadar Malik. The movie revolves around the lives of Zoya and Deep–a stand-up comedy duo and real-life lovers. They are a laugh-riot on stage with their sharp and witty take on a variety of issues like relationship problems while grappling with them off-stage.",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/KHAALI_PEELI_MAIN_CROSS_PROMO/COMEDY_COUPLE_HINDI_MOVIE_KHAALI_PEELI_MAIN_CROSS_PROMO_hi_a3d8743e9e440e5d01a06062e9146ded/index.m3u8",
-        "tmdb": "748027",
-        "Views": 6
     },
     {
         "contentId": "Coolie No 1",
