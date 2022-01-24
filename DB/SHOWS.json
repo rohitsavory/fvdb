@@ -1,6 +1,18 @@
 [
     {
 		"adult": true,
+		"contentId": "search_bn",
+        "dateAdded": "24-01-2022-11:20:12 PM",
+        "provider": "klikk",
+        "showArt": "https://www.klikk.tv/uploads/IMG1642871223.png",
+        "showGenre": "Thriller, Crime",
+        "showImage": "https://www.klikk.tv/uploads/sh/IMG1642772489.jpg",
+        "showLang": "Bengali",
+        "showName": "Search",
+        "showStory": "Jeena and Manta, two twins, two identities, one story. Manta recurs on a drug racket after stealing intoxicant drugs from Jacky Bhai, a notorious gangster. She seeks shelter in Jeena's father-in-law's house in Kalimpong. The investigation of this cold case goes through inexplicable turn of events. Watch "SEARCH" to find out what happens next."
+    },
+	{
+		"adult": true,
 		"contentId": "lifeinsurance_hotmx",
         "dateAdded": "22-01-2022-11:20:12 PM",
         "provider": "hotmx",
