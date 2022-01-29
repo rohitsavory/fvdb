@@ -1,6 +1,18 @@
 [
 	{
 		"adult": true,
+		"contentId": "allofusaredead_dual",
+        "dateAdded": "29-01-2022-02:50:12 PM",
+        "provider": "nf",
+        "showArt": "https://occ-0-2368-2186.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYlb2a4agu2arNjrmWAxT8tRA6xGmk0eRRR98-X4ajnSBIL5kSfbUfVuBp3c0TQjmpHwYjQf3RZyRuxZeAE2fMsbaJ4jw0u1r81BDFVRlz_8nca8smCg8tzKrl4S.jpg?r=7ec",
+        "showGenre": "Action, Drama, Fantasy",
+        "showImage": "https://i.imgur.com/J8onXae.jpg",
+        "showLang": "Hindi, English",
+        "showName": "All of Us Are Dead",
+        "showStory": "Inside Lee Byeong-chan's science lab, a student incurs a seemingly harmless bite. Shortly after, a fast-spreading outbreak soaks the school in blood."
+    },
+	{
+		"adult": true,
 		"contentId": "gaachi2_ullu",
         "dateAdded": "28-01-2022-01:00:12 PM",
         "provider": "ullu",
@@ -11,6 +23,7 @@
         "showName": "Gaachi (Part 2)",
         "showStory": "In order to be independent and break free from the conservative society, Shalini, Divya, Maya, and Ratna were on a journey to discover freedom and happiness. They courageously raised their voices and refused to be victims of male chauvinism and marital abuse anymore. But destiny had some other plans for them."
     },
+	
 	{
 		"adult": true,
 		"contentId": "hotspotmailtrail_ullu",
