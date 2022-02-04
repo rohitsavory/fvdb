@@ -1,5 +1,27 @@
 [
 	{
+		"contentId": "thegreatindianmurder_hindi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1 to 5",
+						"epNo": 1,
+						"epUrl": "https://dood.so/d/4jb8u9diyrk7",
+						"downloadUrl": "https://rocklinks.net/indl5f"
+					},
+					{
+						"epName": "Episode 6 to 9",
+						"epNo": 2,
+						"epUrl": "https://dood.so/d/auzq3ash0h8b",
+						"downloadUrl": "https://rocklinks.net/2Lvg"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "allofusaredead_dual",
 		"seasons": [
 			{
