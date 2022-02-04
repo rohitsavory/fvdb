@@ -1,5 +1,17 @@
 [
 	{
+		"adult": true,
+		"contentId": "palangtoddamaadji",
+        "dateAdded": "04-02-2022-09:00:12 PM",
+        "provider": "ullu",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/61fc201f0b0d720baae7feb9",
+        "showGenre": "Action, Drama, Fantasy",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/61fb7a76f0c9ee0bd2dd88cf",
+        "showLang": "Hindi",
+        "showName": "Palang Tod Damaad Ji",
+        "showStory": "Mohan had to sit at home for a few days due to an injury caused by a minor accident. Since his wife Kumud also works, she invites her mother Ranjana to take care of Mohan, but while doing so, Ranjana gets close to Mohan, and her craving for him leads them to the path of distracting the meaning of relationships."
+    },
+	{
 		"contentId": "thegreatindianmurder_hindi",
         "dateAdded": "04-02-2022-07:00:12 PM",
         "provider": "hs",
