@@ -1,6 +1,18 @@
 [
 	{
 		"adult": true,
+		"contentId": "favoriteteacher_hotmx",
+        "dateAdded": "05-02-2022-09:00:12 PM",
+        "provider": "hotmx",
+        "showArt": "https://fs1.extraimage.org/2022/01/21/F3VTS-13e2903f92a82240ee.jpg",
+        "showGenre": "Action, Drama, Fantasy",
+        "showImage": "https://filmyzilla.directory/files/images/Favorite_Teacher_(2022)_HotMX_Original.jpg",
+        "showLang": "Hindi",
+        "showName": "Favorite Teacher",
+        "showStory": "HOTMX Web Series"
+    },
+	{
+		"adult": true,
 		"contentId": "palangtoddamaadji",
         "dateAdded": "04-02-2022-09:00:12 PM",
         "provider": "ullu",
