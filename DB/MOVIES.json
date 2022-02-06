@@ -1,5 +1,19 @@
 [
 	{
+        "contentId": "ghoomketu_hi",
+        "dateAdded": "05-02-2022-11:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/XkEzjvwa",
+        "movieArt": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-0-159148/list/1170x658withlog_2095628502.jpg",
+        "movieGenre": "Comedy",
+        "movieImage": "https://bingeddata.s3.amazonaws.com/uploads/2020/05/Ghoomketu-zee5-Movie-Review-1-1.jpg",
+        "movieLang": "Hindi",
+        "movieName": "Ghoomketu",
+        "moviePrime": "Free",
+        "movieStory": "Ghoomketu is the story of an aspiring writer from a UP village called Mahona. He has run away to Mumbai, to try his luck in films and gives himself 30 days to try and prove his worth as a Bollywood writer. Apart from UP, he is also carrying a special guide, called “How to be a Bollywood writer in 30 days” with him.",
+        "movieUrl": "https://viewsb.com/n0k3s4bxrwhh.html",
+        "provider": "z5"
+    },
+	{
         "contentId": "ai_2015_hindi",
         "dateAdded": "05-02-2022-11:40:47 PM",
 		"downloadUrl": "https://rocklinks.net/QX9M9V",
@@ -2909,30 +2923,17 @@
         "provider": "prime"
     },
     {
-        "contentId": "Geetha Govindam",
-        "dateAdded": "30-11-2020",
+        "contentId": "geethagovindam_dual",
+        "dateAdded": "06-02-2022-01:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/vVp8wo",
         "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56KalpMMcUw0QoKBjXI6nqd_YP10-Y_OVNA&usqp=CAU",
         "movieGenre": "Drama, Comedy",
         "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz48At2oSgBihk8SJ6162eOrZT0sujYxkJ2w&usqp=CAU",
-        "movieLang": "Telugu",
+        "movieLang": "Telugu, Hindi",
         "movieName": "Geetha Govindam",
         "moviePrime": "Free",
         "movieStory": "The story revolves around Vijay (Vijay Deverakonda) who falls in love with Geetha (Rashmika Mandanna) and does everything that he can do to impress her. Unfortunately, Geetha does not believe in his love and considers him to be an irresponsible person, who's always behind every woman. In the meanwhile, Vijay's sister gets engaged to Geetha's brother, making the story all the more intersting! Will Vijay be able to prove his love to Geetha and impress her? Will Geetha accept Vijay's love?",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls/PRIORITY1080/TELUGU_MOVIES/GEETHA_GOVINDAM_TELUGU_MOVIE_te.mp4/index.m3u8",
-        "Views": 24
-    },
-    {
-        "contentId": "Ghoomketu",
-        "dateAdded": "29-11-2021-12:00:00 PM",
-		"downloadUrl": "https://rocklinks.net/XkEzjvwa",
-        "movieArt": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-0-159148/list/1170x658withlog_2095628502.jpg",
-        "movieGenre": "Comedy",
-        "movieImage": "https://bingeddata.s3.amazonaws.com/uploads/2020/05/Ghoomketu-zee5-Movie-Review-1-1.jpg",
-        "movieLang": "Hindi",
-        "movieName": "Ghoomketu",
-        "moviePrime": "Free",
-        "movieStory": "Ghoomketu is the story of an aspiring writer from a UP village called Mahona. He has run away to Mumbai, to try his luck in films and gives himself 30 days to try and prove his worth as a Bollywood writer. Apart from UP, he is also carrying a special guide, called “How to be a Bollywood writer in 30 days” with him.",
-        "movieUrl": "https://viewsb.com/n0k3s4bxrwhh.html",
+        "movieUrl": "https://viewsb.com/siaq8vwh8id5.html",
         "provider": "z5"
     },
     {
