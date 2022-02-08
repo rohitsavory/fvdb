@@ -1,6 +1,18 @@
 [
 	{
 		"adult": true,
+		"contentId": "ferrous_ullu",
+        "dateAdded": "08-02-2022-07:30:12 PM",
+        "provider": "ullu",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62016586e565170be05a3462",
+        "showGenre": "Suspense, Thriller, Drama",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/6201094a1598fb0bca674d75",
+        "showLang": "Hindi",
+        "showName": "Ferrous",
+        "showStory": "A politician hires an assassin to hide a dead body. Who, in the process, comes across various obstacles and ends up killing more people. When the truth comes out, the politician turns his back on the assassin and tries to kill him to clear his name, but finds out that he underestimated the assassin."
+    },
+	{
+		"adult": true,
 		"contentId": "favoriteteacher_hotmx",
         "dateAdded": "05-02-2022-09:00:12 PM",
         "provider": "hotmx",
