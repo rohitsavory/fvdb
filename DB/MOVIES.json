@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "colourphoto_2020_hi_te",
+        "dateAdded": "30-04-2021-12:00:00 AM",
+        "downloadUrl": "https://rocklinks.net/thK8b7kS",
+        "movieArt": "https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/2020/10/23/1603447187552_2watchcolourphoto1920x1080_16x9Images.jpg",
+        "movieGenre": "Drama",
+        "movieImage": "https://static.toiimg.com/thumb/msid-74188411,width-219,height-317,imgsize-41841/74188411.jpg",
+        "movieLang": "Telugu, Hindi",
+        "movieName": "Colour Photo",
+        "moviePrime": "Free",
+        "movieStory": "Jayakrishna is a dark-skinned guy who falls head over heels on Deepu but keeps his feelings to himself. As time passes by, a gang in his college beats him up and this issue brings Deepu closer to him. Slowly the friendship turns into love and this does not go well with Deepu's brother Rama Raju.",
+        "movieUrl": "https://viewsb.com/b5gky4exfk3i.html",
+        "tmdb": "690565",
+        "provider": "aha"
+    },
+	{
         "contentId": "lovestory_hi_te",
         "dateAdded": "14-02-2022-04:30:00 PM",
 		"downloadUrl": "https://rocklinks.net/tL7aMh",
@@ -2952,21 +2967,6 @@
         "movieUrl": "https://macro.hlssrv.com/hls_serve/ngB7XexDJ7ywFGqP1R9VNg/1602541885/69EjCy4XEui70sASogzy/pl2.m3u8",
         "tmdb": "730428",
         "Views": 30
-    },
-    {
-        "contentId": "Colour Photo",
-        "dateAdded": "30-04-2021-12:00:00 AM",
-        "hdServer": "http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+COLOUR+PHOTO+(2020)+Telugu+HDRip+-+720p+-+x264+-+AAC+-+1.4GB+-+ESub.mkv",
-        "movieArt": "https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/2020/10/23/1603447187552_2watchcolourphoto1920x1080_16x9Images.jpg",
-        "movieGenre": "Drama",
-        "movieImage": "https://static.toiimg.com/thumb/msid-74188411,width-219,height-317,imgsize-41841/74188411.jpg",
-        "movieLang": "Telugu",
-        "movieName": "Colour Photo",
-        "moviePrime": "Free",
-        "movieStory": "Jayakrishna is a dark-skinned guy who falls head over heels on Deepu but keeps his feelings to himself. As time passes by, a gang in his college beats him up and this issue brings Deepu closer to him. Slowly the friendship turns into love and this does not go well with Deepu's brother Rama Raju.",
-        "sdServer": "http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+COLOUR+PHOTO+(2020)+Telugu+HDRip+-+700MB+-+x264+-+MP3+-+ESub.mkv",
-        "tmdb": "690565",
-        "Views": 63
     },
     {
         "contentId": "Coolie No 1",
