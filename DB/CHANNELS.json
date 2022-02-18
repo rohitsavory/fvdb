@@ -1,4 +1,13 @@
 [
+	{
+        "channelCat": "Movies",
+        "channelLang": "Hindi",
+        "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053",
+        "channelName": "Dhinchaak",
+		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000935&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA2OTE5MDM1IiwiaXNlIjp0cnVlLCJqdGkiOiI1MWQ0Y2Y5MC04NWY4LTRlZjItOTMyYS0yZDRhOWQ0YjgzNTgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjcwMjM1LCJuYW1lIjoiU2V0aHlhIFIiLCJpYXQiOjE2NDUxODM4MzUsImVudCI6W3siYmlkIjoxMDAwMDAxMzY4LCJlcGlkIjoiU3Vic2NyaXB0aW9uX01vYmlsZV9TdHJlYW1pbmcifV0sImlzcyI6IlRUTiJ9.2X32BSDHZE1gtr5_j5IAyBxEkAi5FVr7PTz-8uF0zlk",
+        "channelUrl": "https://delta13tatasky.akamaized.net/out/i/2649885.mpd",
+        "contentId": "dhinchaak"
+    },
     {
         "channelCat": "News",
         "channelLang": "Kannada",
