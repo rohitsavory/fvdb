@@ -1759,7 +1759,8 @@
         "channelLang": "English",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
         "channelName": "Star Sports 2 HD",
-        "channelUrl": "http://103.153.39.36:8000/play/a024",
+        "channelUrl": "https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
+		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000250&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA2OTE5MDM1IiwiaXNlIjp0cnVlLCJqdGkiOiI2MjQxMmIwNC00YWU3LTQwMWItYjBkNS00NThmM2MyYjc5ZDAiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjcwMjM1LCJuYW1lIjoiU2V0aHlhIFIiLCJpYXQiOjE2NDUxODM4MzUsImVudCI6W3siYmlkIjoxMDAwMDAxMjI3LCJlcGlkIjoiU3Vic2NyaXB0aW9uX01vYmlsZV9TdHJlYW1pbmcifV0sImlzcyI6IlRUTiJ9.hb-m-YiQGoZ5qcqlqEYwpSRWy5p3feSXcYIOtOqQoV0",
         "contentId": "ss2hd"
     },
 	
