@@ -1,6 +1,30 @@
 [
 	{
 		"adult": true,
+		"contentId": "charmsukhmajboori",
+        "dateAdded": "18-02-2022-11:45:12 PM",
+        "provider": "ullu",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/620e44db5790e70b9033ded6",
+        "showGenre": "Drama, Erotic",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/620e44ea96112f0c28aa8d49",
+        "showLang": "Hindi",
+        "showName": "Charmsukh Majboori",
+        "showStory": "Sayama is a single mother with a 19-year-old daughter, Zara. In hope of a new life and a bright future, Sayama gets married to a divorced rich man, Rehman. But Rehman has his eyes set on her stepdaughter, Zara. He tries to impress her with expensive gifts. But Zara is not as innocent as she looks."
+    },
+	{
+		"adult": true,
+		"contentId": "mithya_zee5",
+        "dateAdded": "18-02-2022-11:40:12 PM",
+        "provider": "z5",
+        "showArt": "https://akamaividz2.zee5.com/image/upload/w_1280,h_720,c_scale,f_webp,q_auto:eco/resources/0-6-4z587408/list/1170x658withlogo411fb37d69e64b628718b1e1a491a7fb2b397b2b81a4405699c782af20993c8f.jpg",
+        "showGenre": "Drama, Thriller",
+        "showImage": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z587408/portrait/1920x770f32e81312c774239be62768d3bd00ed0be40d19900fc4b59a89a457ef582cd67.jpg",
+        "showLang": "Hindi",
+        "showName": "Mithya",
+        "showStory": "Hindi literature professor in a Darjeeling college, Juhi Adhikary accuses her student Rhea Rajguru of plagiarism. While Rhea pleads that she is innocent, this sets off a series of incidents with Juhi and Rhea getting into each other's crosshairs."
+    },
+	{
+		"adult": true,
 		"contentId": "lamhe_hotx",
         "dateAdded": "15-02-2022-06:30:12 PM",
         "provider": "hotxvip",
