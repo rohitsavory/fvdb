@@ -1,5 +1,14 @@
 [
 	{
+        "channelCat": "Entertainment",
+        "channelLang": "Telugu",
+        "channelLogo": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png",
+        "channelName": "Star Maa HD",
+        "channelUrl": "https://delta38tatasky.akamaized.net/out/i/4168398.mpd",
+        "contentId": "starmaahd",
+		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001107&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ4MDkxNjM1IiwiaXNlIjp0cnVlLCJqdGkiOiIyM2MxZjY3Ny0xNmZkLTQyZjItYmVlZC04NTUyN2Y5YzVlZGYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjY4ODI2LCJuYW1lIjoiTmFyYXlhbmEgU3dhbW15IiwiaWF0IjoxNjQ1MTgyNDI2LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwODEifV0sImlzcyI6IlRUTiJ9.l8bbhLuV9X2pvdJLNEuDYE8OPUCQ8VgLpOUFO2i0Oq4"
+    },
+	{
         "channelCat": "Movies",
         "channelLang": "Hindi",
         "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053",
