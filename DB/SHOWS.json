@@ -1,5 +1,16 @@
 [
 	{
+		"contentId": "bestseller_prime",
+        "dateAdded": "18-02-2022-12:00:12 PM",
+        "provider": "prime",
+        "showArt": "https://timesofindia.indiatimes.com/photo.cms?msid=89591797&resizemode=4",
+        "showGenre": "Drama",
+        "showImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202201/bestseller_1643360631.jpg",
+        "showLang": "Hindi",
+        "showName": "Bestseller",
+        "showStory": "Celebrated novelist Tahir Wazir who is facing writer's block, meets budding writer Meetu Mathur. She is a huge fan who seeks his guidance. Desperate Tahir decides to use her story for his next novel. Ad film assistant Parth is planning something vicious to destroy Tahir and his close ones. Will he succeed? Will Tahir be able to write his next bestseller? Everything unfolds in 8 chapters!"
+    },
+	{
 		"adult": true,
 		"contentId": "charmsukhmajboori",
         "dateAdded": "18-02-2022-11:45:12 PM",

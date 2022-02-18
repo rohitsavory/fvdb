@@ -1,7 +1,37 @@
 [
 	{
+        "contentId": "enemy_telugu",
+        "dateAdded": "18-02-2022-12:20:51 PM",
+        "downloadUrl": "https://rocklinks.net/Kz2tU4Q",
+        "movieArt": "https://origin-staticv2.sonyliv.com/landscape_thumb/Enemy1_Landscape_Thumb_Clash.jpg",
+        "movieGenre": "Action, Drama, Thriller",
+        "movieImage": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Enemy_Set3_Telugu_NewShow.jpg",
+        "movieLang": "Telugu",
+        "movieName": "Enemy (Telugu)",
+        "moviePrime": "Free",
+        "movieStory": "It's the story of two childhood friends and their escalating competitive nature. To what extent are they ready to go?",
+        "movieUrl": "https://viewsb.com/ww5alnh0cguh.html",	
+        "provider": "liv",
+		"tmdb": "798803"
+    },
+	{
+        "contentId": "enemy_tamil",
+        "dateAdded": "18-02-2022-12:10:51 PM",
+        "downloadUrl": "https://rocklinks.net/DmCHRm",
+        "movieArt": "https://origin-staticv2.sonyliv.com/landscape_thumb/Enemy1_Landscape_Thumb_tamil.jpg",
+        "movieGenre": "Action, Drama, Thriller",
+        "movieImage": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Enemy1_Portrait_Thumb_Set2_Tamil_NewMovie.jpg",
+        "movieLang": "Tamil",
+        "movieName": "Enemy",
+        "moviePrime": "Free",
+        "movieStory": "It's the story of two childhood friends and their escalating competitive nature. To what extent are they ready to go?",
+        "movieUrl": "https://viewsb.com/yeq81lkbrdwg.html",
+        "provider": "liv",
+		"tmdb": "798803"
+    },
+	{
         "contentId": "bangarraju_te",
-        "dateAdded": "16-01-2022-08:50:51 AM",
+        "dateAdded": "18-02-2022-11:50:51 AM",
         "downloadUrl": "https://rocklinks.net/w680",
         "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bangarraju-et00316733-10-01-2022-01-52-07.jpg",
         "movieGenre": "Drama",
@@ -1305,20 +1335,6 @@
         "movieStory": "Manu, a bodybuilder from Chandigarh falls in love with Maanvi, a Zumba teacher. All seems well until a shocking revelation causes turmoil in their love story.",
         "movieUrl": "https://watchsb.com/ns76c6lw6c7w.html",	
         "provider": "nf"
-    },
-	{
-        "contentId": "enemy_telugu_2021",
-        "dateAdded": "12-12-2021-08:50:51 PM",
-        "downloadUrl": "https://rocklinks.net/jX0h0r",
-        "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/enemy-et00317068-30-10-2021-05-49-10.jpg",
-        "movieGenre": "Action, Drama, Thriller",
-        "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/enemy-et00317068-30-10-2021-05-49-10.jpg",
-        "movieLang": "Telugu",
-        "movieName": "Enemy (Telugu)",
-        "moviePrime": "Free",
-        "movieStory": "It's the story of two childhood friends and their escalating competitive nature. To what extent are they ready to go?",
-        "movieUrl": "https://jiorockerss.art/files/Telugu%20Movies/Telugu%202021%20Movies/Enemy%20(2021)%20Telugu%20HDRip%20(HQ%20Line%20Audio)/Enemy%20Telugu%20HDRip%20(HQ%20Line%20Audio)%20Single%20Part/Enemy%20(2021)%20Telugu%20HDRip%20(HQ%20Line%20Audio)%20Single%20Part.mp4",	
-        "provider": ""
     },
 	{
         "contentId": "lakshya_telugu_2021",
