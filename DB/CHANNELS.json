@@ -206,7 +206,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDstgrimD69hufJil6r1-nfJslaa3VMESlgg&usqp=CAU",
         "channelName": "&XplorHD",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=209",
         "contentId": "andexplore_hd_channel",
         "Views": 177
@@ -270,7 +269,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_267/PORTRAIT/VNQSlsby.png?o=production",
         "channelName": "BigMagic",
-		"channelType": "web",
         "channelUrl": "https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-bigmagic_1786965389",
         "contentId": "bigmagic",
         "Views": 43
@@ -1269,7 +1267,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://akamaividz.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-162/channel_list/09162republicbharat.png",
         "channelName": "RepublicBharat",
-		"channelType": "web",
         "channelUrl": "https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-162",
         "contentId": "republicbharat",
         "Views": 796
@@ -1314,7 +1311,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_734/PORTRAIT/JdOC9ieM.png?o=production",
         "channelName": "Zee Bihar Jharkhand",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeebiharjharkhand",
         "contentId": "zeebh_jk_hi_channel",
         "Views": 15
@@ -1324,7 +1320,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqK7EnLyjVIz4d8bSL9gXGBIBA_xXyvDNWQ&usqp=CAU",
         "channelName": "Zee Biskope",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=216",
         "contentId": "zeebiskope_tv",
         "Views": 53
@@ -1351,7 +1346,6 @@
         "channelLang": "English",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_267,h_147,c_scale,f_auto,q_auto/resources/0-9-zeecafehd/channel_list/09zeecafehdzeecaf_hd.png",
         "channelName": "Zee Cafe HD",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeecafehd",
         "contentId": "zeecafe_hd_channel",
         "Views": 29
@@ -1387,7 +1381,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-176/channel_list/09176zeeclassic.png",
         "channelName": "Zee Classic",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=176",
         "contentId": "zeeclassic_channel",
         "Views": 105
@@ -1422,7 +1415,6 @@
         "channelLang": "Malayalam",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-129/channel_list/logo386x386_1671820527.png",
         "channelName": "Zee Keralam HD",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=129",
         "contentId": "zeekeralam_hd_channel",
         "Views": 24
@@ -1458,7 +1450,7 @@
         "channelLang": "Kannada",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkcJ60WOY-66SbfcRlY2sWQBsaocwqThRF47XvARfHCaL2I3uKvhvz_U&s=10",
         "channelName": "Zee Picchar",
-		"channelType": "web",
+		
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=241",
         "contentId": "zeepicchar_tv",
         "Views": 64
@@ -1477,7 +1469,6 @@
         "channelLang": "Marathi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMS_n5-6JGFb1DWNYPNJ_IodHSw5dM67ngig&usqp=CAU",
         "channelName": "Zee Chitramandir",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=394",
         "contentId": "zeechitramandir",
         "Views": 404
@@ -1505,7 +1496,6 @@
         "channelLang": "Tamil",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ObRAP_0Kl735ABw-pw169Y1an9UBKPl_Tg&usqp=CAU",
         "channelName": "Zee Thirai",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=224",
         "contentId": "zeethirai_tv",
         "Views": 56
@@ -1542,7 +1532,6 @@
         "channelLang": "English",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9K5ugpD4AGJb1boD3yT2fHB6mM4HMrIR_w&usqp=CAU",
         "channelName": "Zee Zest HD",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=348",
         "contentId": "zeezest_hd_channel",
         "Views": 70
@@ -1552,7 +1541,6 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/1x8qAt8z.png?o=production",
         "channelName": "Zing",
-		"channelType": "web",
         "channelUrl": "https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zing",
         "contentId": "zing_music",
         "Views": 68
