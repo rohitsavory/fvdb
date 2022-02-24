@@ -1722,7 +1722,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
         "channelName": "Hindi Star Sports 1 HD",
-        "channelUrl": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/8la3M7LHF327y5phcgsSHcR7Cg3CHRgP_whhfJ3kQk-q0XYgCT_-xMjEpZ4-NJMr34l2P17L9CQK2rT2yeoDNw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+        "channelUrl": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/ct--6CsFEr5pSacfeT-xNBouZWESEFN7vyZAzfC3PO4VCFhG35JzdK9WqdZBipo9_NAI5EL-pHJ-lAm3mnmi8Q/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live",
         "contentId": "ss1hindihd"
     },
 	
