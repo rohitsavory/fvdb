@@ -1559,7 +1559,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxduXEVVIoBnCjojNlxOeowt8g6Sl2bLJHTQ&usqp=CAU",
         "channelName": "Sony SAB",
-        "channelUrl": "http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8",
+        "channelUrl": "https://snehott.in1.bitmana.io/jiotv/tsautoq.php?c=Sony_SAB",
         "contentId": "sonysab_sd_tv",
         "Views": 1356
     },
