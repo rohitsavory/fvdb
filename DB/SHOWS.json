@@ -1,5 +1,17 @@
 [
 	{
+		"adult": true,
+		"contentId": "charmsukhchawlhouse2",
+        "dateAdded": "25-02-2022-10:35:12 AM",
+        "provider": "ullu",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/6217ce3a102d150bb727fa34",
+        "showGenre": "Drama, Romance",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62178df96c3f290ba89f2d91",
+        "showLang": "Hindi",
+        "showName": "Charmsukh Chawl House 2",
+        "showStory": "Rohit was immersed in the memories of the moments he spent with Renu. He was waiting for the day when he would get a chance to be with her again, his wish was fulfilled when the queen of his dreams came to his village house. Now, the question is, if Rohit’s desire to get Renu will be fulfilled or strange fantasy will take an unexpected turn?"
+    },
+	{
 		"contentId": "bestseller_prime",
         "dateAdded": "18-02-2022-12:00:12 PM",
         "provider": "prime",
