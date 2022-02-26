@@ -13,9 +13,16 @@
         "channelLang": "Hindi",
         "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053",
         "channelName": "Dhinchaak",
-		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000935&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA2OTE5MDM1IiwiaXNlIjp0cnVlLCJqdGkiOiI1MWQ0Y2Y5MC04NWY4LTRlZjItOTMyYS0yZDRhOWQ0YjgzNTgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjcwMjM1LCJuYW1lIjoiU2V0aHlhIFIiLCJpYXQiOjE2NDUxODM4MzUsImVudCI6W3siYmlkIjoxMDAwMDAxMzY4LCJlcGlkIjoiU3Vic2NyaXB0aW9uX01vYmlsZV9TdHJlYW1pbmcifV0sImlzcyI6IlRUTiJ9.2X32BSDHZE1gtr5_j5IAyBxEkAi5FVr7PTz-8uF0zlk",
-        "channelUrl": "https://delta13tatasky.akamaized.net/out/i/2649885.mpd",
+		"channelUrl": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
         "contentId": "dhinchaak"
+    },
+	{
+        "channelCat": "Movies",
+        "channelLang": "Hindi",
+        "channelLogo": "https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg",
+        "channelName": "Dhinchaak 2",
+		"channelUrl": "http://iptvtree.net:8080/F11368/c81b8877/286937",
+        "contentId": "dhinchaak2"
     },
     {
         "channelCat": "News",
@@ -1614,8 +1621,17 @@
         "channelLang": "Hindi",
         "channelLogo": "https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png",
         "channelName": "Star GOLD HD",
-        "channelUrl": "http://103.153.39.36:8000/play/a028",
+        "channelUrl": "http://live.flixhub.net/hls/stargold.m3u8",
         "contentId": "stargoldhd"
+    },
+	
+	{
+        "channelCat": "Movies",
+        "channelLang": "Hindi",
+        "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
+        "channelName": "Star GOLD 2",
+        "channelUrl": "http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8",
+        "contentId": "stargold2"
     },
 	
 	{
@@ -1713,7 +1729,7 @@
         "channelLang": "English",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
         "channelName": "Star Sports 1 HD",
-        "channelUrl": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/8la3M7LHF327y5phcgsSHcR7Cg3CHRgP_whhfJ3kQk-q0XYgCT_-xMjEpZ4-NJMr34l2P17L9CQK2rT2yeoDNw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+        "channelUrl": "http://live.flixhub.net/hls/stersports1hd.m3u8",
         "contentId": "ss1hd"
     },
 	
@@ -1731,9 +1747,8 @@
         "channelLang": "English",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h",
         "channelName": "Star Sports 2 HD",
-        "channelUrl": "https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
-		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000250&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA2OTE5MDM1IiwiaXNlIjp0cnVlLCJqdGkiOiI2MjQxMmIwNC00YWU3LTQwMWItYjBkNS00NThmM2MyYjc5ZDAiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjcwMjM1LCJuYW1lIjoiU2V0aHlhIFIiLCJpYXQiOjE2NDUxODM4MzUsImVudCI6W3siYmlkIjoxMDAwMDAxMjI3LCJlcGlkIjoiU3Vic2NyaXB0aW9uX01vYmlsZV9TdHJlYW1pbmcifV0sImlzcyI6IlRUTiJ9.hb-m-YiQGoZ5qcqlqEYwpSRWy5p3feSXcYIOtOqQoV0",
-        "contentId": "ss2hd"
+        "channelUrl": "http://live.flixhub.net/hls/starsports2.m3u8",
+		"contentId": "ss2hd"
     },
 	
 	{
@@ -1741,7 +1756,7 @@
         "channelLang": "English",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",
         "channelName": "Select Star Sports 1 HD",
-        "channelUrl": "http://103.153.39.36:8000/play/a02b",
+        "channelUrl": "http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8",
         "contentId": "ss1selcthd"
     },
 	
@@ -1750,7 +1765,7 @@
         "channelLang": "English",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h",
         "channelName": "Select Star Sports 2 HD",
-        "channelUrl": "http://103.153.39.36:8000/play/a02c",
+        "channelUrl": "http://live.flixhub.net/hls/select2.m3u8",
         "contentId": "ss2selcthd"
     },
 	
