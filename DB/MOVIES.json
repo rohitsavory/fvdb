@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "lagaan_hi",
+        "dateAdded": "27-02-2022-02:10:51 PM",
+        "downloadUrl": "https://rocklinks.net/axX8fx",
+        "movieArt": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+        "movieGenre": "Adventure, Romance, Drama",
+        "movieImage": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+        "movieLang": "Hindi",
+        "movieName": "Lagaan",
+        "moviePrime": "Free",
+        "movieStory": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+        "movieUrl": "https://viewsb.com/jyrw2tea498f.html",
+        "provider": "nf",
+		"tmdb": "19666"
+    },
+	{
         "contentId": "srkalyanamandapam_te",
         "dateAdded": "23-02-2022-12:10:51 PM",
         "downloadUrl": "https://rocklinks.net/m3CiM",
@@ -3301,20 +3316,6 @@
 		"movieUrl": "https://viewsb.com/i9p9zmjfa3ka.html",
         "tmdb": "645484",
 		"provider": "hs"
-    },
-    {
-        "contentId": "Dolly Kitty Aur Woh Chamakte Sitare",
-        "dateAdded": "30-04-2021-03:00:00 PM",
-        "hdServer": "http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+Dolly+Kitty+Aur+Woh+Chamakte+Sitare+(2020)+720p+HDRip+Hindi+x264+ESub.mkv",
-        "movieArt": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Dolly-Kitty-Aur-Woh-Chamakte-Sitare-Review.jpg",
-        "movieGenre": "Comedy, Drama",
-        "movieImage": "https://bingeddata.s3.amazonaws.com/uploads/2020/09/Dolly-Kitty-Aur-Woh-Chamakte-Sitare-Netflix.jpg",
-        "movieLang": "Hindi",
-        "movieName": "Dolly Kitty Aur Woh Chamakte Sitare",
-        "moviePrime": "Free",
-        "movieStory": "Two East Indian women navigate the complexities of life.",
-        "sdServer": "http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+Dolly+Kitty+Aur+Woh+Chamakte+Sitare+(2020)+480p+HDRip+Hindi+x264+ESub.mkv",
-        "Views": 10
     },
     {
         "contentId": "Duniyadari",
