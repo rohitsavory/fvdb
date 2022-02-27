@@ -1684,7 +1684,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",
         "channelName": "Star Bharat HD",
-        "channelUrl": "http://103.153.39.36:8000/play/a025",
+        "channelUrl": "http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8",
         "contentId": "starbharathd"
     },
 	
@@ -1738,8 +1738,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
         "channelName": "Hindi Star Sports 1 HD",
-		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDMwODIwNTIwIiwiaXNlIjp0cnVlLCJqdGkiOiJkMzZlMWRlOS0yNjE3LTRlYjItOWMwMS01MTU0YzdlZGMxYzEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1OTczNDQxLCJuYW1lIjoiQW1vbCBBcnVuLnZhZG5lcmUiLCJpYXQiOjE2NDU4ODcwNDEsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTQ1MiJ9XSwiaXNzIjoiVFROIn0.LMytCynaufiMPMV5j37e_uB4h0ULlu3T8CECyYRGrDI",
-        "channelUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3141859.mpd",
+		"channelUrl": "http://103.153.39.36:8000/play/a026",
         "contentId": "ss1hindihd"
     },
 	
