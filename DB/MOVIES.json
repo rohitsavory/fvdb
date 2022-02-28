@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "zombiereddy_te_ta",
+        "dateAdded": "28-02-2022-06:10:50 PM",
+		"downloadUrl": "https://rocklinks.net/MG4ga",
+        "movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/zombie-reddy-et00305279-27-01-2021-04-20-14.jpg",
+        "movieGenre": "Action",
+        "movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/zombie-reddy-et00305279-27-01-2021-04-20-14.jpg",
+        "movieLang": "Hindi",
+        "movieName": "Zombie Reddy (Tamil & Telugu)",
+        "moviePrime": "Free",
+        "movieStory": "Mario, a game developer, and his friends, get caught up in the rivalry between two families and a mysterious zombie attack in Rayalaseema where they go to attend a friend's wedding.",
+        "movieUrl": "https://viewsb.com/6dfhk23h87t1.html",
+        "tmdb": "773303",
+		"provider": "aha"
+    },
+	{
         "contentId": "sehari_te_2022",
         "dateAdded": "28-02-2022-05:05:51 PM",
         "downloadUrl": "https://rocklinks.net/Y4DzM8N",
@@ -8983,7 +8998,8 @@
         "moviePrime": "Free",
         "movieStory": "Mario, a game developer, and his friends, get caught up in the rivalry between two families and a mysterious zombie attack in Rayalaseema where they go to attend a friend's wedding.",
         "movieUrl": "https://sbcloud1.com/iqewwvcfyh74.html",
-        "Views": 56
+        "tmdb": "773303",
+		"provider": ""
     },
     {
         "contentId": "zombiereddy_te_movie",
@@ -8997,6 +9013,7 @@
         "moviePrime": "Free",
         "movieStory": "When a failed experiment to discover a vaccine for COVID -19 creates a new epidemic, a young game developer desperate to save his best friend falls prey to the Zombie Virus.",
         "sdServer": "http://srv90.ptvcdn.top/api/aws/media.php?srv2/Pocket%20TV%20-%20ZOMBIE%20REDDY%20%282021%29%20Telugu%20HDRip%20-%20700MB%20-%20x264%20-%20MP3%20-%20ESub.mkv",
-        "Views": 11
+        "tmdb": "773303",
+		"provider": "aha"
 	}
 ]
