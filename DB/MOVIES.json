@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "bangarraju_te_hi",
+        "dateAdded": "18-02-2022-11:50:51 AM",
+        "downloadUrl": "https://rocklinks.net/78HGhg",
+        "movieArt": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bangarraju-et00316733-10-01-2022-01-52-07.jpg",
+        "movieGenre": "Drama",
+        "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/bangarraju-et00316733-10-01-2022-01-52-07.jpg",
+        "movieLang": "Hindi, Telugu",
+        "movieName": "Bangarraju (Hindi HQ - Telugu)",
+        "moviePrime": "Free",
+        "movieStory": "Bangarraju and Satyabhama come down to settle the life of their grandson Chinna Bangarraju and to save the treasure of temple.",
+        "movieUrl": "https://viewsb.com/tjfv50ylnd86.html",
+        "provider": "z5",
+		"tmdb": "865497"
+    },
+	{
         "contentId": "zombiereddy_te_ta",
         "dateAdded": "28-02-2022-06:10:50 PM",
 		"downloadUrl": "https://rocklinks.net/MG4ga",
@@ -3919,19 +3934,6 @@
         "movieStory": "A married man becomes infatuated with a woman who he has a one-night stand with after meeting her on a business trip. His obsession with his mistress threatens to uproot his marriage and everyday life.",
         "movieUrl": "https://llvod.mxplay.com/video/6beaaac6bf4c1a767b6820dfd13da186/3/dash/h264_high.mpd",
         "Views": 30
-    },
-    {
-        "contentId": "Pandaga Chesko",
-        "dateAdded": "14-12-2020",
-        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JYEoRQAyRc3oH0Ara3yoRo0j0FLCk1ENOQ&usqp=CAU",
-        "movieGenre": "Drama, Action",
-        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAl2pLn3m5ra1wOeC5wTfjuOsvmJR3MbWbg&usqp=CAU",
-        "movieLang": "Telugu",
-        "movieName": "Pandaga Chesko",
-        "moviePrime": "Free",
-        "movieStory": "Pandaga Chesko is 2015 Telugu action drama film starring Ram, Rakul Preet Singh and Sonal Chauhan. The story revolves around Karthik, a young business tycoon from Portugal, who is engaged to Anuskha. When his company in India is shut down by an environment activist, Divya, he comes to India and falls in love with her. How will Karthik solve all his personal and professional problems?",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls/1080p/movies/TELUGU_MOVIES/PANDUGA_CHESUKO_TELUGU_MOVIE.mp4/index.m3u8",
-        "Views": 41
     },
     {
         "contentId": "Pati Patni Aur Woh",
