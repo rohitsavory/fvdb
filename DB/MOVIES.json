@@ -1,5 +1,36 @@
 [
 	{
+        "contentId": "badavarascal_kn",
+        "dateAdded": "01-03-2022-08:45:00 PM",
+		"downloadUrl": "https://rocklinks.net/JlDa9Ei",
+        "movieArt": "https://v3img.voot.com/v3Storage/assets/badava-rascal-1920x1080-1645777110822.jpg",
+        "movieGenre": "Comedy, Drama, Action",
+        "movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/badava-rascal-et00313076-21-12-2021-03-16-51.jpg",
+        "movieLang": "Kannada",
+        "movieName": "Badava Rascal",
+        "moviePrime": "Free",
+        "movieStory": "Badava Rascal is the journey of Shankar who lives life on his own terms. When he gets kidnapped along with his friend over trivial issues by goons, how does he get out of the trouble and what is the motto of abduction unravels the theme of the story.",
+        "movieUrl": "https://viewsb.com/cwk1wafxfu86.html",
+        "tmdb": "676223",
+		"provider": "voot"
+    },
+	{
+		"adult": true,
+        "contentId": "hunterr_hi",
+        "dateAdded": "01-03-2022-07:55:00 PM",
+		"downloadUrl": "https://rocklinks.net/yk7pQC",
+        "movieArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/97816a49b3f6c0c8fb997459359a4a90dc9011c3fbca15a094ca3f411ffeb4a8._SX1080_.jpg",
+        "movieGenre": "Drama, Romance",
+        "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/hunterrr-et00027635-18-01-2021-03-14-21.jpg",
+        "movieLang": "Hindi",
+        "movieName": "Hunterrr",
+        "moviePrime": "Free",
+        "movieStory": "An ordinary bachelor pursues girls like a hunter, but not with the intention of settling down in life.",
+        "movieUrl": "https://viewsb.com/juti6evmni1x.html",
+        "tmdb": "325892",
+		"provider": "prime, nf"
+    },
+	{
         "contentId": "sairat_mr",
         "dateAdded": "01-03-2022-08:00:00 PM",
 		"downloadUrl": "https://rocklinks.net/3XErSJ",
