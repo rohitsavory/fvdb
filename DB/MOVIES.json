@@ -1,5 +1,19 @@
 [
 	{
+        "contentId": "saandkiaankh_hi",
+        "dateAdded": "01-03-2022-05:00:06 PM",
+		"downloadUrl": "https://rocklinks.net/SjU8f",
+        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRe4NOPQuK9_9F5089qovNy4CYSyUlIBmmA&usqp=CAU",
+        "movieGenre": "Biopic",
+        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6114saN0bwMZKupjWZqDq4NV4HOpIa4B_SQ&usqp=CAU",
+        "movieLang": "Hindi",
+        "movieName": "Saand Ki Aankh",
+        "movieStory": "Following the exciting story of the world's oldest sharpshooters Chandro and Prakashi Tomar, the drama marks the directorial debut of acclaimed scriptwriter Tushar Hiranandani. The film stars Bhumi Pednekar and Taapsee Pannu.",
+        "movieUrl": "https://viewsb.com/lucwc4wvxo08.html",
+        "tmdb": "523278",
+		"provider": "z5"
+    },
+	{
         "contentId": "rustom_hi",
         "dateAdded": "01-03-2022-05:00:00 PM",
 		"downloadUrl": "https://rocklinks.net/qSQUtN",
@@ -8,7 +22,6 @@
         "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YKHy7Ns5ZU27sCw8wMkIcqG_KctHyzBvgw&usqp=CAU",
         "movieLang": "Hindi",
         "movieName": "Rustom",
-        "moviePrime": "Free",
         "movieStory": "Rustom is a 2016 Hindi crime thriller film starring Akshay Kumar, Ileana D'Cruz, Arjan Bajwa and Esha Gupta. An honourable navy office, Rustom, leads a happy life with his wife, Cynthia. His world turns upside down when he finds out about his close friend, Vikram, and Cynthia's affair. Rustom is later accused of Vikram's murder. A court trial begins against Rustom. Will he be able to prove his innocence?",
         "movieUrl": "https://viewsb.com/ed0a0iil824v.html",
         "tmdb": "392572",
@@ -23,7 +36,6 @@
         "movieImage": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/bangarraju-et00316733-10-01-2022-01-52-07.jpg",
         "movieLang": "Hindi, Telugu",
         "movieName": "Bangarraju (Hindi HQ - Telugu)",
-        "moviePrime": "Free",
         "movieStory": "Bangarraju and Satyabhama come down to settle the life of their grandson Chinna Bangarraju and to save the treasure of temple.",
         "movieUrl": "https://viewsb.com/tjfv50ylnd86.html",
         "provider": "z5",
@@ -4086,19 +4098,6 @@
         "movieStory": "A man uses an arsenal of weapons to battle a gang of heavily armed thugs in the city. With the city under fire and people's lives at risk, the one man has to give everything he has got to take the city back.",
         "movieUrl": "https://winktechsolution.net/movie/480p/Bollywood/Best/Saaho%20%282019%29%203121.mkv",
         "Views": 59
-    },
-    {
-        "contentId": "Saand Ki Aankh",
-        "dateAdded": "19-12-2020-02:14:06 PM",
-        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRe4NOPQuK9_9F5089qovNy4CYSyUlIBmmA&usqp=CAU",
-        "movieGenre": "Biopic",
-        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6114saN0bwMZKupjWZqDq4NV4HOpIa4B_SQ&usqp=CAU",
-        "movieLang": "Hindi",
-        "movieName": "Saand Ki Aankh",
-        "moviePrime": "Prime",
-        "movieStory": "Saand Ki Aankh is a 2019 drama film starring Taapsee Pannu, Bhumi Pednekar, Prakash Jha, and Vineet Kumar Singh. The biographical movie narrates the inspiring story of two of the world’s oldest female sharpshooters, Chandro and Prakashi Tomar, who defied ageism and took up sharpshooting in their 60s.",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/Movies/Drama/SAAND_KI_AANKH_HINDI_MOVIE_RTR_hi_5c3eee8a48196bfa878844a302313f16/index.m3u8",
-        "Views": 2
     },
     {
         "contentId": "Sairat",
