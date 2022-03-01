@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "rustom_hi",
+        "dateAdded": "01-03-2022-05:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/qSQUtN",
+        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWHuDnL4m9pkdxaVSZ2MCe0hY2aHo89EWsg&usqp=CAU",
+        "movieGenre": "Thriller, Crime, Drama",
+        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YKHy7Ns5ZU27sCw8wMkIcqG_KctHyzBvgw&usqp=CAU",
+        "movieLang": "Hindi",
+        "movieName": "Rustom",
+        "moviePrime": "Free",
+        "movieStory": "Rustom is a 2016 Hindi crime thriller film starring Akshay Kumar, Ileana D'Cruz, Arjan Bajwa and Esha Gupta. An honourable navy office, Rustom, leads a happy life with his wife, Cynthia. His world turns upside down when he finds out about his close friend, Vikram, and Cynthia's affair. Rustom is later accused of Vikram's murder. A court trial begins against Rustom. Will he be able to prove his innocence?",
+        "movieUrl": "https://viewsb.com/ed0a0iil824v.html",
+        "tmdb": "392572",
+		"provider": "z5, prime"
+    },
+	{
         "contentId": "bangarraju_te_hi",
         "dateAdded": "01-03-2022-06:50:51 PM",
         "downloadUrl": "https://rocklinks.net/78HGhg",
@@ -4058,19 +4073,6 @@
         "movieStory": "Maari, a local goon, extorts money from the people in his area and forcibly becomes the business partner of Sridevi. She then pretends to fall in love with him to get his confession for a crime.",
         "movieUrl": "https://j2apps.s.llnwi.net/video/08d30c350bd2f6a1e0e4f998be532c53/4/hls/h264_high.m3u8",
         "Views": 10
-    },
-    {
-        "contentId": "Rustom",
-        "dateAdded": "23-05-2021-12:00:00 AM",
-        "movieArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWHuDnL4m9pkdxaVSZ2MCe0hY2aHo89EWsg&usqp=CAU",
-        "movieGenre": "Crime, Action",
-        "movieImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YKHy7Ns5ZU27sCw8wMkIcqG_KctHyzBvgw&usqp=CAU",
-        "movieLang": "Hindi",
-        "movieName": "Rustom",
-        "moviePrime": "Free",
-        "movieStory": "Rustom is a 2016 Hindi crime thriller film starring Akshay Kumar, Ileana D'Cruz, Arjan Bajwa and Esha Gupta. An honourable navy office, Rustom, leads a happy life with his wife, Cynthia. His world turns upside down when he finds out about his close friend, Vikram, and Cynthia's affair. Rustom is later accused of Vikram's murder. A court trial begins against Rustom. Will he be able to prove his innocence?",
-        "movieUrl": "https://zee5vodnd.akamaized.net/hls1/1080p/movies/MOVIE_PROJECT/HINDI/03122018/RUSTOM_MOVIE_hi.mp4/index.m3u8",
-        "Views": 36
     },
     {
         "contentId": "Saaho (Hindi)",
