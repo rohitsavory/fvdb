@@ -1,5 +1,17 @@
 [
 	{
+		"adult": true,
+		"contentId": "lahorediaries_hi",
+        "dateAdded": "03-03-2022-03:30:12 PM",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/621ce563dbb9cd0bab75b4cb",
+        "showGenre": "Drama",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/621ce56eaba0ec0ba4733bef",
+        "showLang": "Hindi",
+        "showName": "Lahore Diaries",
+        "showStory": "Naaz got married to Aftab with hopes of a beautiful life. Her dreams were shattered when she got stuck in middle class house wife, lifestyle, of daily chores. Frustration took over when her suppressed desires started boiling inside. She decided to break the norms and follow her heart, will this decision bring her happiness, or will it destroy everything she has.",
+		"provider": "ullu"
+    },
+	{
 		"contentId": "thefamegame_nf_multi",
         "dateAdded": "26-02-2022-10:35:12 PM",
         "showArt": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/rSctHn6sxFCnKfKPjAOShCOoBTe.jpg",
