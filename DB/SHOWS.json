@@ -1,6 +1,18 @@
 [
 	{
 		"adult": true,
+		"contentId": "rudra_hs_multi",
+        "dateAdded": "04-03-2022-04:50:12 PM",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2180/1122180-h-0046ac044aa6",
+        "showGenre": "Crime",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2730/1122730-v-1d6aabd972c3",
+        "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
+        "showName": "Rudra: The Edge of Darkness",
+        "showStory": "In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds is brilliant supercop Rudraveer Singh, guarding against their darkness.",
+		"provider": "hs"
+    },
+	{
+		"adult": true,
 		"contentId": "naveloflove_hi",
         "dateAdded": "03-03-2022-03:20:12 PM",
         "showArt": "https://ullu2-files.ullu.app/media-metadata/621389f5e4358c0bc12270fe",
