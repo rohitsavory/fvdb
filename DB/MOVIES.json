@@ -1,5 +1,20 @@
 [
 	{
+        "contentId": "djtillu_te_2022",
+        "dateAdded": "04-03-2022-04:00:00 PM",
+		"downloadUrl": "https://rocklinks.net/vANX4tIy",
+        "movieArt": "https://image-resizer-cloud-api.akamaized.net/image/A2D5FA05-208D-45CC-9394-7AA4BEA8ED8F//0-16x9.jpg?width=1280",
+        "movieGenre": "Romance, Comedy",
+        "movieImage": "https://image-resizer-cloud-api.akamaized.net/image/A2D5FA05-208D-45CC-9394-7AA4BEA8ED8F/0-2x3.jpg?width=320",
+        "movieLang": "Telugu",
+        "movieName": "DJ Tillu",
+        "moviePrime": "Free",
+        "movieStory": "When a local DJ and his affair with a young woman put him square in the middle of a crime, he must do his best to get out of the predicament he’s in.",
+        "movieUrl": "https://viewsb.com/m4o34muzzcnq.html",
+        "provider": "aha",
+		"tmdb": "937036"
+    },
+	{
 		"contentId": "benawad_mr",
         "dateAdded": "02-03-2022-07:45:00 PM",
 		"downloadUrl": "https://rocklinks.net/zcHbut",
@@ -623,20 +638,6 @@
         "movieStory": "Pandu and Mhadu are small time stand up comedians in small village of Maharashtra who catch the eye of powerful politician Babasaheb Pathare who has always been the target of rival parties.",
         "movieUrl": "https://viewsb.com/gwduzmix2j3m.html",
         "provider": "z5"
-    },
-	{
-        "contentId": "djtillu_te_2022",
-        "dateAdded": "13-02-2022-10:50:00 AM",
-		"downloadUrl": "https://rocklinks.net/QZEA",
-        "movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dj-tillu-et00320877-04-02-2022-07-13-20.jpg",
-        "movieGenre": "Comedy",
-        "movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dj-tillu-et00320877-04-02-2022-07-13-20.jpg",
-        "movieLang": "Telugu",
-        "movieName": "DJ Tillu",
-        "moviePrime": "Free",
-        "movieStory": "A lazy young man spends his time chasing girls, until an incident changes his life forever.",
-        "movieUrl": "https://viewsb.com/krxry3vx9qg0.html",
-        "provider": ""
     },
 	{
         "contentId": "hero_te_2022",
