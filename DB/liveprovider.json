@@ -5,6 +5,12 @@
         "icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/mxplayer_logo.png",
         "url": "https://api.mxplay.com/v1/web/live/channels"
     },
+	{
+        "id": "zee",
+        "name": "Zee5",
+        "icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/zee5_logo.jpeg",
+        "url": "https://github.com/Gaurav-V7/FireVideo/raw/main/DB/zee5live.json"
+    },
     {
         "id": "sun",
         "name": "Sun NXT",
