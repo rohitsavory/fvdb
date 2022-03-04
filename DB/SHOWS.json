@@ -9,7 +9,8 @@
         "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
         "showName": "Rudra: The Edge of Darkness",
         "showStory": "In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds is brilliant supercop Rudraveer Singh, guarding against their darkness.",
-		"provider": "hs"
+		"provider": "hs",
+		"tmdb": "123888"
     },
 	{
 		"adult": true,
