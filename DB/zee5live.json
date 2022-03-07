@@ -3,282 +3,282 @@
         "id": "zeebangla",
         "name": "Zee Bangla HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeebangla/list/270x152/1170x658310781121.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebangla"
-    },
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebangla"
+    },	
     {
         "id": "zeebanglacinema",
         "name": "Zee Bangla Cinema",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlog1238879598.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebanglacinema"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebanglacinema"
     },
     {
         "id": "216",
         "name": "Zee Biskope",
         "icon": "https://akamaividz.zee5.com/resources/0-9-216/list/270x152/1170x658withlogo20909261.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=216"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=216"
     },
     {
         "id": "zeeclassic",
         "name": "Zee Bollywood",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/270x152/1170x658e6b59efbc9c5471f9392f477f91f0c11.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeclassic"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeclassic"
     },
     {
         "id": "zeebusiness",
         "name": "Zee Business",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/270x152/zeebusiness117088d767ebaf91485992201f5422d49bb1.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebusiness"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebusiness"
     },
     {
         "id": "zeecafehd",
         "name": "Zee Cafe HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/270x152/1170x658withlogo325698699.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecafehd"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecafehd"
     },
     {
         "id": "zeecinema",
         "name": "Zee Cinema",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogo_807278654.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinema"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinema"
     },
     {
         "id": "zeecinemahd",
         "name": "Zee Cinema HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/270x152/1170x658withlogo167952257.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinemahd"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemahd"
     },
     {
         "id": "zeecinemalu",
         "name": "Zee Cinemalu HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/270x152/1170x6581642453232.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinemalu"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemalu"
     },
     {
         "id": "176",
         "name": "Zee Classic",
         "icon": "https://akamaividz.zee5.com/resources/0-9-176/list/270x152/1170x658d4d3573a17f24dcdb86c0da75e7208e8.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=176"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=176"
     },
     {
         "id": "zeehindustan",
         "name": "Zee Hindustan",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/270x152/zeehindustan11708e67b053f5e1461abb55377b1c939336.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeehindustan"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeehindustan"
     },
     {
         "id": "zeekannada",
         "name": "Zee Kannada HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeekannada/list/270x152/1170x658611455469.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeekannada"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeekannada"
     },
     {
         "id": "129",
         "name": "Zee Keralam HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-129/list/270x152/1170x658withlogo268830785.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=129"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=129"
     },
     {
         "id": "zeemarathi",
         "name": "Zee Marathi HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/270x152/1170x658withlogo551054149.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeemarathi"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeemarathi"
     },
     {
         "id": "zeemadhyapradeshchat",
         "name": "Zee MPCG",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/270x152/zeemadhyapradeshchhattisgarh1170342c565feaf141ccb6e5b39d2ce0e71d.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeemadhyapradeshchat"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeemadhyapradeshchat"
     },
     {
         "id": "zeenews",
         "name": "Zee News",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeenews/list/270x152/zeenews117058a10e260ccf453885b0b866b6efcf8c.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeenews"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeenews"
     },
 	{
         "id": "9z583539",
         "name": "Zee Malayalam News",
         "icon": "https://akamaividz.zee5.com/resources/0-9-9z583539/list/270x152/1170x658f0313dbfc3ef4c0c9c4619454829b2d3.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=9z583539"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=9z583539"
     },
 	{
         "id": "9z583538",
         "name": "Zee Telugu News",
         "icon": "https://akamaividz.zee5.com/resources/0-9-9z583538/list/270x152/1170x658fb1bd397310743bf850648fb036ae8b7.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=9z583538"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=9z583538"
     },
 	{
         "id": "9z583537",
         "name": "Zee Kannada News",
         "icon": "https://akamaividz.zee5.com/resources/0-9-9z583537/list/270x152/1170x65892ecf4aa8e934cdeb7deb9bbd501646d.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=9z583537"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=9z583537"
     },
 	{
         "id": "9z583533",
         "name": "Zee Tamil News",
         "icon": "https://akamaividz.zee5.com/resources/0-9-9z583533/list/270x152/1170x65872e20eebb8c4416db5d5b1e014e2ab77.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=9z583533"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=9z583533"
     },
     {
         "id": "241",
         "name": "Zee Picchar",
         "icon": "https://akamaividz.zee5.com/resources/0-9-241/list/270x152/1170x658withlog_1692640342.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=241"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=241"
     },
 	{
         "id": "zeetalkies",
         "name": "Zee Talkies HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/270x152/1170x658483062857.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetalkies"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetalkies"
     },
 	{
         "id": "394",
         "name": "Zee Chitramandir",
         "icon": "https://akamaividz.zee5.com/resources/0-9-394/list/270x152/1170x658717187404.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=394"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=394"
     },
 	{
         "id": "zeetamil",
         "name": "Zee Tamil HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeetamil/list/270x152/1170x6581250786368.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetamil"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetamil"
     },
 	{
         "id": "zeetelugu",
         "name": "Zee Telugu HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/270x152/1170x658593933473.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetelugu"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetelugu"
     },
 	{
         "id": "224",
         "name": "Zee Thirai",
         "icon": "https://akamaividz.zee5.com/resources/0-9-224/list/270x152/1170x658withlogo_334138193.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=224"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=224"
     },
 	{
         "id": "zeetvhd",
         "name": "Zee TV HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/270x152/1170x658withlog1554775145.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetvhd"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetvhd"
     },
 	{
         "id": "353",
         "name": "Zee Vajwa",
         "icon": "https://akamaividz.zee5.com/resources/0-9-353/list/270x152/1170x658withlog1434429781.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=353"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=353"
     },
 	{
         "id": "zeeyuva",
         "name": "Zee Yuva",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/270x152/1170x658withlogo_361849131.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeyuva"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeyuva"
     },
 	{
         "id": "348",
         "name": "Zee Zest HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-348/list/270x152/1170x658withlog2096037619.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=348"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=348"
     },
 	{
         "id": "zing",
         "name": "Zing",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zing/list/270x152/1170x658withlogo895666865.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zing"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zing"
     },
 	{
         "id": "zeeaction",
         "name": "Zee Action",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlog_1953200347.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeaction"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeaction"
     },
 	{
         "id": "zeeanmol",
         "name": "Zee Anmol",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/270x152/1170x658withlog_1844143347.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeanmol"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeanmol"
     },
 	{
         "id": "zeeanmolcinema",
         "name": "Zee Anmol Cinema",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlog_1721007595.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeanmolcinema"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeanmolcinema"
     },
 	{
         "id": "tvhd_0",
         "name": "&TV HD",
         "icon": "https://akamaividz2.zee5.com/resources/0-9-tvhd_0/list/270x152/1170x658withlogo_378606665.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=tvhd_0"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=tvhd_0"
     },
 	{
         "id": "pictures",
         "name": "&Pictures",
         "icon": "https://akamaividz.zee5.com/resources/0-9-pictures/list/270x152/1170x658withlog_1269578414.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=pictures"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=pictures"
     },
 	{
         "id": "tvpictureshd",
         "name": "&Pictures HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/270x152/1170x658withlog1476130363.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=tvpictureshd"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=tvpictureshd"
     },
 	{
         "id": "privéhd",
         "name": "&Prive HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-priv%C3%A9hd/list/270x152/1170x658withlogo375086496.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=privéhd"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=privéhd"
     },
 	{	
         "id": "channel_2105335046",
         "name": "&Flix HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/1170x658379547401.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=channel_2105335046"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=channel_2105335046"
     },
 	{	
         "id": "209",
         "name": "&Explor HD",
         "icon": "https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=209"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=209"
     },
 	{
         "id": "channel_1786965389",
         "name": "Big Magic",
         "icon": "https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/270x152/1170x658withlog_2022520414.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=channel_1786965389"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=channel_1786965389"
     },
 	{	
         "id": "bigganga",
         "name": "Zee Ganga",
         "icon": "https://akamaividz.zee5.com/resources/0-9-bigganga/list/270x152/1170x6581735687172.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=bigganga"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=bigganga"
     },
 	{	
         "id": "sarthaktv",
         "name": "Zee Sarthak",
         "icon": "https://akamaividz.zee5.com/resources/0-9-sarthaktv/list/270x152/1170x658withlog1150431941.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=sarthaktv"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=sarthaktv"
     },
 	{	
         "id": "215",
         "name": "Zee Punjabi",
         "icon": "https://akamaividz.zee5.com/resources/0-9-215/list/270x152/1170x658withlog1031170304.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=215"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=215"
     },
 	{	
         "id": "channel_2132977507",
         "name": "Alpha ETC Punjabi",
         "icon": "https://akamaividz.zee5.com/resources/0-9-channel_2132977507/list/270x152/1170x658withlog1071598760.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=channel_2132977507"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=channel_2132977507"
     },
 	{	
         "id": "makkaltv",
         "name": "Makkal TV",
         "icon": "https://akamaividz.zee5.com/resources/0-9-makkaltv/list/270x152/1170x658withlogo_579936187.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=makkaltv"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=makkaltv"
     },
 	{	
         "id": "zeesalaam",
         "name": "Zee Salaam",
         "icon": "https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/270x152/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.jpg",
-        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeesalaam"
+        "url": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeesalaam"
     }
 ]
