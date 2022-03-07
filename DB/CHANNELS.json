@@ -210,6 +210,7 @@
         "Views": 1305
     },
     {
+		"channelCat": "Movies",
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDstgrimD69hufJil6r1-nfJslaa3VMESlgg&usqp=CAU",
         "channelName": "&XplorHD",
@@ -218,6 +219,7 @@
         "Views": 177
     },
 	{
+		"channelCat": "Movies",
         "channelLang": "English",
         "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg",
         "channelName": "Star Movies HD",
