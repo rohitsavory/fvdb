@@ -54,7 +54,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg/revision/latest?cb=20180603135659",
         "channelName": "9XJalwa",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=133",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=133",
         "contentId": "9xjalwa_tv",
         "Views": 156
     },
@@ -160,7 +160,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
         "channelName": "AajTak",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=aajtak",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=aajtak",
         "contentId": "aajtak_tv",
         "Views": 630
     },
@@ -213,7 +213,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDstgrimD69hufJil6r1-nfJslaa3VMESlgg&usqp=CAU",
         "channelName": "&XplorHD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=209",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=209",
         "contentId": "andexplore_hd_channel",
         "Views": 177
     },
@@ -230,7 +230,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/&Pictures_HD.png?raw=true",
         "channelName": "&PicturesHD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=tvpictureshd",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=tvpictureshd",
         "contentId": "andpics_hd_tv",
         "Views": 443
     },
@@ -239,7 +239,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production",
         "channelName": "&TVHD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=tvhd_0",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=tvhd_0",
         "contentId": "andtv_hd_tv",
         "no": 106,
         "Views": 392
@@ -915,7 +915,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Saam_Tv.png?raw=true",
         "channelName": "Saam TV",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=270",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=270",
         "contentId": "saam_tv",
         "Views": 280
     },
@@ -1211,7 +1211,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_857/PORTRAIT/ZBl37uGY.png?o=production",
         "channelName": "TV9Marathi",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=257",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=257",
         "contentId": "tv9marathi_tv",
         "Views": 315
     },
@@ -1256,7 +1256,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_432/PORTRAIT/oSPJiEzV.png?o=production",
         "channelName": "Zee24Taas",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zee24taas",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zee24taas",
         "contentId": "zee24taas_tv",
         "Views": 796
     },
@@ -1283,7 +1283,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Action.png?raw=true",
         "channelName": "Zee Action",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeaction",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeaction",
         "contentId": "zeeaction_tv",
         "Views": 90
     },
@@ -1292,7 +1292,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://raw.githubusercontent.com/amjiddader/logo/master/India/Zee_Anmol_Cinema.png",
         "channelName": "Zee Anmol Cinema",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeanmolcinema",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeanmolcinema",
         "contentId": "zeeanmolcinema_tv",
         "Views": 77
     },
@@ -1301,7 +1301,7 @@
         "channelLang": "Bengali",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Bangla.png?raw=true",
         "channelName": "Zee Bangla",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebangla",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebangla",
         "contentId": "zeebangla_tv",
         "Views": 79
     },
@@ -1310,7 +1310,7 @@
         "channelLang": "Bengali",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/215x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_408/PORTRAIT/f64e36bc-e12a-417d-b768-6ef2000a348d.png?o=production",
         "channelName": "Zee Bangla Cinema",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebanglacinema",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebanglacinema",
         "contentId": "zeebanglacinema_tv",
         "Views": 40
     },
@@ -1318,7 +1318,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_734/PORTRAIT/JdOC9ieM.png?o=production",
         "channelName": "Zee Bihar Jharkhand",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebiharjharkhand",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebiharjharkhand",
         "contentId": "zeebh_jk_hi_channel",
         "Views": 15
     },
@@ -1327,7 +1327,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqK7EnLyjVIz4d8bSL9gXGBIBA_xXyvDNWQ&usqp=CAU",
         "channelName": "Zee Biskope",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=216",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=216",
         "contentId": "zeebiskope_tv",
         "Views": 53
     },
@@ -1336,7 +1336,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_566/PORTRAIT/gq8mpPvf.png?o=production",
         "channelName": "Zee Bollywood",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=176",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=176",
         "contentId": "zeebollywood_tv",
         "Views": 190
     },
@@ -1345,7 +1345,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_436/PORTRAIT/vExrDK9r.png?o=production",
         "channelName": "Zee Business",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeebusiness",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeebusiness",
         "contentId": "zeebusiness_hi_channel",
         "Views": 256
     },
@@ -1353,7 +1353,7 @@
         "channelLang": "English",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_267,h_147,c_scale,f_auto,q_auto/resources/0-9-zeecafehd/channel_list/09zeecafehdzeecaf_hd.png",
         "channelName": "Zee Cafe HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecafehd",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecafehd",
         "contentId": "zeecafe_hd_channel",
         "Views": 29
     },
@@ -1362,7 +1362,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Cinema_HD.png?raw=true",
         "channelName": "Zee Cinema HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinemahd",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemahd",
         "contentId": "zeecinema_hd_tv",
         "Views": 1005
     },
@@ -1371,7 +1371,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_441/PORTRAIT/Zux6faL8.png?o=production",
         "channelName": "Zee Cinema",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinema",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinema",
         "contentId": "zeecinema_tv",
         "Views": 617
     },
@@ -1380,7 +1380,7 @@
         "channelLang": "Telugu",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png?o=production",
         "channelName": "Zee Cinemalu HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeecinemalu",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemalu",
         "contentId": "zeecinemalu_tv",
         "Views": 244
     },
@@ -1388,7 +1388,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-176/channel_list/09176zeeclassic.png",
         "channelName": "Zee Classic",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=176",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=176",
         "contentId": "zeeclassic_channel",
         "Views": 105
     },
@@ -1396,7 +1396,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
         "channelName": "Zee Hindustan",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeehindustan",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeehindustan",
         "contentId": "zeehindustan_channel",
         "Views": 13
     },
@@ -1405,7 +1405,7 @@
         "channelLang": "Kannada",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREC_TiWh5pxFtlXFJJBMNOXYZXKOE75hb48Q&usqp=CAU",
         "channelName": "Zee Kannada HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeekannada",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeekannada",
         "contentId": "zeekannada_tv",
         "Views": 62
     },
@@ -1422,7 +1422,7 @@
         "channelLang": "Malayalam",
         "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-129/channel_list/logo386x386_1671820527.png",
         "channelName": "Zee Keralam HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=129",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=129",
         "contentId": "zeekeralam_hd_channel",
         "Views": 24
     },
@@ -1431,7 +1431,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_771/PORTRAIT/JxGFD51k.png?o=production",
         "channelName": "Zee Marathi HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeemarathi",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeemarathi",
         "contentId": "zeemarathi_hd_tv",
         "Views": 4348
     },
@@ -1439,7 +1439,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYM8w37jhNs23I5zUze9ZtqnGGP2ZduRViw&usqp=CAU",
         "channelName": "Zee MPCG",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeemadhyapradeshchat",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeemadhyapradeshchat",
         "contentId": "zeempcg_channel",
         "Views": 12
     },
@@ -1448,7 +1448,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_News.png?raw=true",
         "channelName": "Zee News",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeenews",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeenews",
         "contentId": "zeenews_tv",
         "Views": 168
     },
@@ -1457,7 +1457,7 @@
         "channelLang": "Kannada",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkcJ60WOY-66SbfcRlY2sWQBsaocwqThRF47XvARfHCaL2I3uKvhvz_U&s=10",
         "channelName": "Zee Picchar",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=241",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=241",
         "contentId": "zeepicchar_tv",
         "Views": 64
     },
@@ -1466,7 +1466,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
         "channelName": "Zee Talkies HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetalkies",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetalkies",
         "contentId": "zeetalkies_hd_channel",
         "Views": 325
     },
@@ -1475,7 +1475,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMS_n5-6JGFb1DWNYPNJ_IodHSw5dM67ngig&usqp=CAU",
         "channelName": "Zee Chitramandir",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=394",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=394",
         "contentId": "zeechitramandir",
         "Views": 404
     },
@@ -1484,7 +1484,7 @@
         "channelLang": "Tamil",
         "channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1010/PORTRAIT/d3Gg9pby.png",
         "channelName": "Zee Tamil HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetamil",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetamil",
         "contentId": "zeetamil_tv",
         "Views": 52
     },
@@ -1493,7 +1493,7 @@
         "channelLang": "Telugu",
         "channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
         "channelName": "Zee Telugu HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetelugu",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetelugu",
         "contentId": "zeetelugu_hd_channel",
         "Views": 155
     },
@@ -1502,7 +1502,7 @@
         "channelLang": "Tamil",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ObRAP_0Kl735ABw-pw169Y1an9UBKPl_Tg&usqp=CAU",
         "channelName": "Zee Thirai",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=224",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=224",
         "contentId": "zeethirai_tv",
         "Views": 56
     },
@@ -1511,7 +1511,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_TV_HD.png?raw=true",
         "channelName": "Zee TV HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeetvhd",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeetvhd",
         "contentId": "zeetv_hd_tv",
         "no": 105,
         "Views": 1744
@@ -1521,7 +1521,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://www.indiantvinfo.com/media/2020/09/Zee-Vajwa-Channel-Logo.png",
         "channelName": "Zee Vajwa",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=353",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=353",
         "contentId": "zeevajwa_tv",
         "Views": 334
     },
@@ -1530,7 +1530,7 @@
         "channelLang": "Marathi",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YZelWl6VEK4daCarO-K0csDB0S8gVhT7Qw&usqp=CAU",
         "channelName": "Zee Yuva",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zeeyuva",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zeeyuva",
         "contentId": "zeeyuva_tv",
         "Views": 107
     },
@@ -1538,7 +1538,7 @@
         "channelLang": "English",
         "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9K5ugpD4AGJb1boD3yT2fHB6mM4HMrIR_w&usqp=CAU",
         "channelName": "Zee Zest HD",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=348",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=348",
         "contentId": "zeezest_hd_channel",
         "Views": 70
     },
@@ -1547,7 +1547,7 @@
         "channelLang": "Hindi",
         "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/1x8qAt8z.png?o=production",
         "channelName": "Zing",
-        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api?c=zing",
+        "channelUrl": "https://snehapi-march.in1.bitmana.io/z5api/snehz5api.php?c=zing",
         "contentId": "zing_music",
         "Views": 68
     },
