@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "11-03-2022-04:20:12 PM",
+        "provider": "mx",
+        "tmdb": "194763",
+        "adult": false,
+        "contentId": "anamika_hindi",
+        "showName": "Anamika",
+        "showLang": "Hindi",
+        "showImage": "https://qqcdnpictest.mxplay.com/pic/282af57e7a289451caf52f64478bf7d4/en/2x3/320x480/test_pic1646850620067.webp",
+        "showArt": "https://qqcdnpictest.mxplay.com/pic/282af57e7a289451caf52f64478bf7d4/en/16x9/1280x720/test_pic1646850618491.webp",
+        "showGenre": "Thriller, Crime, Action, Drama",
+        "showStory": "Chase of an intelligent agent..., Sunny(Anamika) who forgot her own past, and no one knows the ultimate truth about her. Will Anamika be able to save herself from these powerful forces? It's time for Anamika to fight her past and solve it."
+    },
+	{
         "dateAdded": "10-03-2022-06:10:12 PM",
         "provider": "ullu",
         "tmdb": "",
