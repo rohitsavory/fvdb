@@ -1,5 +1,24 @@
 [
 	{
+        "dateAdded": "10-03-2022-12:10:51 PM",
+        "provider": "",
+        "tmdb": "855397",
+        "adult": false,
+        "contentId": "et_telugu",
+        "movieName": "ET : Evariki Thalavanchadu",
+        "movieLang": "Telugu",
+        "movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/et-telugu-et00323276-21-02-2022-02-10-52.jpg",
+        "movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xlarge/et-telugu-et00323276-21-02-2022-02-10-52.jpg",
+        "movieGenre": "Action, Drama, Comedy",
+        "movieStory": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.",
+        "movieUrl": "https://viewsb.com/db6vmycw7bl5.html",
+        "downloadUrl": "https://rocklinks.net/cGHbE",
+        "drmLicense": "",
+        "sdServer": "",
+        "hdServer": "",
+        "fhdServer": ""
+    },
+	{
         "dateAdded": "10-03-2022-12:00:51 PM",
         "provider": "",
         "tmdb": "855397",
