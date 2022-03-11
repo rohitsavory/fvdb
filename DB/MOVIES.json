@@ -1,5 +1,24 @@
 [
 	{
+        "dateAdded": "11-03-2022-02:20:51 PM",
+        "provider": "",
+        "tmdb": "855397",
+        "adult": false,
+        "contentId": "et_hindi",
+        "movieName": "ET (Hindi)",
+        "movieLang": "Hindi",
+        "movieImage": "https://upload.wikimedia.org/wikipedia/en/4/4d/Etharkkum_Thunindhavan.jpg",
+        "movieArt": "https://www.onlykollywood.com/wp-content/uploads/2022/02/Etharkkum-Thunindhavan-Suriya.jpg",
+        "movieGenre": "Action, Drama, Comedy",
+        "movieStory": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.",
+        "movieUrl": "https://viewsb.com/sxymcyorpfa1.html",
+        "downloadUrl": "https://rocklinks.net/XPzmwK",
+        "drmLicense": "",
+        "sdServer": "",
+        "hdServer": "",
+        "fhdServer": ""
+    },
+	{
         "dateAdded": "11-03-2022-01:45:51 PM",
         "provider": "z5",
         "tmdb": "640484",
