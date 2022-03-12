@@ -1,5 +1,24 @@
 [
 	{
+        "dateAdded": "11-03-2022-04:50:00 PM",
+        "provider": "hs",
+        "tmdb": "794417",
+        "adult": false,
+        "contentId": "khiladi_2022_telugu",
+        "movieName": "Khiladi",
+        "movieLang": "Telugu",
+        "movieImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6975/1136975-v-938be5d09ec0",
+        "movieArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9610/1129610-h-8724ce423456",
+        "movieGenre": "Action, Crime, Thriller",
+        "movieStory": "Mohan Gandhi is a wanted criminal who’s serving time for a crime he might or might not have committed. With large sums of money, lies and deceit involved, who is he really?",
+        "movieUrl": "https://viewsb.com/b1qmb8kvl6vx.html",
+        "downloadUrl": "https://rocklinks.net/hPJRV5",
+        "drmLicense": "",
+        "sdServer": "",
+        "hdServer": "",
+        "fhdServer": ""
+    },
+	{
         "dateAdded": "12-03-2022-12:30:51 PM",
         "provider": "nf",
         "tmdb": "696806",
