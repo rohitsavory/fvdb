@@ -1,16 +1,40 @@
 [
    {
-      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/gaddalakonda-ganesh-et00095043-20-11-2020-06-39-31.jpg",
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/the-kashmir-files-et00110845-24-02-2022-03-28-20.jpg",
       "contentId": "",
-      "dashName": "Gaddalakonda Ganesh",
+      "dashName": "The Kashmir Files",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
    },
    {
-      "artUrl": "https://image-resizer-cloud-api.akamaized.net/image/A2D5FA05-208D-45CC-9394-7AA4BEA8ED8F//0-16x9.jpg?width=1280",
+      "artUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/spider-man-no-way-home-et00319197-07-12-2021-03-25-38.jpg",
       "contentId": "",
-      "dashName": "DJ Tilu",
+      "dashName": "Spidy NWH (English)",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
+   },
+   {
+      "artUrl": "https://assets-in.bmscdn.com/content-buzz/2022/02/badhaai-do-fi.jpg",
+      "contentId": "",
+      "dashName": "Badhaai Do",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
+   },
+   {
+      "artUrl": "https://image.tmdb.org/t/p/w1280_and_h720_face/2rNt11UPFYpz0MXMephmO0uyM5h.jpg",
+      "contentId": "",
+      "dashName": "The Adam Project",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
+   },
+   {
+      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9610/1129610-h-8724ce423456",
+      "contentId": "",
+      "dashName": "Khiladi (Telugu)",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
