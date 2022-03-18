@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "18-03-2022-11:55:12 PM",
+        "provider": "z5",
+        "tmdb": "194499",
+        "adult": true,
+        "contentId": "bloodybrothers_hi",
+        "showName": "Bloody Brothers",
+        "showLang": "Hindi",
+        "showImage": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z596111/portrait/1920x7700af155a1127546388a7211ded20785b3.jpg",
+        "showArt": "https://static.digit.in/OTT/v2/images/tr:w-1200/bloody-brothers-724370.jpg",
+        "showGenre": "Comedy, Suspense",
+        "showStory": "Two brothers Jaggi and Daljeet run over an old man while driving home late one night. They do everything to cover their tracks, but when people begin to suspect, their lives fall apart."
+    },
+	{
         "dateAdded": "13-03-2022-11:10:12 PM",
         "provider": "ullu",
         "tmdb": "",
