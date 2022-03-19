@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "19-03-2022-02:55:12 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "minibomb_ullu",
+        "showName": "Mini Bomb",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/622f153c2508bd0bd41f9f0f",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/622f152e2508bd0bd41f9ed0",
+        "showGenre": "Comedy, Drama",
+        "showStory": "Mini fibs a lot and lies to save herself from life's little complications, one such lie ends up with her mother believing that she is a lesbian. Confronted by her mother she agrees to the lie whereas she is in love with a guy. Not realizing this time her lie is going to turn her life upside down."
+    },
+	{
         "dateAdded": "18-03-2022-11:55:12 AM",
         "provider": "z5",
         "tmdb": "194499",
