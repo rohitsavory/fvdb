@@ -1413,7 +1413,8 @@
 		"channelLang": "English",
 		"channelLogo": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:eco,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/AUSa_VS_INDa_DAY1_2020_1024x1471.jpg",
 		"channelName": "TestMatch",
-		"channelUrl": "",
+		"drmLicense": "https://iptv.ambaniuncle.tk/hotstar/manifest.mpd",
+		"channelUrl": "https://iptv.ambaniuncle.tk/hotstar/manifest.mpd|user-agent=\"KAIOS\"",
 		"contentId": "test_match_ind_aus_a_tv",
 		"Views": 55
 	},
