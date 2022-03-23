@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "23-03-2022-08:55:12 PM",
+        "provider": "voot, altbalaji",
+        "tmdb": "84962",
+        "adult": true,
+        "contentId": "apharan_hi",
+        "showName": "Aphran",
+        "showLang": "Hindi",
+        "showImage": "https://static.digit.in/OTT/images/tr:n-ott_home_crousel/apharan-5f033db921ed109c79000b40.jpg",
+        "showArt": "https://static.digit.in/OTT/v2/images/apharan-187248.jpg",
+        "showGenre": "Crime, Drama",
+        "showStory": "Rudra Srivastava, a senior inspector with Uttarakhand police is lured into kidnapping a young girl at her request. The plot begins as a simple plan to extort money in exchange for her release. When the chain of events go wrong and a series of lies unfold, he realizes that he is now a part of a deadly conspiracy. Will he be able to escape the outcome of his choices or become a victim of the web of lies?"
+    },
+	{
         "dateAdded": "19-03-2022-02:55:12 PM",
         "provider": "ullu",
         "tmdb": "",
