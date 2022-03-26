@@ -580,6 +580,7 @@
 	},
 	{
 		"channelCat": "Sports",
+		"event": "ipl",
 		"channelLang": "Hindi",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Hindi Star Sports 1 HD",
@@ -1218,6 +1219,7 @@
 	},
 	{
 		"channelCat": "Movies",
+		"event": "ipl",
 		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
 		"channelName": "Star GOLD 2",
@@ -1308,6 +1310,7 @@
 	},
 	{
 		"channelCat": "Sports",
+		"event": "ipl",
 		"channelLang": "English",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
 		"channelName": "Star Sports 1 HD",
