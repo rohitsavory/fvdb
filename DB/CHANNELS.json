@@ -1219,7 +1219,6 @@
 	},
 	{
 		"channelCat": "Movies",
-		"event": "ipl",
 		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
 		"channelName": "Star GOLD 2",
@@ -1228,6 +1227,7 @@
 	},
 	{
 		"channelCat": "Movies",
+		"event": "ipl",
 		"channelLang": "Hindi",
 		"channelLogo": "https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png",
 		"channelName": "Star GOLD HD",
