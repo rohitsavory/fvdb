@@ -584,8 +584,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",
 		"channelName": "Hindi Star Sports 1 HD",
-		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDMwODIwNTIwIiwiaXNlIjp0cnVlLCJqdGkiOiJjMTRiZDg4MC1mMTRmLTRmYzctODRlZi0zZWE2OWI4OGUzNWEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ4NDAxMDg5LCJuYW1lIjoiQW1vbCBBcnVuLnZhZG5lcmUiLCJpYXQiOjE2NDgzMTQ2ODksImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTQ1MiJ9XSwiaXNzIjoiVFROIn0.KlcfiQKxjI7gMA1eqKbyzPvxsKP_8w_uync_7UVh33o",
-		"channelUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta4/out/i/3141859.mpd",
+		"channelUrl": "http://103.153.39.36:8000/play/a026",
 		"contentId": "ss1hindihd"
 	},
 	{
