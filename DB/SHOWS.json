@@ -2538,7 +2538,7 @@
         "dateAdded": "07-09-2020-12:00:00 AM",
         "provider": "mx",
         "tmdb": "",
-        "adult": false,
+        "adult": true,
         "contentId": "aashram_hi_show",
         "showName": "Aashram (Hindi)",
         "showLang": "Hindi",
