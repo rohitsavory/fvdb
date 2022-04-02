@@ -1,11 +1,24 @@
 [
 	{
-		"postTime": "01-04-2022-11:00:01 PM",
-		"postId": "001",
-		"postMessage": "Welcome to FireVideo v8.1",
+		"postTime": "02-04-2022-09:20:01 PM",
+		"postId": "002",
+		"postMessage": "Join Telegram Group",
 		"contentId": "",
 		"contentType": "",
-		"externalUrl": "",
+		"externalUrl": "https://t.me/firevideoapp",
+		"images": [
+			{
+				"imageUrl": ""
+			}
+		]
+	}
+	{
+		"postTime": "02-04-2022-09:19:01 PM",
+		"postId": "001",
+		"postMessage": "Join Telegram Channel",
+		"contentId": "",
+		"contentType": "",
+		"externalUrl": "https://t.me/firevideoofficial",
 		"images": [
 			{
 				"imageUrl": ""
