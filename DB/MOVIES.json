@@ -1,5 +1,24 @@
 	[	
 		{
+			"dateAdded": "02-04-2022-03:10:51 PM",
+			"provider": "",
+			"tmdb": "799155",
+			"adult": false,
+			"contentId": "attack_2022_bolly",
+			"movieName": "Attack",
+			"movieLang": "Hindi",
+			"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/attack--part-1-et00107994-04-03-2022-05-02-18.jpg",
+			"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/attack--part-1-et00107994-25-03-2022-11-48-08.jpg",
+			"movieGenre": "Action, Sci-Fi",
+			"movieStory": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in the nick of time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi. Will Arjun succeed in his mission?",
+			"movieUrl": "https://sbfast.com/68iznw6i4w6v.html",
+			"downloadUrl": "https://rocklinks.net/uZG9TT",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
 			"dateAdded": "01-04-2022-11:25:51 AM",
 			"provider": "hs",
 			"tmdb": "946652",
