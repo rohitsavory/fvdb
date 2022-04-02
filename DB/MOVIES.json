@@ -1,5 +1,24 @@
 	[	
 		{
+			"dateAdded": "02-04-2022-08:50:51 PM",
+			"provider": "hs",
+			"tmdb": "804309",
+			"adult": false,
+			"contentId": "bheeshma_parvam_2022",
+			"movieName": "Bheeshma Parvam",
+			"movieLang": "Hindi, Malayalam, Tamil, Telugu, Kannada",
+			"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bheeshma-parvam-et00306242-28-02-2022-12-21-44.jpg",
+			"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bheeshma-parvam-et00306242-28-02-2022-12-21-44.jpg",
+			"movieGenre": "Thriller, Drama",
+			"movieStory": "Set in the backdrop of 1980s, Micheal helms his influential family in Kochi, inspiring fear and respect through his unnerving past. When a few younger members in the household feel his power over their lives too are aggravating, they join hands with foes to clamp down on him. And the story follows what’s in store for them.",
+			"movieUrl": "https://sbfast.com/ao47l1yp1jxn.html",
+			"downloadUrl": "https://rocklinks.net/QR5m",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
 			"dateAdded": "02-04-2022-03:10:51 PM",
 			"provider": "",
 			"tmdb": "799155",
