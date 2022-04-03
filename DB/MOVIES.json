@@ -1,6 +1,26 @@
 	[	
 		{
-			"dateAdded": "03-04-2022-01:18:00 PM",
+			"dateAdded": "03-04-2022-04:25:00 PM",
+			"provider": "",
+			"tmdb": "526896",
+			"adult": false,
+			"contentId": "morbius_en_hi",
+			"movieName": "Morbius",
+			"movieLang": "Hindi, English",
+			"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/morbius-et00078838-03-03-2022-03-57-24.jpg",
+			"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/morbius-et00078838-03-03-2022-03-57-24.jpg",
+			"movieGenre": "Action, Sci-Fi, Fantasy",
+			"movieStory": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+			"keywords": "morbius, morbius english, morbius hindi, morbius in hindi",
+			"movieUrl": "https://sbfast.com/dcb6w45t1tyl.html",
+			"downloadUrl": "https://rocklinks.net/J8XQT3Q",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
+			"dateAdded": "03-04-2022-03:50:00 PM",
 			"provider": "prime",
 			"tmdb": "460699",
 			"adult": false,
