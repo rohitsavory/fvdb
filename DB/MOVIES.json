@@ -1,6 +1,26 @@
 	[	
 		{
 			"dateAdded": "03-04-2022-08:45:51 PM",
+			"provider": "nf",
+			"tmdb": "897097",
+			"adult": true,
+			"contentId": "cobaltblue_2022_hi",
+			"movieName": "Cobalt Blue",
+			"movieLang": "Hindi",
+			"movieImage": "https://m.media-amazon.com/images/M/MV5BODIzOGFiN2YtNjE3My00MzYyLTgzNzgtZDZiMmQ2Y2IzMTIyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+			"movieArt": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ1tMOIJswchm0Jb_OwuN-7KKbniD7ebuCR2z4ADJHVxBKYwHruIqAjwSR2xhrLWewfpUOFZ6SpIGdNOPzoIboobplaL.jpg?r=f1b",
+			"movieGenre": "Drama, Romance",
+			"movieStory": "When an aspiring author and his free-spirited sister both fall for the enigmatic paying guest at their home, ensuing events rock their traditional family.",
+			"keywords": "cobalt blue, cobalt blue new movie, cobalt blue hindi movie, hindi movies, new hindi movies, latest hindi movies",
+			"movieUrl": "https://sbfast.com/olas0lqudxe9.html",
+			"downloadUrl": "https://rocklinks.net/Cz4C",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
+			"dateAdded": "03-04-2022-08:45:51 PM",
 			"provider": "prime",
 			"tmdb": "628577",
 			"adult": false,
