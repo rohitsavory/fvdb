@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "05-04-2022-10:50:00 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "kingsman_ullu",
+        "showName": "Kings Man",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/624af766d5345f0bcae70f30",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/624b3944b1d91c0ba0917b2d",
+        "showGenre": "Drama",
+        "showStory": "Raja Rupendra Singh is the king of an old princely state, who now wants to make his name in politics, but some mysterious incidents are happening in his state and every few days some corpse is found. On one hand, Rupendra devotes all his resources to find this murderer, on the other hand he wants to keep a secrets hidden from everyone."
+    },
+	{
         "dateAdded": "01-04-2022-09:14:00 PM",
         "provider": "ullu",
         "tmdb": "",
