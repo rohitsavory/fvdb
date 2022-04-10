@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "10-04-2022-10:50:00 PM",
+        "provider": "liv",
+        "tmdb": "90966",
+        "adult": false,
+        "contentId": "gullak",
+        "showName": "Gullak",
+        "showLang": "Hindi",
+        "showImage": "https://bingeddata.s3.amazonaws.com/uploads/2022/04/Gullak-Season-3-Review.jpg",
+        "showArt": "https://origin-staticv2.sonyliv.com/landscape_thumb/Gullak_Streaming_Now_Slate.jpg",
+        "showGenre": "Comedy, Drama, Family",
+        "showStory": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family."
+    },
+	{
         "dateAdded": "08-04-2022-10:00:00 PM",
         "provider": "ullu",
         "tmdb": "",

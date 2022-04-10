@@ -1,42 +1,10 @@
 [
 	{
-      "artUrl": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ1tMOIJswchm0Jb_OwuN-7KKbniD7ebuCR2z4ADJHVxBKYwHruIqAjwSR2xhrLWewfpUOFZ6SpIGdNOPzoIboobplaL.jpg?r=f1b",
-      "contentId": "cobaltblue_2022_hi",
-      "dashName": "Cobalt Blue",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
-   },
-   {
-      "artUrl": "https://akamaividz2.zee5.com/image/upload/c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-0-1z5117565/list/1170x658withlogo61df580622da4cd89e9f5e9dc2d02dcb.jpg",
-      "contentId": "valimai_hi",
-      "dashName": "Valimai (Hindi)",
-      "dashType": "Movie",
+      "artUrl": "https://origin-staticv2.sonyliv.com/landscape_thumb/Gullak_Streaming_Now_Slate.jpg",
+      "contentId": "gullak",
+      "dashName": "Gullak Season 3",
+      "dashType": "Show",
       "dashUrl": "",
       "videoUrl": ""
-   },
-	{
-      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3819/1163819-h-79a5abfea732",
-      "contentId": "kaunpravintambe",
-      "dashName": "Kaun Pravin Tambe?",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
-   },
-   {
-      "artUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/14d3cd8f9d5bd14eeaceb9edc99c5bcb073eb53142446d0a00f75e9da9126c5a._UY1280_UX720_RI_V_TTW_.jpg",
-      "contentId": "radheshyam_te",
-      "dashName": "Radhe Shyam (Telugu)",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
-   },
-   {
-      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/hey-sinamika-et00311473-02-03-2022-10-37-08.jpg",
-      "contentId": "hey_sinamika",
-      "dashName": "Hey Sinamika",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/sidsriramindianidolmarathi.png"
    }
 ]

@@ -1,5 +1,67 @@
 [
 	{
+		"contentId": "gullak",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbfast.com/73dygbivotc2.html",
+						"downloadUrl": "https://rocklinks.net/dpnA"
+					}
+				],
+				"title": "Season 1"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbfast.com/mk48g6sp5h2z.html",
+						"downloadUrl": "https://rocklinks.net/1uIyD2V"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfast.com/jniepb8o1myd.html",
+						"downloadUrl": "https://rocklinks.net/b9uquA"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfast.com/h84ienr7zud5.html",
+						"downloadUrl": "https://rocklinks.net/jLN09g"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbfast.com/43lfqhl29xhf.html",
+						"downloadUrl": "https://rocklinks.net/qlQW7"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbfast.com/7uyhapnbnqhs.html",
+						"downloadUrl": "https://rocklinks.net/x0u9"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbfast.com/rewuo9sdmhgu.html",
+						"downloadUrl": "https://rocklinks.net/yxjKoq"
+					}
+				],
+				"title": "Season 3"
+			}
+		]
+	},
+	{
 		"contentId": "jalebibaipart1",
 		"seasons": [
 			{
