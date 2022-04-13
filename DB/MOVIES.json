@@ -1,6 +1,25 @@
 	[	
 		{
 			"dateAdded": "10-04-2022-04:00:51 PM",
+			"provider": "",
+			"tmdb": "948020",
+			"adult": false,
+			"contentId": "rider_2022_hi_dubbed",
+			"movieName": "Rider (Hindi Dubbed)",
+			"movieLang": "Hindi",
+			"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/rider-et00305179-13-12-2021-03-45-07.jpg",
+			"movieArt": "https://i.ytimg.com/vi/WEjBesKwKB8/maxresdefault.jpg",
+			"movieGenre": "Thriller, Comedy, Horror",
+			"movieStory": "A job monger, Shiva who ends up as a taxiwala only to realise his ride is a beyond what anyone can expect.",
+			"movieUrl": "https://sbfast.com/sslnzwv588b2.html",
+			"downloadUrl": "https://rocklinks.net/AkO4gRY",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
+			"dateAdded": "10-04-2022-04:00:51 PM",
 			"provider": "z5",
 			"tmdb": "520393",
 			"adult": false,

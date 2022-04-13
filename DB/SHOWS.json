@@ -1,6 +1,19 @@
 [
 	{
         "dateAdded": "10-04-2022-10:50:00 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "jaghanya_kuttekimaut",
+        "showName": "Jaghanya (Kuttey Ki Maut)",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62543a5b5f2c2421b230fefe",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/625473ce1cff98236c8f4eca",
+        "showGenre": "Drama, Erotic",
+        "showStory": "Madhuri is a young and innocent maid who is in love with her boss Rajat. Her dreams come true when one night Rajat gets drunk and makes out with her. This incident changes her life forever, as she begins to dream the impossible of becoming a mistress from a maidservant and to do so she chooses the path of blood."
+    },
+	{
+        "dateAdded": "10-04-2022-10:50:00 PM",
         "provider": "liv",
         "tmdb": "90966",
         "adult": false,
