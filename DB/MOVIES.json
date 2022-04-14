@@ -1,5 +1,24 @@
 	[	
 		{
+			"dateAdded": "14-04-2022-09:30:51 PM",
+			"provider": "liv",
+			"tmdb": "888299",
+			"adult": false,
+			"contentId": "aadavallumeekujoharlu_2022",
+			"movieName": "Aadavaallu Meeku Johaarlu",
+			"movieLang": "Telugu, Kannada, Tamil, Malayalam",
+			"movieImage": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/AJM_Portrait_Thumb_New_movie_all_lang_13april.jpg",
+			"movieArt": "https://origin-staticv2.sonyliv.com/landscape_thumb/AJM_telugu_Landscape_Thumb.jpg",
+			"movieGenre": "Family, Comedy, Drama",
+			"movieStory": "Chiranjeevi is a bachelor seeking his perfect match. His family rejects a lot of alliances and search for a bride continues, until Aadhya enters the scene. However, Aadhya’s mother resists her daughter’s marriage to Chiru because it goes against what she believes as marriage to be – male dominance over females.",
+			"movieUrl": "https://sbfast.com/3sof18e2b130.html",
+			"downloadUrl": "https://rocklinks.net/ATJnE2e",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
 			"dateAdded": "14-04-2022-12:05:51 AM",
 			"provider": "liv",
 			"tmdb": "683056",
