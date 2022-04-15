@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "15-04-2022-11:00:00 PM",
+        "provider": "nf",
+        "tmdb": "195900",
+        "adult": false,
+        "contentId": "mai_2022_netflix",
+        "showName": "Mai: A Mother's Rage",
+        "showLang": "Hindi, Tamil, Telugu",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNTNiNzg1ZGEtODc4YS00OWQwLWI5NDctOTkzOGIwOGM4ODJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BODE5MGJiOTAtYjAzZS00NDU2LWFlMjUtNDIxZjdlN2Q4N2E5XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "showGenre": "Crime, Drama, Mystery",
+        "showStory": "A grieving mother discovers the criminals behind her daughter's tragic death and transforms from meek to merciless to get the real story."
+    },
+	{
         "dateAdded": "15-04-2022-10:50:00 AM",
         "provider": "hs",
         "tmdb": "92749",
