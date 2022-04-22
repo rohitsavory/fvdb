@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "22-04-2022-10:50:00 PM",
+        "provider": "prime",
+        "tmdb": "196847",
+        "adult": true,
+        "contentId": "guiltyminds_2022",
+        "showName": "Guilty Minds",
+        "showLang": "Hindi",
+        "showImage": "https://static.toiimg.com/photo/msid-90906759/90906759.jpg?43166",
+        "showArt": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ezgif-sixteen_nine_261.jpg?size=948:533",
+        "showGenre": "Drama, Mystery",
+        "showStory": "Guilty Minds is a legal drama about one family that is the paragon of virtue and the other, a leading law firm dealing with all shades of grey."
+    },
+	{
         "dateAdded": "22-04-2022-08:50:00 AM",
         "provider": "ullu",
         "tmdb": "",
