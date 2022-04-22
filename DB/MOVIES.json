@@ -1,5 +1,25 @@
 	[	
 		{
+			"dateAdded": "22-04-2022-09:00:00 AM",
+			"provider": "aha",
+			"tmdb": "790993",
+			"adult": false,
+			"contentId": "ghani_2022",
+			"movieName": "Ghani",
+			"movieLang": "Telugu",
+			"movieImage": "https://image-resizer-cloud-api.akamaized.net/image/59692D16-37C9-4563-956B-0AFFD26DB506/0-2x3.jpg?width=240",
+			"movieArt": "https://image-resizer-cloud-api.akamaized.net/image/59692D16-37C9-4563-956B-0AFFD26DB506//0-16x9.jpg?width=1023",
+			"movieGenre": "Action, Drama",
+			"keywords": "ghani, ghani movie, ghani telugu movie, ghani movie telugu, ghani 2022 movie, ghani 2022 telugu movie, ghani varun tej movie, varun tej, varun tej movies, ghani on aha, aha video, aha ott,",
+			"movieStory": "The life of a boxer whose passion is sports who has been training since a young age to reach his dreams suddenly things take a tough turn which totally changes his life.",
+			"movieUrl": "https://sbfast.com/oz5x76gh0hb8.html",
+			"downloadUrl": "",
+			"drmLicense": "",
+			"sdServer": "",
+			"hdServer": "",
+			"fhdServer": ""
+		},
+		{
 			"dateAdded": "22-04-2022-08:15:00 AM",
 			"provider": "prime",
 			"tmdb": "678391",
