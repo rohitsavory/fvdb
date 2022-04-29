@@ -1,7 +1,27 @@
 [
 	{
-		"dateAdded": "29-04-2022-10:35:00 PM",
+		"dateAdded": "29-04-2022-11:00:00 PM",
 		"provider": "",
+		"tmdb": "678835",
+		"adult": false,
+		"contentId": "heropanti2_hi",
+		"movieName": "Heropanti 2",
+		"movieLang": "Hindi",
+		"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/heropanti-2-et00128067-14-04-2022-03-52-38.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/heropanti-2-et00128067-14-04-2022-03-52-38.jpg",
+		"movieGenre": "Action, Drama, Romance",
+		"keywords": "heropanti 2,heropanti 2 movie,heropanti part 2,heropanti 2 movie hindi,hindi movies,bollywood movies,new hindi movies,best hindi movies,tiger shroff movies,tara sutaria movies,tara sutaria,",
+		"movieStory": "Babloo is a computer genius and Inaaya is a self-made billionaire. The two fall in love but due to unforeseen circumstances they suddenly part ways as the cybercrime lord, Laila wants him dead.",
+		"movieUrl": "https://sbfast.com/t8mxkihjv9lz.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "29-04-2022-10:35:00 PM",
+		"provider": "prime",
 		"tmdb": "271200",
 		"adult": false,
 		"contentId": "heropanti_hi",
