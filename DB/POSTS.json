@@ -1,5 +1,18 @@
 [
 	{
+		"postTime": "01-05-2022-09:55:01 AM",
+		"postId": "016",
+		"postMessage": "We have launched our Video Player on Play Store, It plays almost every video format without external codec. Please rate it on Play Store as per your experience.",
+		"contentId": "",
+		"contentType": "",
+		"externalUrl": "https://play.google.com/store/apps/details?id=com.gvuitech.videoplayer",
+		"images": [
+			{
+				"imageUrl": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/images/gv_player_fg.png"
+			}
+		]
+	},
+	{
 		"postTime": "25-04-2022-04:15:01 PM",
 		"postId": "015",
 		"postMessage": "Wireless Debugging for All Android Devices | Android Studio",
