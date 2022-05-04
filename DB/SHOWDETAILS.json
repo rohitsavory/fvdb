@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "lovenextdoor_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/f8smlaykqddh.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "charmsukhsareekidukaan",
 		"seasons": [
 			{
@@ -988,6 +1003,11 @@
 						"epNo": 4,
 						"epUrl": "https://viewsb.com/37t26un922bq.html",
 						"downloadUrl": "https://rocklinks.net/yvVIz"
+					},
+					{
+						"epName": "Episode 5 & 6",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/3nz279inhgo3.html"
 					}
 				],
 				"title": "Season 1"
