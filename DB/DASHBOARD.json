@@ -6,5 +6,21 @@
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
+   },
+   {
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "contentId": "kgf2",
+      "dashName": "KGF Chapter 2",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://origin-staticv2.sonyliv.com/landscape_thumb/PetPuraan3_Landscape_Thumb.jpg",
+      "contentId": "petpuraan_liv",
+      "dashName": "Pet Puraan",
+      "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
    }
 ]
