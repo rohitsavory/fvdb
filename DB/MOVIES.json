@@ -1,5 +1,24 @@
 [
 	{
+		"dateAdded": "08-05-2022-11:56:00 PM",
+		"provider": "",
+		"tmdb": "794961",
+		"adult": false,
+		"contentId": "akhanda_hi",
+		"movieName": "Akhanda (Hindi Dubbed)",
+		"movieLang": "Hindi",
+		"movieImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4168/1104168-v-ba2198deb8fd",
+		"movieArt": "https://i.ytimg.com/vi/mBsXpfiLzRk/maxresdefault.jpg",
+		"movieGenre": "Drama, Fantasy",
+		"movieStory": "Akhanda is a strong fierce devotee of Lord Shiva, who stands tall against evildoers.",
+		"movieUrl": "https://sbfull.com/wh2tdz8yzvva.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "08-05-2022-11:55:00 PM",
 		"provider": "hs",
 		"tmdb": "794961",
