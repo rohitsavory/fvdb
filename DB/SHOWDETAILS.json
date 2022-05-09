@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "seal_primeshots",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/fkd5dx3jge5k.html"
+					}
+				],
+				"title": "Season 3"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/0pvfxd1q72nt.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/86fcv0nd2hqs.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
 		"contentId": "petpuraan_liv",
 		"seasons": [
 			{
