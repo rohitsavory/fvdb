@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "julies2part1",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/kj37wdqf1sfl.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
+		"contentId": "julie_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/sg09o3u3zkir.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "jaghanyagaddarpart1",
 		"seasons": [
 			{
