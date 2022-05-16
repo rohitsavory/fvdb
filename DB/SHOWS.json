@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "16-05-2022-07:00:00 PM",
+        "provider": "voot",
+        "tmdb": "201786",
+        "adult": false,
+        "contentId": "aadhaishq_voot",
+        "showName": "Aadha Ishq",
+        "showLang": "Hindi",
+        "showImage": "https://timesofindia.indiatimes.com/thumb/91477274.cms?width=219&height=317&quality=80&imgsize=48779",
+        "showArt": "https://lehren.com/wp-content/uploads/2022/04/aamna-sharif-introduce-the-poster-of-romantic-series-aadha-ishq.jpg",
+        "keywords": "aadha ishq web series,voot web series,voot,voot app series,bold web series,hot web series,adult web series, adha ishk series, hindi web series, voot hindi web series, aamna shariff,",
+        "showGenre": "Romance",
+        "showStory": "A turbulent romantic drama about an explosive yet incomplete love story. Told through the lens of three complex and intertwined relationships, spanning a decade, two cities and multiple heartbreaks."
+    },
+    {
         "dateAdded": "15-05-2022-06:50:00 PM",
         "provider": "ullu",
         "tmdb": "",

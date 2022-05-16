@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "aadhaishq_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/z6vjibz2xp8m.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "julies2part1",
 		"seasons": [
 			{
