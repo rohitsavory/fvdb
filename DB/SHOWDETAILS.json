@@ -5,9 +5,14 @@
 			{
 				"Episodes": [
 					{
-						"epName": "Full Episode",
+						"epName": "Episode 1",
 						"epNo": 1,
 						"epUrl": "https://sbfast.com/4z9p1vzddcgg.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/a2y6l4jdwxvb.html"
 					}
 				],
 				"title": "Season 1"
