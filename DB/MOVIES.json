@@ -1,6 +1,25 @@
 [
 	{
-		"dateAdded": "20-05-2022-12:00:51 AM",
+		"dateAdded": "21-05-2022-12:10:51 AM",
+		"provider": "nf",
+		"tmdb": "679018",
+		"adult": false,
+		"contentId": "jersey_hi",
+		"movieName": "Jersey",
+		"movieLang": "Hindi",
+		"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jersey-et00118049-11-04-2022-12-53-49.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jersey-et00118049-11-04-2022-12-53-49.jpg",
+		"movieGenre": "Drama",
+		"movieStory": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
+		"movieUrl": "https://sbfull.com/rziv2d3sv5jj.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "21-05-2022-12:00:51 AM",
 		"provider": "nf",
 		"tmdb": "579974",
 		"adult": false,
