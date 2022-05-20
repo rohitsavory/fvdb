@@ -1,5 +1,18 @@
 [
     {
+        "dateAdded": "20-05-2022-11:40:00 PM",
+        "provider": "prime",
+        "tmdb": "200941",
+        "adult": false,
+        "contentId": "modernlovemumbai_prime",
+        "showName": "Modern Love: Mumbai",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BOTYzMDZiM2UtYjgyOS00Zjg5LTkyYWEtOTc4NTg4M2QyZjdiXkEyXkFqcGdeQXVyNTE3OTc0MDQ@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BMDUxMDczNzMtMWY0ZS00ZGJmLTk1OGUtMDRmZmRiYmZhNTAzXkEyXkFqcGdeQXVyMTIxMDk2NDE4._V1_QL50.jpg",
+        "showGenre": "Drama",
+        "showStory": "Modern Love Mumbai explores 6 unique yet universal stories of human connection and love in its varied forms – romantic, platonic, parental, sexual, familial, marital, self-love."
+    },
+    {
         "dateAdded": "16-05-2022-07:45:00 PM",
         "provider": "feelit",
         "tmdb": "",
