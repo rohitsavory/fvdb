@@ -1,25 +1,33 @@
 [
 	{
-      "artUrl": "https://resizing.flixster.com/vVL2DlSub_JY9RZFMfwC4gVJ9po=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/138/735/thumb_372677C9-644C-4F1D-8726-7D4DA91A2829.jpg",
-      "contentId": "jhund_hi",
-      "dashName": "Jhund",
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/zombivli-et00136822-29-11-2021-06-57-15.jpg",
+      "contentId": "zombivli_mr",
+      "dashName": "Zombivli",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jersey-et00118049-11-04-2022-12-53-49.jpg",
+      "contentId": "jersey_hi",
+      "dashName": "Jersey",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://www.themoviedb.org/t/p/w780/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+      "contentId": "rrr_hi",
+      "dashName": "RRR",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
    {
       "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
-      "contentId": "kgf2",
+      "contentId": "kgf2_hi_kn",
       "dashName": "KGF Chapter 2",
       "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-   },
-   {
-      "artUrl": "https://origin-staticv2.sonyliv.com/landscape_thumb/PetPuraan3_Landscape_Thumb.jpg",
-      "contentId": "petpuraan_liv",
-      "dashName": "Pet Puraan",
-      "dashType": "Show",
       "dashUrl": "",
       "videoUrl": ""
    }
