@@ -88,5 +88,11 @@
 		"name": "Kooku",
 		"adult": true,
 		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/kooku_logo.png"
+	},
+	{
+		"id": "feelit",
+		"name": "Feelit",
+		"adult": true,
+		"icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/feelit_logo.png"
 	}
 ]
