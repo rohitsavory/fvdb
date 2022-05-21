@@ -1,11 +1,26 @@
 [
     {
+        "dateAdded": "21-05-2022-04:30:12 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "julies2part2",
+        "showName": "Julie Season 2 Part 2",
+        "showLang": "Hindi",
+        "keywords": "julie web series,ullu web series,ullu,ullu app movies,bold web series,hot web series,adult web series",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62865887a164020c16020103",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/6286587d2309480be5a63b2b",
+        "showGenre": "Drama, Violence, Romance",
+        "showStory": "Ins. Jayant Kobade is certain that Julie is the killer he's been looking for. He goes beyond all his limits to prove this, and this obsession of his leads him to a crossroad, where the difference between life and death is smudged beyond words."
+    },
+    {
         "dateAdded": "21-05-2022-11:50:12 AM",
         "provider": "prime",
         "tmdb": "101352",
         "adult": false,
         "contentId": "panchayat",
         "showName": "Panchayat",
+        "keywords": "panchayat, panchayat web series, prime video series, prime video shows, amazon prime video, 2022 web series, hindi web series, hindi",
         "showLang": "Hindi",
         "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XgYASNQRUfRToOjmJm0m20wjNOsQbzx7rw&usqp=CAU",
         "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6l3HCwLSv3dyeC2rSh6PvW_VFH3nNKh0cqQ&usqp=CAU",
