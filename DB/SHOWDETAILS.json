@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "lovedeathandrobots_hi_en",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/ablge3snixem.html"
+					}
+				],
+				"title": "Season 3"
+			}
+		]
+	},
+	{
 		"contentId": "escaypelive_hi",
 		"seasons": [
 			{
@@ -13,7 +28,7 @@
 				"title": "Season 1"
 			}
 		]
-	},
+	},	
 	{
 		"contentId": "julies2part2",
 		"seasons": [

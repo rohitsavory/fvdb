@@ -1,5 +1,19 @@
 [
     {
+        "dateAdded": "23-05-2022-11:40:12 AM",
+        "provider": "nf",
+        "tmdb": "86831",
+        "adult": false,
+        "contentId": "lovedeathandrobots_hi_en",
+        "showName": "Love, Death & Robots",
+        "showLang": "Hindi, English",
+        "keywords": "love death and robots, love death and robots season 3, netflix series, netflix web series, hindi web series, english web series, hollywood web series, anime, animation web series, anime web series, anime series, animated series",
+        "showImage": "https://www.themoviedb.org/t/p/w500/cRiDlzzZC5lL7fvImuSjs04SUIJ.jpg",
+        "showArt": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/nBrkOZyI75artyizuBFeya48KbO.jpg",
+        "showGenre": "Animation, Sci-Fi, Fantasy",
+        "showStory": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+    },
+	{
         "dateAdded": "21-05-2022-05:00:12 PM",
         "provider": "hs",
         "tmdb": "200822",
