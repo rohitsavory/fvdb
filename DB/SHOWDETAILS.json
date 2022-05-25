@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "wrongturnpart1_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/cu04a7ps0a3s.html"
+					}
+				],
+				"title": "Season 3"
+			}
+		]
+	},
+	{
 		"contentId": "seal_primeshots",
 		"seasons": [
 			{
