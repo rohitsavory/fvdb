@@ -1,5 +1,80 @@
 [
 	{
+		"contentId": "strangerthings",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 04",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/o2vvnaqtdne2.html"
+					},
+					{
+						"epName": "Episode 05",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/89ots9bjdmy8.html"
+					},
+					{
+						"epName": "Episode 06",
+						"epNo": 6,
+						"epUrl": "https://sbfull.com/dck38e0m4gam.html"
+					},
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://sbfull.com/mb62baclhckg.html"
+					}
+				],
+				"title": "Season 4 Vol 1"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 04",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/q5p5v0ufmww8.html"
+					},
+					{
+						"epName": "Episode 05 - 08",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/7obmzgvq4vwl.html"
+					}
+				],
+				"title": "Season 3"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 04",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/kiw6z48qz32a.html"
+					},
+					{
+						"epName": "Episode 05 - 09",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/xji9vwgi7jw3.html"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 04",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/ppxwqdwxy911.html"
+					},
+					{
+						"epName": "Episode 05 - 08",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/mgizwwp53n6j.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "charmsukhjaaneanjanwemein5",
 		"seasons": [
 			{

@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "28-05-2022-09:50:00 PM",
+        "provider": "nf",
+        "tmdb": "66732",
+        "adult": false,
+        "contentId": "strangerthings",
+        "showName": "Stranger Things",
+        "showLang": "Hindi, English",
+        "showImage": "https://www.themoviedb.org/t/p/w500/gLUCHViz1gzcEstU3dqL8NeQmEa.jpg",
+        "showArt": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg",
+        "keywords": "stranger things web series, netflix, hindi web series, english web series,",
+        "showGenre": "Drama, Sci-Fi, Mystery, Fantasy",
+        "showStory": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
+    },
+	{
         "dateAdded": "27-05-2022-09:30:00 PM",
         "provider": "ullu",
         "tmdb": "",
