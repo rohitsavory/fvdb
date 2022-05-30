@@ -1,5 +1,40 @@
 [
 	{
+		"contentId": "takhatgarh_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/piiq4l96i4no.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/vpfyg6lzs8by.html"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbfull.com/ziyjv6b4ir19.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbfull.com/po2wax0c7vyz.html"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/w95cerelvxn2.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "nirmalpathakkigharwapsi_hi",
 		"seasons": [
 			{
