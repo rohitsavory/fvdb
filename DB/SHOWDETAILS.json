@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "wrongturnpart2_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Full Episode",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/862e7275kesk.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "takhatgarh_hi",
 		"seasons": [
 			{
@@ -150,7 +165,7 @@
 						"epUrl": "https://sbfull.com/cu04a7ps0a3s.html"
 					}
 				],
-				"title": "Season 3"
+				"title": "Season 1"
 			}
 		]
 	},
