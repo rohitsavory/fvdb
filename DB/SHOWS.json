@@ -1,6 +1,20 @@
 [
 	{
         "dateAdded": "01-06-2022-08:00:00 PM",
+        "provider": "mx",
+        "tmdb": "107588",
+        "adult": false,
+        "contentId": "aashram_hi",
+        "showName": "Aashram",
+        "showLang": "Hindi",
+        "showImage": "https://static.toiimg.com/photo/msid-77798232/Aashram%20Season%201.jpg?77798232",
+        "showArt": "https://qqcdnpictest.mxplay.com/pic/2fc2f7e7ce252a450fcaa029a5366836/en/16x9/640x360/test_pic1605254850740.webp",
+        "keywords": "aashram series, aashram mx player series, hindi web series, new web series, bobby deol web series, bobby deol movies, mx player,",
+        "showGenre": "Drama, Crime",
+        "showStory": "A duplicitous, aashram based, Indian Godman's good deeds serve activities criminal and unholy, such as rapes, murders, drugs, vote bank politics and forced male emasculation. The law and a few crusaders investigate to bring him to account."
+    },
+	{
+        "dateAdded": "01-06-2022-08:00:00 PM",
         "provider": "ullu",
         "tmdb": "",
         "adult": true,
@@ -2977,18 +2991,5 @@
         "showArt": "https://firebasestorage.googleapis.com/v0/b/fir-b876b.appspot.com/o/FireVideo%2FWeb%20Shows%2FRiti%20Riwaj%2Friti%20riwaj%20art.png?alt=media&token=ae59d296-1809-46be-9846-599d4807e4e3",
         "showGenre": "Romance, Adult",
         "showStory": "Riti Riwaj revolves around a woman who is sexually unsatisfied and her quest to fulfill her needs. Indian society does not openly speak about a woman's needs as it is considered to be taboo but this series attempts to step into the genre and break stereotypes."
-    },
-    {
-        "dateAdded": "07-09-2020-12:00:00 AM",
-        "provider": "mx",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "aashram_hi_show",
-        "showName": "Aashram (Hindi)",
-        "showLang": "Hindi",
-        "showImage": "https://static.digit.in/OTT/v2/images/tr:w-1200/aashram-18174.jpg",
-        "showArt": "https://qqcdnpictest.mxplay.com/pic/2fc2f7e7ce252a450fcaa029a5366836/en/16x9/1280x720/test_pic1605254850740.webp",
-        "showGenre": "Drama",
-        "showStory": "Based in the fictional city of Kashipur, is an empire created by a self proclaimed Godman - Kashipur waale Baba Nirala, who derives his power from the influence he has over the lower strata of the society. He has often stood for them and they consider him to be their Messiah!"
     }
 ]

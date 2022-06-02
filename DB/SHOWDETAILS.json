@@ -1,5 +1,60 @@
 [
 	{
+		"contentId": "aashram_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/blc6fokjo1ns.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/704juczl2b57.html"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbfull.com/sgrnw6smvsck.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbfull.com/zx1nfdtgww97.html"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/oq8tphsujlzw.html"
+					},
+					{
+						"epName": "Episode 6",
+						"epNo": 6,
+						"epUrl": "https://sbfull.com/x5vs43buai21.html"
+					},
+					{
+						"epName": "Episode 7",
+						"epNo": 7,
+						"epUrl": "https://sbfull.com/44uv3u7uv665.html"
+					},
+					{
+						"epName": "Episode 8",
+						"epNo": 8,
+						"epUrl": "https://sbfull.com/ry5m4nj4rzeq.html"
+					},
+					{
+						"epName": "Episode 9",
+						"epNo": 9,
+						"epUrl": "https://sbfull.com/mtu0jzjo109k.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "wrongturnpart2_ullu",
 		"seasons": [
 			{
@@ -5558,122 +5613,6 @@
 						"epNo": 5,
 						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINAL_CONTENT/DOMESTIC/HINDI/XXX_UNCENSORED_SEASON2_HINDI_EP05_hi_6f7d99d5a8dc74ec5f4a41ffd1a5a7b8/index.m3u8",
 						"Views": 9
-					}
-				],
-				"title": "Season 2"
-			}
-		]
-	},
-	{
-		"contentId": "aashram_hi_show",
-		"seasons": [
-			{
-				"Episodes": [
-					{
-						"epName": "Episode 1",
-						"epNo": 1,
-						"epUrl": "https://j2apps.s.llnwi.net/video/1b6c63957335bf6600c4177fa00ee30f/1/hls/h264_high.m3u8",
-						"Views": 15
-					},
-					{
-						"epName": "Episode 2",
-						"epNo": 2,
-						"epUrl": "https://j2apps.s.llnwi.net/video/e067007a8c36f4f949585add8d2d256a/7/hls/h264_high.m3u8",
-						"Views": 6
-					},
-					{
-						"epName": "Episode 3",
-						"epNo": 3,
-						"epUrl": "https://j2apps.s.llnwi.net/video/266e55dab2bf3a48463e390d32958b2e/3/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 4",
-						"epNo": 4,
-						"epUrl": "https://j2apps.s.llnwi.net/video/c9a6eefb5c97f40be7a3cf15ebba3beb/8/hls/h264_high.m3u8",
-						"Views": 3
-					},
-					{
-						"epName": "Episode 5",
-						"epNo": 5,
-						"epUrl": "https://j2apps.s.llnwi.net/video/63676778904a72f3df44662101c57405/3/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 6",
-						"epNo": 6,
-						"epUrl": "https://j2apps.s.llnwi.net/video/eb08a82b23f8a1ced8092840d04437ad/4/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 7",
-						"epNo": 7,
-						"epUrl": "https://j2apps.s.llnwi.net/video/a836e2e2c9b8fa100d6852983399dd72/3/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 8",
-						"epNo": 8,
-						"epUrl": "https://j2apps.s.llnwi.net/video/55ca8a74a11b0a7936e454f78482985d/8/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 9",
-						"epNo": 9,
-						"epUrl": "https://j2apps.s.llnwi.net/video/8369861611517c2efe53a1c4b44fb22e/24/hls/h264_high.m3u8",
-						"Views": 1
-					}
-				],
-				"title": "Season 1"
-			},
-			{
-				"Episodes": [
-					{
-						"epName": "Episode 1",
-						"epNo": 1,
-						"epUrl": "https://j2apps.s.llnwi.net/video/39daf61cd01716d775827c21f646c4f9/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 2",
-						"epNo": 2,
-						"epUrl": "https://j2apps.s.llnwi.net/video/61179723e9766e5186830b86631b9565/2/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 3",
-						"epNo": 3,
-						"epUrl": "https://j2apps.s.llnwi.net/video/3537be04810f37c687cc9f49f405c2fa/2/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 4",
-						"epNo": 4,
-						"epUrl": "https://j2apps.s.llnwi.net/video/0d4c484b15414b2dd7bee7193cd97992/4/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 5",
-						"epNo": 5,
-						"epUrl": "https://j2apps.s.llnwi.net/video/5f7ed57102dddf733fe78049078ac0d2/3/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 6",
-						"epNo": 6,
-						"epUrl": "https://j2apps.s.llnwi.net/video/14c6903adb8dfc9f2b1d3b3fbc447f46/3/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 7",
-						"epNo": 7,
-						"epUrl": "https://j2apps.s.llnwi.net/video/fa8ac8aee85b6fa89b8897d9d24d2b9a/2/hls/h264_high.m3u8"
-					},
-					{
-						"epName": "Episode 8",
-						"epNo": 8,
-						"epUrl": "https://j2apps.s.llnwi.net/video/e199c394770f7d1540eb62ff55b0fdc1/3/hls/h264_high.m3u8",
-						"Views": 1
-					},
-					{
-						"epName": "Episode 9",
-						"epNo": 9,
-						"epUrl": "https://j2apps.s.llnwi.net/video/0fc160bd9478fe72c92f3c7d5b99ddf3/hls/h264_high.m3u8",
-						"Views": 1
 					}
 				],
 				"title": "Season 2"
