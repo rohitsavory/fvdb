@@ -2,7 +2,62 @@
 	{
 		"contentId": "aashram_hi",
 		"seasons": [
-		{
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/w3y3czssf0qm.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/anooww5um59j.html"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbfull.com/qcujn4j1k3dj.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbfull.com/hgkfwwe0aep7.html"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/0vzru43ykyco.html"
+					},
+					{
+						"epName": "Episode 6",
+						"epNo": 6,
+						"epUrl": "https://sbfull.com/nbre5r42ixja.html"
+					},
+					{
+						"epName": "Episode 7",
+						"epNo": 7,
+						"epUrl": "https://sbfull.com/18k1w9qw97jr.html"
+					},
+					{
+						"epName": "Episode 8",
+						"epNo": 8,
+						"epUrl": "https://sbfull.com/e6g9s5geflcw.html"
+					},
+					{
+						"epName": "Episode 9",
+						"epNo": 9,
+						"epUrl": "https://sbfull.com/ycnq27p13dw1.html"
+					},
+					{
+						"epName": "Episode 10",
+						"epNo": 10,
+						"epUrl": "https://sbfull.com/6atlzsmfswln.html"
+					}
+				],
+				"title": "Season 3"
+			},
+			{
 				"Episodes": [
 					{
 						"epName": "Episode 01 - 05",
