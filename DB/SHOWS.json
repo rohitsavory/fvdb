@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "07-06-2022-11:40:12 PM",
+        "provider": "nf",
+        "tmdb": "100729",
+        "adult": false,
+        "contentId": "she_netflix",
+        "showName": "SHE",
+        "showLang": "Hindi",
+        "showImage": "https://www.themoviedb.org/t/p/w500/w7LgKmvUf6C67gMnQYWvQjgJdqm.jpg",
+        "showArt": "https://www.themoviedb.org/t/p/w780/76pUEizSpNL8q7kZqit8WvyS8Q8.jpg",
+		"keywords": "she netflix web series, netflix web series, hindi web series, bold web series,",
+        "showGenre": "Crime, Drama",
+        "showStory": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential."
+    },
+	{
         "dateAdded": "07-06-2022-10:47:12 PM",
         "provider": "ullu",
         "tmdb": "",
