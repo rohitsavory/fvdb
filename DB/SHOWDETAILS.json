@@ -1,5 +1,35 @@
 [
 	{
+		"contentId": "palangtoddamaadji2",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/1w23au3n2iqg.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
+		"contentId": "palangtoddamaadji",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://viewsb.com/bg7lya42k14v.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "charmsukhjaaneanjanwemein5part2",
 		"seasons": [
 			{
@@ -1621,22 +1651,6 @@
 						"epName": "Episode 5 & 6",
 						"epNo": 5,
 						"epUrl": "https://sbfull.com/3nz279inhgo3.html"
-					}
-				],
-				"title": "Season 1"
-			}
-		]
-	},
-	{
-		"contentId": "palangtoddamaadji",
-		"seasons": [
-			{
-				"Episodes": [
-					{
-						"epName": "Complete Season",
-						"epNo": 1,
-						"epUrl": "https://viewsb.com/bg7lya42k14v.html",
-						"downloadUrl": "https://rocklinks.net/k618W"
 					}
 				],
 				"title": "Season 1"
