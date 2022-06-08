@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "08-06-2022-10:50:12 AM",
+        "provider": "prime",
+        "tmdb": "76479",
+        "adult": false,
+        "contentId": "theboys_dual",
+        "showName": "The Boys",
+        "showLang": "Hindi, English",
+        "showImage": "https://tvline.com/wp-content/uploads/2022/03/the-boys-season-3-poster.jpg",
+        "showArt": "https://bleedingfool.com/wp-content/uploads/2022/05/the-boys-season-3.jpg",
+		"keywords": "boys prime web series, prime video web series, hindi web series, bold web series, english web series",
+        "showGenre": "Sci-Fi, Fantasy, Action, Adventure",
+        "showStory": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty."
+    },
+	{
         "dateAdded": "07-06-2022-11:40:12 PM",
         "provider": "nf",
         "tmdb": "100729",
