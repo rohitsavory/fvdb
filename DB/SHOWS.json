@@ -1,15 +1,29 @@
 [
 	{
+        "dateAdded": "13-06-2022-06:55:12 PM",
+        "provider": "nf",
+        "tmdb": "111616",
+        "adult": false,
+        "contentId": "firstkill_nf_dual",
+        "showName": "Baby Fever",
+        "showLang": "Hindi, English",
+        "showImage": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQXmxNJMHtJ4aK3mGc1KLbxjz4wspjTFtRdIPQVzsgVe6vVUBrF059Ifd57GBHnYnUGVZwDEP294hdGdo10MuAOQhSk-KH_s_SkWxf0EvMw7nCpsTqiBxjUagCIL0cOl7fTIdd5EeuA9Y4XVJUyInunEh.jpg?r=354",
+        "showArt": "https://staticg.sportskeeda.com/editor/2022/06/c25df-16548554463672-1920.jpg",
+		"keywords": "first kill web series, netflix web series, hindi web series, bold web series, english web series,",
+        "showGenre": "Drama, Mystery",
+        "showStory": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill."
+    },
+	{
         "dateAdded": "13-06-2022-01:55:12 PM",
         "provider": "nf",
         "tmdb": "202311",
         "adult": false,
         "contentId": "babyfever",
         "showName": "Baby Fever",
-        "showLang": "Hindi, English",
+        "showLang": "Hindi",
         "showImage": "https://simkl.net/posters/12/12597941ec573b626d_0.jpg",
         "showArt": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYrFcvgaqOui-aNLCX0rntk3rS6CicEYdtrqN_3XaESuTpyrHbZH6SCfeIOfO9YcE87pSRhz0Ab_NDC7n9j3y6wZI6QLAt9oD4fy.jpg?r=177",
-		"keywords": "baby fever web series, netflix web series, hindi web series, bold web series, english web series",
+		"keywords": "baby fever web series, netflix web series, hindi web series, bold web series,",
         "showGenre": "Drama",
         "showStory": "When a fertility doctor drunkenly inseminates herself with her ex-boyfriend's sperm, she scrambles to explain her pregnancy — and win back her lost love."
     },

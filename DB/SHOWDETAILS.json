@@ -1,5 +1,55 @@
 [
 	{
+		"contentId": "firstkill_nf_dual",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 1",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/i9qlm9zk93oa.html"
+					},
+					{
+						"epName": "Episode 2",
+						"epNo": 2,
+						"epUrl": "https://sbfull.com/2e0cjnp1k4j6.html"
+					},
+					{
+						"epName": "Episode 3",
+						"epNo": 3,
+						"epUrl": "https://sbfull.com/ykptkp56c9iy.html"
+					},
+					{
+						"epName": "Episode 4",
+						"epNo": 4,
+						"epUrl": "https://sbfull.com/ac6yx1qm0y5x.html"
+					},
+					{
+						"epName": "Episode 5",
+						"epNo": 5,
+						"epUrl": "https://sbfull.com/2hbo2yryxwzb.html"
+					},
+					{
+						"epName": "Episode 6",
+						"epNo": 6,
+						"epUrl": "https://sbfull.com/v409l0gfh84i.html"
+					},
+					{
+						"epName": "Episode 7",
+						"epNo": 7,
+						"epUrl": "https://sbfull.com/yilvu8htnqud.html"
+					},
+					{
+						"epName": "Episode 8",
+						"epNo": 8,
+						"epUrl": "https://sbfull.com/96dnmcokwcn2.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "thebrokennews_hi",
 		"seasons": [
 			{
