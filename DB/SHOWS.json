@@ -1,11 +1,25 @@
 [
 	{
         "dateAdded": "13-06-2022-06:55:12 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "dunalis2part1_ullu",
+        "showName": "Dunali S2 Part 1",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62a1c3b7b0f6ec0bd2689e0b",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62a23c594e686d0bcfc51402",
+		"keywords": "dunali ullu web series, ullu web series, hindi web series, bold web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Sameer finds a girl with the rarest of the rare gift, just like him which doubles the fun and excitement in his life and everyone around him. Sameer tries to explore his sexuallity amidst this adventure which seems as a blessing to many, but a curse to him."
+    },
+	{
+        "dateAdded": "13-06-2022-06:55:12 PM",
         "provider": "nf",
         "tmdb": "111616",
         "adult": false,
         "contentId": "firstkill_nf_dual",
-        "showName": "Baby Fever",
+        "showName": "First Kill",
         "showLang": "Hindi, English",
         "showImage": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQXmxNJMHtJ4aK3mGc1KLbxjz4wspjTFtRdIPQVzsgVe6vVUBrF059Ifd57GBHnYnUGVZwDEP294hdGdo10MuAOQhSk-KH_s_SkWxf0EvMw7nCpsTqiBxjUagCIL0cOl7fTIdd5EeuA9Y4XVJUyInunEh.jpg?r=354",
         "showArt": "https://staticg.sportskeeda.com/editor/2022/06/c25df-16548554463672-1920.jpg",
