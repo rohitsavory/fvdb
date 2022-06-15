@@ -1,6 +1,20 @@
 [
 	{
-        "dateAdded": "15-06-2022-10:22:12 AM",
+        "dateAdded": "15-06-2022-04:20:12 PM",
+        "provider": "planetmarathi",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "raanbaazaar_mr",
+        "showName": "Raanbaazaar",
+        "showLang": "Marathi",
+        "showImage": "https://pogolinks.guru/wp-content/uploads/2022/05/RaanBaazaar-poster1.jpg",
+        "showArt": "https://bdmusicboss.one/wp-content/uploads/2022/06/Raanbaazaar-2022-S01-PM-Web-Series-WEB-DL-H264-AAC-1080p-720p-480p-Download.webp",
+		"keywords": "raanbaazaar planet marathi web series, planet marathi app, marathi web series, bold web series,",
+        "showGenre": "Thriller",
+        "showStory": "The dark side of politics in Maharashtra surfaces because of circumstances involving two ‘escorts’. It’s a dirty business of flesh, power and mind games, with the common man reduced to a mere pawn in this system run with hidden agendas and power plays."
+    },
+	{
+        "dateAdded": "15-06-2022-04:15:12 PM",
         "provider": "minitv",
         "tmdb": "203763",
         "adult": false,
