@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "15-06-2022-10:22:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "palangtoddamaadji2part2",
+        "showName": "Palang Tod Damaad Ji S2P2",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62a721a34e686d0bcfddb84e",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62a78262247da00bbe3f10dd",
+		"keywords": "palang tod ullu web series, ullu app, hindi web series, bold web series,",
+        "showGenre": "Action, Drama, Fantasy",
+        "showStory": "Ranjana has secured her stay with Mohan for a longer time. Rakesh finds out about their secret affair and blackmails Mohan into having sex with Ranjana. What seemed a gesture of empathy, turns out to be a cunning ploy of events that neither Mohan nor Rakesh could have seen coming."
+    },
+	{
         "dateAdded": "13-06-2022-06:55:12 PM",
         "provider": "ullu",
         "tmdb": "",
@@ -89,7 +103,7 @@
         "tmdb": "",
         "adult": true,
         "contentId": "palangtoddamaadji2",
-        "showName": "Palang Tod Damaad Ji",
+        "showName": "Palang Tod Damaad Ji S2P1",
         "showLang": "Hindi",
         "showImage": "https://ullu2-files.ullu.app/media-metadata/629e1e55b0f6ec0bd255dae5",
         "showArt": "https://ullu2-files.ullu.app/media-metadata/629e48344e686d0bcfb0da17",
