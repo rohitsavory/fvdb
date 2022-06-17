@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "17-06-2022-02:45:12 PM",
+        "provider": "hs",
+        "tmdb": "204157",
+        "adult": false,
+        "contentId": "masoom_hi",
+        "showName": "Masoom",
+        "showLang": "Hindi",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2x/sources/r1/cms/prod/250/1280250-v-d2703f3616e1",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/249/1280249-h-feea8b927774",
+		"keywords": "masoom hotstar web series, hotstar web series, hindi web series, bold web series,",
+        "showGenre": "Crime, Drama",
+        "showStory": "In the pursuit of justice for her deceased mother, a fierce Sana Kapoor fights her father and uncovers secrets that can impair her relationship with her family."
+    },
+	{
         "dateAdded": "17-06-2022-01:25:12 PM",
         "provider": "prime",
         "tmdb": "200861",
