@@ -1,9 +1,9 @@
 [
    {
-      "artUrl": "https://github.com/firevideoapp/fvdb/raw/main/images/firevideo_home_dash.jpg",
-      "contentId": "",
-      "dashName": "",
-      "dashType": "Movie",
+      "artUrl": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/175724-rcnxnszfst-1655132768.jpg",
+      "contentId": "she_netflix",
+      "dashName": "SHE",
+      "dashType": "Show",
       "dashUrl": "",
       "videoUrl": ""
    }
