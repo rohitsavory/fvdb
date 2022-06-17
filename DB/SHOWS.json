@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "17-06-2022-06:15:12 PM",
+        "provider": "nf",
+        "tmdb": "100729",
+        "adult": false,
+        "contentId": "she_netflix",
+        "showName": "SHE",
+        "showLang": "Hindi",
+        "showImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202206/she_season_2_poster_1655270015.jpeg",
+        "showArt": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/175724-rcnxnszfst-1655132768.jpg",
+		"keywords": "she netflix web series, netflix web series, hindi web series, bold web series,",
+        "showGenre": "Crime, Drama",
+        "showStory": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential."
+    },
+	{
         "dateAdded": "17-06-2022-02:45:12 PM",
         "provider": "hs",
         "tmdb": "204157",
@@ -152,20 +166,6 @@
 		"keywords": "boys prime web series, prime video web series, hindi web series, bold web series, english web series",
         "showGenre": "Sci-Fi, Fantasy, Action, Adventure",
         "showStory": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty."
-    },
-	{
-        "dateAdded": "07-06-2022-11:40:12 PM",
-        "provider": "nf",
-        "tmdb": "100729",
-        "adult": false,
-        "contentId": "she_netflix",
-        "showName": "SHE",
-        "showLang": "Hindi",
-        "showImage": "https://www.themoviedb.org/t/p/w500/w7LgKmvUf6C67gMnQYWvQjgJdqm.jpg",
-        "showArt": "https://www.themoviedb.org/t/p/w780/76pUEizSpNL8q7kZqit8WvyS8Q8.jpg",
-		"keywords": "she netflix web series, netflix web series, hindi web series, bold web series,",
-        "showGenre": "Crime, Drama",
-        "showStory": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential."
     },
 	{
         "dateAdded": "07-06-2022-10:47:12 PM",
