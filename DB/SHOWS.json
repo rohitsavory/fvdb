@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "17-06-2022-01:25:12 PM",
+        "provider": "prime",
+        "tmdb": "200861",
+        "adult": false,
+        "contentId": "suzhalthevortex_hi",
+        "showName": "Suzhal - The Vortex (Hindi)",
+        "showLang": "Hindi",
+        "showImage": "https://movies4u.mom/wp-content/uploads/2022/06/Suzhal_The_Vortex_poster.jpg",
+        "showArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e8c9c35003f21e09652386448f4446f3cb582b9decb1b569e3f6d57b56ffc9a._V_SX1080_.jpg",
+		"keywords": "suzhal prime video web series, prime video web series, hindi web series, bold web series,",
+        "showGenre": "Crime, Mystery",
+        "showStory": "When a crime hits a small town in India. Set against the backdrop of an unique micro-festival, ancient myths collide with the troubling present as we are drawn into the eye of the storm."
+    },
+	{
         "dateAdded": "17-06-2022-12:50:12 PM",
         "provider": "ullu",
         "tmdb": "",
