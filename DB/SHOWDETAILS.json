@@ -1,5 +1,20 @@
 [
 	{
+		"contentId": "dunalis2part2_ullu",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Part",
+						"epNo": 1,
+						"epUrl": "https://sbfull.com/8hijwcsxtcpj.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
+	{
 		"contentId": "raanbaazaar_mr",
 		"seasons": [
 			{
@@ -55,7 +70,7 @@
 			{
 				"Episodes": [
 					{
-						"epName": "Complete Season",
+						"epName": "Complete Part",
 						"epNo": 1,
 						"epUrl": "https://sbfull.com/t071ae8euj49.html"
 					}
