@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "24-06-2022-06:05:12 PM",
+        "provider": "nf",
+        "tmdb": "197588",
+        "adult": false,
+        "contentId": "manvsbee_hi_en",
+        "showName": "Man Vs Bee",
+        "showLang": "English, Hindi",
+        "showImage": "https://bingeddata.s3.amazonaws.com/uploads/2022/04/Man-Vs-Bee-1-203x300.jpg",
+        "showArt": "https://bingeddata.s3.amazonaws.com/uploads/2022/06/Man_Vs_Bee_on_netflix.jpg",
+		"keywords": "man vs bee netflix web series, mr bean web series, mr. bean web series netflix, hindi web series, netflix web series,",
+        "showGenre": "Comedy",
+        "showStory": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?"
+    },
+	{
         "dateAdded": "19-06-2022-12:41:12 PM",
         "provider": "mx, hoichoi",
         "tmdb": "201865",
