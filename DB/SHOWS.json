@@ -1,5 +1,33 @@
 [
 	{
+        "dateAdded": "24-06-2022-10:50:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "dunalis2part3_ullu",
+        "showName": "Dunali S2 Part 3",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62b42c830cc78b0bba637c2c",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62b4b1340cc78b0bba65d772",
+		"keywords": "dunali ullu web series, ullu web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Sameer is all set to marry Natasha. But this news doesn't go well with Abha and Bandookwala as they plan to create misunderstandings between the lovers, but fail. But when Sameer realizes that Natasha is the daughter of the mafia queen of the state, Chandni. The marriage for which he was so excited becomes his biggest problem and he starts running away to save his life."
+    },
+	{
+        "dateAdded": "24-06-2022-10:45:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "jaals1p1_ullu",
+        "showName": "Jaal S1 Part 1",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62b0b4de247da00bbe699174",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62b0bcd78e16b70bd5c90aee",
+		"keywords": "jaal ullu web series, ullu web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "Nidhi is married to a dysfunctional family, where relationships are mere words, every member tries to overplay the other to gain monitary benifits, to overcome these odds, Nidhi has to become someone she never was."
+    },
+	{
         "dateAdded": "24-06-2022-06:05:12 PM",
         "provider": "nf",
         "tmdb": "197588",
