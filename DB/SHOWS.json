@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "01-07-2022-06:20:00 PM",
+        "provider": "nf",
+        "tmdb": "66732",
+        "adult": false,
+        "contentId": "strangerthings",
+        "showName": "Stranger Things",
+        "showLang": "Hindi, English",
+        "showImage": "https://www.themoviedb.org/t/p/w500/gLUCHViz1gzcEstU3dqL8NeQmEa.jpg",
+        "showArt": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg",
+        "keywords": "stranger things web series, netflix, hindi web series, english web series,",
+        "showGenre": "Drama, Sci-Fi, Mystery, Fantasy",
+        "showStory": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
+    },
+	{
         "dateAdded": "01-07-2022-12:30:12 PM",
         "provider": "mx",
         "tmdb": "205147",
@@ -418,20 +432,6 @@
         "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9473/1249473-h-b82330364ddc",
         "showGenre": "Crime, Sci-Fi, Fantasy",
         "showStory": "The different journeys of six regular people as they struggle to win, fame and fortune on a social media app called Escaype Live which promises big money to the winning contestant. Will the lines between the real and virtual begin to blur as they gear up for the contest?"
-    },
-	{
-        "dateAdded": "28-05-2022-09:50:00 PM",
-        "provider": "nf",
-        "tmdb": "66732",
-        "adult": false,
-        "contentId": "strangerthings",
-        "showName": "Stranger Things",
-        "showLang": "Hindi, English",
-        "showImage": "https://www.themoviedb.org/t/p/w500/gLUCHViz1gzcEstU3dqL8NeQmEa.jpg",
-        "showArt": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg",
-        "keywords": "stranger things web series, netflix, hindi web series, english web series,",
-        "showGenre": "Drama, Sci-Fi, Mystery, Fantasy",
-        "showStory": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
     },
 	{
         "dateAdded": "27-05-2022-09:30:00 PM",
