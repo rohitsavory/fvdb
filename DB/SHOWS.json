@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "01-07-2022-12:30:12 PM",
+        "provider": "mx",
+        "tmdb": "205147",
+        "adult": false,
+        "contentId": "miyabiwiaurmurder_hi",
+        "showName": "Miya Biwi Aur Murder",
+        "showLang": "Hindi",
+        "showImage": "https://qqcdnpictest.mxplay.com/pic/fa83fdbb12a19e9b877c065c3d76d770/en/2x3/320x480/test_pic1656596099441.webp",
+        "showArt": "https://qqcdnpictest.mxplay.com/pic/fa83fdbb12a19e9b877c065c3d76d770/en/16x9/1280x720/test_pic1656596088145.webp",
+		"keywords": "miya biwi aur murder mx player web series, mx player web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Crime, Comedy, Drama",
+        "showStory": "Miya aur Biwi, Priya and Jayesh are struggling in a dysfunctional marriage of 7 years. 1 night, over the course of 7 hours, they will have to work together to stay alive. Can they do it? Or do they fall victim to the madness of the night."
+    },
+	{
         "dateAdded": "01-07-2022-12:10:12 PM",
         "provider": "ullu",
         "tmdb": "",
@@ -645,7 +659,7 @@
         "contentId": "favoriteteacher_hotmx",
         "showName": "Favorite Teacher",
         "showLang": "Hindi",
-        "showImage": "https://filmyzilla.directory/files/images/Favorite_Teacher_(2022)_HotMX_Original.jpg",
+        "showImage": "https://hotmx.app/image/vd_slider/fav_thumbnails_2.jpg",
         "showArt": "https://fs1.extraimage.org/2022/01/21/F3VTS-13e2903f92a82240ee.jpg",
         "showGenre": "Action, Drama, Fantasy",
         "showStory": "HOTMX Web Series"
