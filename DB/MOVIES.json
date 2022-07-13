@@ -1,5 +1,25 @@
 [
 	{
+		"dateAdded": "13-07-2022-06:58:00 PM",
+		"provider": "prime",
+		"tmdb": "",
+		"adult": false,
+		"contentId": "bhaybheet_mr",
+		"movieName": "Bhaybheet",
+		"movieLang": "Marathi",
+		"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/bhaybheet-et00123570-10-01-2020-01-13-20.jpg",
+		"movieArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d7c625e61876ab0815834336675d850900a893ce97f6dfb256188f10be1d2490._UY500_UX667_RI_V_TTW_.jpg",
+		"movieGenre": "Thriller",
+		"keywords": "bhaybheet marathi movie, marathi movies, subodh bhave movies, 2020 marathi movies, prime marathi movies,",
+		"movieStory": "The innocent daughter of a simple man starts behaving in an erratically odd manner after his wife dies. The daughter claims that she can still see her mother and that she still lives with them in the same house. Horror is added to the already mysterious situation when she says that she also sees a man named Raghav.",
+		"movieUrl": "https://sbthe.com/5tntf9my0seq.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "13-07-2022-06:53:00 PM",
 		"provider": "prime",
 		"tmdb": "996585",
