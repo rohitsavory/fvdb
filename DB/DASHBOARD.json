@@ -1,5 +1,21 @@
 [
 	{
+      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3845/1303845-h-186911069427",
+      "contentId": "shoorveer_hs_multi",
+      "dashName": "Shoorveer (4 Audio)",
+      "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://images.indianexpress.com/2022/06/jitendra-kumar-jaadugar-1200.jpg",
+      "contentId": "jaadugar_hi",
+      "dashName": "Jaadugar",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
       "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6237/1296237-h-5662015305e4",
       "contentId": "vikram_multi_2022",
       "dashName": "Vikram (5 Audio)",
