@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "21-07-2022-09:10:12 PM",
+        "provider": "hs",
+        "tmdb": "",
+        "adult": false,
+        "contentId": "shoorveer_hs_multi",
+        "showName": "Shoorveer",
+        "showLang": "Hindi, Marathi, Tamil, Telugu, Bengali",
+        "showImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202206/Shoorveer_poster_1656334161.jpeg?downsize=215:301",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3845/1303845-h-186911069427",
+        "keywords": "shoorveer web series, hotstar web series, hindi web series,",
+        "showGenre": "Action, Drama",
+        "showStory": "When an imminent attack threatens India, an elite unit undertakes a mission that will test the limits of their courage and grit."
+    },
+	{
         "dateAdded": "20-07-2022-10:45:12 PM",
         "provider": "ullu",
         "tmdb": "",
