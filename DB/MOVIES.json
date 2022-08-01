@@ -1,5 +1,25 @@
 [
 	{
+		"dateAdded": "01-08-2022-05:50:51 PM",
+		"provider": "nf",
+		"tmdb": "758938",
+		"adult": false,
+		"contentId": "habaddi_hi",
+		"movieName": "Habaddi",
+		"movieLang": "Marathi",
+		"movieImage": "https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABWs23Ekx-yOFOFgBAbmTuzs_rmcpGZlRDAONA2a-bCNqdJvxprbQO54cE_ZHl9O406clyTrMBvB41IMRSB05wokMpAFq1VvneacH.jpg",
+		"movieArt": "https://occ-0-360-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQPxpL2Ddl5_mZOlDCAHTaVebOPHNxwJmQzvSoX7sphaYs-nQOAjpEGwfYCqgEjEM_ArSBSkQg-wk3pM6q0Ib1MEA_2YQkMY7HGV.jpg?r=ba2",
+		"keywords": "habaddi marathi movie, marathi movies, new marathi movies, latest marathi movies,",
+		"movieGenre": "Comedy, Drama, Romance",
+		"movieStory": "When the news of his village's school Kabaddi team travelling to Mumbai breaks out, a 10-year-old boy with a speech defect sees the opportunity to meet the girl he adores. But how will he chant 'Kabaddi, Kabaddi' without stammering?",
+		"movieUrl": "https://sbthe.com/1g116qc7n92u.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "01-08-2022-04:18:51 PM",
 		"provider": "hs",
 		"tmdb": "784940",
