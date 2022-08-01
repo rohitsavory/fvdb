@@ -1,6 +1,20 @@
 [
 	{
-        "dateAdded": "20-07-2022-10:45:12 PM",
+        "dateAdded": "01-08-2022-03:05:12 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "titliyaans1p2",
+        "showName": "Titliyaan Part 2",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/62e27786c3cb3f0bebcc73f1",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/62e2d5a5576f690bda6ae010",
+        "keywords": "titliyaan web series, ullu web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "The tale of bondage and oppression continues upon Tanya, as now Prateek has eyes on Sophia as well. The hunt for liberation in such a caged universe is what brings Tanya and Sophia close. But will the journey of two beautiful butterflies sail through in a world filled with predators?"
+    },
+	{
+        "dateAdded": "22-07-2022-10:45:12 PM",
         "provider": "ullu",
         "tmdb": "",
         "adult": true,
