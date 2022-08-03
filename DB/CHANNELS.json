@@ -243,7 +243,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
 		"channelName": "Colors HD",
-		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Colors_HD",
+		"channelUrl": "http://103.139.171.5:5001/live.php?c=Colors_HD&q=600&e=.m3u8",
 		"contentId": "colorshd_tv",
 		"drmLicense": "",
 		"Views": 627
