@@ -243,7 +243,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
 		"channelName": "Colors HD",
-		"channelUrl": "http://103.139.171.5:5001/live.php?c=Colors_HD&q=600&e=.m3u8",
+		"channelUrl": "http://103.139.171.5:5001/autoq.php?c=Colors_HD",
 		"contentId": "colorshd_tv",
 		"drmLicense": "",
 		"Views": 627
@@ -1583,7 +1583,7 @@
 		"channelLang": "Hindi",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Cinema_HD.png?raw=true",
 		"channelName": "Zee Cinema HD",
-		"channelUrl": "http://ranapk.cf/Z5RanaPk.php?c=0-9-zeecinemahd",
+		"channelUrl": "http://103.139.171.5:5001/autoq.php?c=Zee_Cinema_HD",
 		"contentId": "zeecinema_hd_tv",
 		"Views": 1005
 	},
