@@ -1,5 +1,13 @@
 [
 	{
+      "artUrl": "https://bingeddata.s3.amazonaws.com/uploads/2022/08/Darlings-Netflix-1.jpg",
+      "contentId": "darlings_hi",
+      "dashName": "Darlings",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
       "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rocketry-et00094131-1655809015.jpg",
       "contentId": "rocketry_2022_hi",
       "dashName": "Rocketry (Hindi)",
