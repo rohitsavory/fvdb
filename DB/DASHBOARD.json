@@ -3,7 +3,7 @@
       "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rocketry-et00094131-1655809015.jpg",
       "contentId": "rocketry_2022_hi",
       "dashName": "Rocketry (Hindi)",
-      "dashType": "movie",
+      "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
@@ -11,7 +11,7 @@
       "artUrl": "https://origin-staticv2.sonyliv.com/landscape_thumb/Dr-Arora_1_Landscape_Thumb_DDT_040722.jpg",
       "contentId": "drarora_hi",
       "dashName": "Dr Arora",
-      "dashType": "series",
+      "dashType": "Show",
       "dashUrl": "",
       "videoUrl": ""
    }
