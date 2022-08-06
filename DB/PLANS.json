@@ -1,0 +1,26 @@
+[
+  {
+    "id": "silver",
+    "title": "Silver",
+    "quality": 480,
+    "download": false,
+    "price": 49,
+    "validity": 30
+  },
+  {
+    "id": "gold",
+    "title": "Gold",
+    "quality": 720,
+    "download": true,
+    "price": 79,
+    "validity": 30
+  },
+  {
+    "id": "platinum",
+    "title": "Platinum",
+    "quality": 1080,
+    "download": true,
+    "price": 99,
+    "validity": 30
+  }
+]
