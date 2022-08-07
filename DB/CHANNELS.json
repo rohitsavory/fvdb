@@ -1,5 +1,13 @@
 [
 	{
+		"channelCat": "Sports",
+		"channelLang": "Hindi",
+		"channelLogo": "https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+		"channelName": "India Vs West Indies",
+		"channelUrl": "https://livehin.fancode.com/hls/live/2093039/5270hindi49752ta-no/master.m3u8",
+		"contentId": "indvswi_hi"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Hindi",
 		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/&Pictures_HD.png?raw=true",
