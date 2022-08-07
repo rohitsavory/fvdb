@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "07-08-2022-04:20:12 PM",
+        "provider": "minitv",
+        "tmdb": "197130",
+        "adult": false,
+        "contentId": "murderinagonda_hi",
+        "showName": "Murder in Agonda",
+        "showLang": "Hindi",
+        "showImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/dzrXJKjJvDTZd12YoXVywvYmW41.jpg",
+        "showArt": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/1HJALlJlYdu6MFWk4vQF1VaYjNf.jpg",
+        "keywords": "murder in agonda web series, minitv web series, hindi web series,amazon minitv,",
+        "showGenre": "Crime, Mystery",
+        "showStory": "A quiet villa in a scenic village of Goa, Agonda but a murder changes everything! Secrets, mysteries, plotting, heart-breaks and chaos, everything will unleash. Will the culprit be caught or will innocents suffer?"
+    },
+	{
         "dateAdded": "06-08-2022-11:20:12 PM",
         "provider": "ullu",
         "tmdb": "",
