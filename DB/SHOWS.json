@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "12-08-2022-04:50:12 PM",
+        "provider": "hs",
+        "tmdb": "1010901",
+        "adult": false,
+        "contentId": "iamgroot_en",
+        "showName": "I am Groot (All Parts)",
+        "showLang": "English",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2x/sources/r1/cms/prod/3681/1313681-v-12e8c3789a39",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/3680/1313680-h-b598d9f4738e",
+		"keywords": "i am groot web series, groot web series, hotstar web series, hotstar groot, english web series,",
+        "showGenre": "Animation, Comedy, Sci-Fi, Family",
+        "showStory": "A collection of shorts starring Baby Groot, everyone’s favorite little tree, and several new and unusual characters."
+    },
+	{
         "dateAdded": "12-08-2022-03:30:12 PM",
         "provider": "minitv",
         "tmdb": "203763",
