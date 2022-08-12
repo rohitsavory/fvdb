@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "12-08-2022-03:30:12 PM",
+        "provider": "minitv",
+        "tmdb": "203763",
+        "adult": false,
+        "contentId": "udanpatolas_hi",
+        "showName": "Udan Patolas",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNDc0M2JlYTctOThmOS00ZTU0LThlMjEtNDIxMTVjMzhlNzRkXkEyXkFqcGdeQXVyMTAyMTE1MDA1._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://telanganatoday.com/wp-content/uploads/2022/06/16x9-3.jpg",
+		"keywords": "udan patolas minitv web series, minitv app, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama",
+        "showStory": "4 small town girls try to hilariously fit in the big city. They maybe unlucky in love but their sisterhood is unbreakable."
+    },
+	{
         "dateAdded": "12-08-2022-12:33:12 PM",
         "provider": "ullu",
         "tmdb": "",
@@ -446,20 +460,6 @@
 		"keywords": "raanbaazaar planet marathi web series, planet marathi app, marathi web series, bold web series,hot web series,",
         "showGenre": "Thriller",
         "showStory": "The dark side of politics in Maharashtra surfaces because of circumstances involving two ‘escorts’. It’s a dirty business of flesh, power and mind games, with the common man reduced to a mere pawn in this system run with hidden agendas and power plays."
-    },
-	{
-        "dateAdded": "15-06-2022-04:15:12 PM",
-        "provider": "minitv",
-        "tmdb": "203763",
-        "adult": false,
-        "contentId": "udanpatolas_hi",
-        "showName": "Udan Patolas",
-        "showLang": "Hindi",
-        "showImage": "https://static.toiimg.com/photo/msid-92057856/Udan%20Patolas%20Season%201.jpg?92057856",
-        "showArt": "https://telanganatoday.com/wp-content/uploads/2022/06/16x9-3.jpg",
-		"keywords": "udan patolas minitv web series, minitv app, hindi web series, bold web series,hot web series,",
-        "showGenre": "Drama",
-        "showStory": "4 small town girls try to hilariously fit in the big city. They maybe unlucky in love but their sisterhood is unbreakable."
     },
 	{
         "dateAdded": "15-06-2022-10:22:12 AM",
