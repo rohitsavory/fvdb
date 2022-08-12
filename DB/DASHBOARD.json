@@ -1,33 +1,33 @@
 [
 	{
-      "artUrl": "https://bingeddata.s3.amazonaws.com/uploads/2022/08/Darlings-Netflix-1.jpg",
-      "contentId": "darlings_hi",
-      "dashName": "Darlings",
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/shabaash-mithu-et00118980-1657703238.jpg",
+      "contentId": "shabaashmithu_hi",
+      "dashName": "Shabaash Mithu",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
    {
-      "artUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c656ca3e33f46ab1b33731e1d548ac34a0ace638ee79151677a64f9f1690c8e1._UY500_UX667_RI_V_TTW_.jpg",
-      "contentId": "preetam_mr_hi",
-      "dashName": "Preetam (Marathi-Hindi)",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-   },
-   {
-      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rocketry-et00094131-1655809015.jpg",
-      "contentId": "rocketry_2022_hi",
-      "dashName": "Rocketry (Hindi)",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-   },
-   {
-      "artUrl": "https://origin-staticv2.sonyliv.com/landscape_thumb/Dr-Arora_1_Landscape_Thumb_DDT_040722.jpg",
-      "contentId": "drarora_hi",
-      "dashName": "Dr Arora",
+      "artUrl": "https://telanganatoday.com/wp-content/uploads/2022/06/16x9-3.jpg",
+      "contentId": "udanpatolas_hi",
+      "dashName": "Udan Patolas",
       "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/6056/1316056-h-ec0a113e386f",
+      "contentId": "thewarriorr_te",
+      "dashName": "The Warriorr",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "artUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rashtra-kavach-om-et00301884-1656494562.jpg",
+      "contentId": "omthebattlewithin_hi",
+      "dashName": "Rashtra Kavach Om",
+      "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    }
