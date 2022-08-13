@@ -26,6 +26,61 @@
 					}
 				],
 				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01",
+						"epNo": 1,
+						"epUrl": "https://sbspeed.com/o1ojt1nv1fo4.html"
+					},
+					{
+						"epName": "Episode 02",
+						"epNo": 2,
+						"epUrl": "https://sbspeed.com/fbc96jai2g76.html"
+					},
+					{
+						"epName": "Episode 03",
+						"epNo": 3,
+						"epUrl": "https://sbspeed.com/z4fujnmxvsec.html"
+					},
+					{
+						"epName": "Episode 04",
+						"epNo": 4,
+						"epUrl": "https://sbspeed.com/5a36lnrp3j3e.html"
+					},
+					{
+						"epName": "Episode 05",
+						"epNo": 5,
+						"epUrl": "https://sbspeed.com/mos2vw20amgq.html"
+					},
+					{
+						"epName": "Episode 06",
+						"epNo": 6,
+						"epUrl": "https://sbspeed.com/ptriuph6pcxg.html"
+					},
+					{
+						"epName": "Episode 07",
+						"epNo": 7,
+						"epUrl": "https://sbspeed.com/23rffauioknt.html"
+					},
+					{
+						"epName": "Episode 08",
+						"epNo": 8,
+						"epUrl": "https://sbspeed.com/vazw4g9jc0b3.html"
+					},
+					{
+						"epName": "Episode 09",
+						"epNo": 9,
+						"epUrl": "https://sbspeed.com/5lxtvzxcumbl.html"
+					},
+					{
+						"epName": "Episode 10",
+						"epNo": 10,
+						"epUrl": "https://sbspeed.com/tvgv26ciktx9.html"
+					}
+				],
+				"title": "Season 1"
 			}
 		]
 	},
