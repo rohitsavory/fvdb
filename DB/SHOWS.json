@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "13-08-2022-07:20:12 PM",
+        "provider": "nf",
+        "tmdb": "86423",
+        "adult": false,
+        "contentId": "lockeandkey_en_hi",
+        "showName": "Locke & Key",
+        "showLang": "English, Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNmYyNWNkNGYtYTgyZS00NTA5LTliMzgtZWU5NzRhOTkxMTYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BNThlZTVjNTctYzVkMy00Njc3LTliYmYtM2UxMDFkMzQ1OGRlXkEyXkFqcGdeQW1yb2Njbw@@._UY500_UX667_RI_V_TTW_.jpg",
+		"keywords": "lock and key web series, locke and key web series, netflix web series, english web series, hindi dubbed series,",
+        "showGenre": "Sci-Fi, Fantasy, Drama, Mystery",
+        "showStory": "Three siblings who move into their ancestral estate after their father's gruesome murder discover their new home's magical keys, which must be used in their stand against an evil creature who wants the keys and their powers."
+    },
+	{
         "dateAdded": "12-08-2022-04:50:12 PM",
         "provider": "hs",
         "tmdb": "1010901",
