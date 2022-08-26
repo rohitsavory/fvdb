@@ -1,4 +1,29 @@
 [
+	{
+		"contentId": "delhicrime_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbspeed.com/38gcrs7v5ekm.html"
+					}
+				],
+				"title": "Season 1"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbspeed.com/jwxfza3bce99.html"
+					}
+				],
+				"title": "Season 2"
+			}
+		]
+	},
     {
 		"contentId": "criminaljusticeadhurasach",
 		"seasons": [

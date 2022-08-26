@@ -1,6 +1,20 @@
 [
     {
         "dateAdded": "26-08-2022-06:50:12 PM",
+        "provider": "nf",
+        "tmdb": "87508",
+        "adult": false,
+        "contentId": "delhicrime_hi",
+        "showName": "Delhi Crime",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+        "showArt": "https://mcmscache.epapr.in/post_images/website_350/post_19329023/thumb.jpg",
+        "keywords": "delhi crime web series, netflix web series, hindi web series, latest web series, new web series, 2022 web series,",
+        "showGenre": "Crime",
+        "showStory": "As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case."
+    },
+	{
+        "dateAdded": "26-08-2022-06:50:12 PM",
         "provider": "ullu",
         "tmdb": "208939",
         "adult": false,
