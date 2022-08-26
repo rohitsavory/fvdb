@@ -1,5 +1,45 @@
 [
-       {
+    {
+        "dateAdded": "26-08-2022-06:50:12 PM",
+        "provider": "ullu",
+        "tmdb": "208939",
+        "adult": false,
+        "contentId": "criminaljusticeadhurasach",
+        "showName": "Criminal Justice: Adhura Sach",
+        "showLang": "Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali",
+        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,",
+        "showGenre": "Crime",
+        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
+    },
+	{
+        "dateAdded": "26-08-2022-06:40:12 PM",
+        "provider": "hs",
+        "tmdb": "115161",
+        "adult": false,
+        "contentId": "criminaljustice2_hi_show",
+        "showName": "Criminal Justice: Behind Closed Doors",
+        "showLang": "Hindi",
+        "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9U6o7OqcMnJ46mKCTaw8qntLqJnzNb3zk1g&usqp=CAU",
+        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyY5xhTH6PJSFG-PAaIUjUvnQY_6G_hNmRQ&usqp=CAU",
+        "showGenre": "Crime",
+        "showStory": "Anuradha Chandra stabs her perfect lawyer husband one fateful night and confesses to her crime. However, it is anything but an open-and-shut case."
+    },
+	{
+        "dateAdded": "26-08-2022-06:30:12 PM",
+        "provider": "hs",
+        "tmdb": "88177",
+        "adult": false,
+        "contentId": "criminaljustice_hi_show",
+        "showName": "Criminal Justice",
+        "showLang": "Hindi",
+        "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb_-gxdAEBC1fGB5EDvotBwnOFNy8YiLSTg&usqp=CAU",
+        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNTB_DUkZ-hySPs1z9NkcSCpw-JCtH9tCsQ&usqp=CAU",
+        "showGenre": "Drama",
+        "showStory": "A one-night stand turns into a nightmare when Aditya wakes up covered in blood. All evidence is against him, but he doesn't remember anything. Is he guilty?"
+    },
+	{
         "dateAdded": "26-08-2022-08:36:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -2417,19 +2457,6 @@
         "showStory": "It narrates five stories about love, lust, greed, longing, jealousy, gender politics that are set amidst backdrops of different eras. Every episode will leave you on the edge of your seat as you unravel the darkest and deepest confessions in the series. So, are you ready to find out the many shades of the Crimes and Confessions web series?"
     },
     {
-        "dateAdded": "30-07-2021-11:44:17 PM",
-        "provider": "hs",
-        "tmdb": "88177",
-        "adult": false,
-        "contentId": "criminal justice_hi_show",
-        "showName": "Criminal Justice",
-        "showLang": "Hindi",
-        "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb_-gxdAEBC1fGB5EDvotBwnOFNy8YiLSTg&usqp=CAU",
-        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNTB_DUkZ-hySPs1z9NkcSCpw-JCtH9tCsQ&usqp=CAU",
-        "showGenre": "Drama",
-        "showStory": "A one-night stand turns into a nightmare when Aditya wakes up covered in blood. All evidence is against him, but he doesn't remember anything. Is he guilty?"
-    },
-    {
         "dateAdded": "30-07-2021-01:00:00 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -2974,19 +3001,6 @@
         "showArt": "https://cdn.cloud.altbalaji.com/images/2021-05/7848-088537f5/Coming_Soon_2560x1440_tiles-sd_16_9_1620315420.jpg",
         "showGenre": "Adult, Drama",
         "showStory": ""
-    },
-    {
-        "dateAdded": "15-05-2021-11:24:11 PM",
-        "provider": "hs",
-        "tmdb": "",
-        "adult": false,
-        "contentId": "criminaljustice2_hi_show",
-        "showName": "Criminal Justice Behind Closed Doors",
-        "showLang": "Multilingual",
-        "showImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9U6o7OqcMnJ46mKCTaw8qntLqJnzNb3zk1g&usqp=CAU",
-        "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyY5xhTH6PJSFG-PAaIUjUvnQY_6G_hNmRQ&usqp=CAU",
-        "showGenre": "Crime",
-        "showStory": "Anuradha Chandra stabs her perfect lawyer husband one fateful night and confesses to her crime. However, it is anything but an open-and-shut case."
     },
     {
         "dateAdded": "12-05-2021-09:52:02 AM",
