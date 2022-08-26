@@ -1,5 +1,25 @@
 [
 	{
+		"dateAdded": "26-08-2022-11:00:00 PM",
+		"provider": "nf",
+		"tmdb": "829560",
+		"adult": true,
+		"contentId": "thenext365days",
+		"movieName": "The Next 365 Days",
+		"movieLang": "English, Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BZGQ0ZmRkY2YtMmUxZi00Njk0LWE1ZjAtY2IzMTY3YWI3MjI5XkEyXkFqcGdeQXVyOTM1NDU0MTI@._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://occ-0-2773-1348.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUI0milkCN6Rwo9T0Y-egbpiayrdZUlcE14lLZtgf2GjZbCzjWWUN4d6WV8JeTagrwSyXldt5dZ3UvnYluPNqQgaL2KbDvzTzecs.jpg?r=798",
+		"movieGenre": "Romance, Drama",
+		"keywords": "365 days, the next 365 days, english movies, hindi movies, 2022 english movies, 2022 hindi movies, netflix movies,",
+		"movieStory": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+		"movieUrl": "https://sbspeed.com/z1wisedwozaf.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "25-08-2022-11:45:00 PM",
 		"provider": "prime",
 		"tmdb": "539686",
