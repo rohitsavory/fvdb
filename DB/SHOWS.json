@@ -1,5 +1,19 @@
 [
     {
+        "dateAdded": "28-08-2022-11:30:12 AM",
+        "provider": "liv",
+        "tmdb": "126098",
+        "adult": false,
+        "contentId": "maharani_hi",
+        "showName": "Maharani",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BZjBkZTZjMzQtZDJhMS00MzE3LTg0MDctZjZhZDhhYjFlODZjXkEyXkFqcGdeQXVyOTIxMzQ0NzU@._V1_.jpg",
+        "showArt": "https://origin-staticv2.sonyliv.com/landscape_thumb/MaharaniS2_Landscape_Thumb1.jpg",
+        "keywords": "maharani web series, sony liv web series, hindi web series, latest web series, new web series, 2022 web series,",
+        "showGenre": "Drama",
+        "showStory": "CM Rani Bharti is accused of misgovernance and 'jungle raj' in the state. With the crumbling political scenario and constant opposition, will she succeed in this game of power?"
+    },
+	{
         "dateAdded": "26-08-2022-06:50:12 PM",
         "provider": "nf",
         "tmdb": "87508",
