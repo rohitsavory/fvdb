@@ -1,5 +1,13 @@
 [
 	{
+		"channelCat": "Movies",
+		"channelLang": "Marathi",
+		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
+		"channelName": "Zee Talkies HD",
+		"channelUrl": "https://tsnehtv.vercel.app/api/autoq.php?c=Zee_Talkies_HD",
+		"contentId": "zeetalkies_hd_channel"
+	},
+	{
 		"channelCat": "Sports",
 		"channelLang": "Hindi",
 		"channelLogo": "https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
@@ -1658,15 +1666,6 @@
 		"contentId": "zeetv_hd_tv",
 		"no": 105,
 		"Views": 1744
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Marathi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
-		"channelName": "Zee Talkies HD",
-		"channelUrl": "http://ranapk.cf/Z5RanaPk.php?c=0-9-zeetalkies",
-		"contentId": "zeetalkies_hd_channel",
-		"Views": 325
 	},
 	{
 		"channelCat": "Entertainment",
