@@ -1,5 +1,25 @@
 [
 	{
+		"dateAdded": "28-08-2022-10:11:00 AM",
+		"provider": "nf",
+		"tmdb": "887109",
+		"adult": true,
+		"contentId": "hitthefirstcase_hi",
+		"movieName": "HIT: The First Case",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BZjdjOTQwY2UtZDM5Zi00YTU0LWIzOTQtMTFjZThmZDNhOWZhXkEyXkFqcGdeQXVyMTE0MTY2Mzk2._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://occ-0-2368-2164.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd6ye6jRXeFsTKEW7IR4AWxtQZJgCoVB8p3XAN5kt4y_Dqy-IJByeiOBhNEdaNGNVfJqG3zuvoK55pWuMlLrEWMFwtJIGXD5qq9y.jpg?r=cb6",
+		"movieGenre": "Crime, Thriller, Mystery",
+		"keywords": "hit hindi, hit the first case, hit the first case hindi, hit first case hindi, new hindi movies, latest hindi movies, 2022 hindi movies,",
+		"movieStory": "Burdened by old demons, a troubled but brilliant detective sets out to solve two confounding abduction cases — one involving his own girlfriend.",
+		"movieUrl": "https://sbspeed.com/m176k8rf0poh.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "26-08-2022-11:00:00 PM",
 		"provider": "nf",
 		"tmdb": "829560",
