@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "30-08-2022-02:13:12 PM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "palangtodzaroorat2",
+        "showName": "Palang Tod: Zaroorat 2",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/630c929b9c044e0bc8056fe8",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/630cfeb1d3ce480bebc34812",
+        "showGenre": "Drama, Romance",
+        "showStory": "The sweet love story between Savita and Kamlesh gets complicated when Kamlesh's cousin, Umesh stumbles upon the secret relationship between Savita and Kamlesh. Instead of supporting the love life of his brother, he starts blackmailing Savita. Physically stranded on his wheelchair, poor Kamlesh could do noting but watch Savita go through this misery."
+    },
+	{
         "dateAdded": "29-08-2022-07:00:12 PM",
         "provider": "hotmx",
         "tmdb": "",
@@ -7,7 +20,7 @@
         "contentId": "favoriteteacher_hi_hotmx",
         "showName": "Favorite Teacher",
         "showLang": "Hindi",
-        "showImage": "https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https://i.imgur.com/HnwC1qR.png",
+        "showImage": "https://i.imgur.com/HnwC1qR.png",
         "showArt": "https://fs1.extraimage.org/2022/01/21/F3VTS-13e2903f92a82240ee.jpg",
         "showGenre": "Action, Drama, Fantasy",
         "showStory": "HOTMX Web Series"
