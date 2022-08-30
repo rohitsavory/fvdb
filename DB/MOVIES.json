@@ -1,6 +1,6 @@
 [
 	{
-		"dateAdded": "29-08-2022-03:10:51 PM",
+		"dateAdded": "30-08-2022-03:10:51 PM",
 		"provider": "prime",
 		"tmdb": "872408",
 		"adult": false,
@@ -12,6 +12,25 @@
 		"movieGenre": "Romance, Thriller",
 		"movieStory": "A village girl is married to a software employee who is head over heels with her beauty. Life takes an unexpected turn when her husband loses his job and she is forced to take a few steps that she has to go through an emotional turmoil.",
 		"movieUrl": "https://sbspeed.com/3iayrjsi564t.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "29-08-2022-06:10:51 PM",
+		"provider": "prime",
+		"tmdb": "752623",
+		"adult": false,
+		"contentId": "thelostcity_en_hi",
+		"movieName": "The Lost City",
+		"movieLang": "English, Hindi",
+		"movieImage": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b251aa73eadba0b68e21b7ce18599c85b08715fe10e3a47d86872656d5f9b75e._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cc76e1db44cb4d0ff656b45c120d0b6077f6d85807b589dcd31e8d78d3ed1f61._SX1000_.jpg",
+		"movieGenre": "Action, Adventure, Comedy",
+		"movieStory": "Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to the ancient city's lost treasure that featured in her latest story. Alan, determined to prove he can be a hero in real life and not just on the pages of her books, sets off to rescue her.",
+		"movieUrl": "https://sbspeed.com/alrb8yj6h5cf.html",
 		"downloadUrl": "",
 		"drmLicense": "",
 		"sdServer": "",
