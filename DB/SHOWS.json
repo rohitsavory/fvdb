@@ -1,9 +1,22 @@
 [
 	{
         "dateAdded": "31-08-2022-02:13:12 PM",
+        "provider": "nf",
+        "tmdb": "96870",
+        "adult": false,
+        "contentId": "jamtara_hi",
+        "showName": "Jamtara",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BMDk1NDAyYzgtMjQzNy00YTM0LTg5MzgtMjkzZGUwZjg4MmNmXkEyXkFqcGdeQXVyMTEzMzYwMDIw._UY500_UX667_RI_V_TTW_.jpg",
+        "showGenre": "Drama",
+        "showStory": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it."
+    },
+	{
+        "dateAdded": "31-08-2022-02:13:12 PM",
         "provider": "z5",
         "tmdb": "",
-        "adult": true,
+        "adult": false,
         "contentId": "polesapart_hi",
         "showName": "Poles Apart",
         "showLang": "Hindi",
@@ -16,7 +29,7 @@
         "dateAdded": "31-08-2022-02:13:12 PM",
         "provider": "mx",
         "tmdb": "",
-        "adult": true,
+        "adult": false,
         "contentId": "spacetofeelthecomfort_hi",
         "showName": "Space To Feel The Comfort",
         "showLang": "Hindi",
