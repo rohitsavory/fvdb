@@ -1,5 +1,24 @@
 [
 	{
+		"dateAdded": "01-09-2022-11:00:57 PM",
+		"provider": "planetmarathi",
+		"tmdb": "",
+		"adult": false,
+		"contentId": "tamashalive_mr",
+		"movieName": "Tamasha Live",
+		"movieLang": "Marathi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNGI0YzUwZGYtYzA4OC00YzUzLWIyYjQtODkzMjVhOTdhNTkyXkEyXkFqcGdeQXVyMTQ3NTA5NzUy._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/tamasha-live-et00333712-1657274734.jpg",
+		"movieGenre": "Musical",
+		"movieStory": "Ashwin and Shefali, two spearheads of Journalism go head-on with each other for the ultimate battle. The battle of TRP. Media, the fourth pillar of democracy, crumbling with the weight of numbers. Egos. Ascendancy.",
+		"movieUrl": "https://sbspeed.com/g9rq2xfv1j0j.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "01-09-2022-08:15:57 PM",
 		"provider": "prime",
 		"tmdb": "1004074",
