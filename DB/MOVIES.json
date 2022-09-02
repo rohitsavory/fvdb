@@ -1,5 +1,24 @@
 [
 	{
+		"dateAdded": "02-09-2022-08:44:57 PM",
+		"provider": "hs",
+		"tmdb": "956757",
+		"adult": false,
+		"contentId": "cuttputli_hi",
+		"movieName": "Cuttputlli",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BYzZmYjBiMzQtYWQwMC00ZWJiLWEzZDItNGJlODRlODRkZWNmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/6530/1326530-h-f2a7e4e4e3d6",
+		"movieGenre": "Crime, Mystery, Thriller",
+		"movieStory": "When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
+		"movieUrl": "https://sbspeed.com/0jlr50vvrfyr.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "01-09-2022-11:00:57 PM",
 		"provider": "planetmarathi",
 		"tmdb": "",
