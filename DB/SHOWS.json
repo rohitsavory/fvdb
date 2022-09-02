@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "02-09-2022-08:24:12 PM",
+        "provider": "hs",
+        "tmdb": "208939",
+        "adult": false,
+        "contentId": "criminaljusticeadhurasach",
+        "showName": "Criminal Justice: Adhura Sach",
+        "showLang": "Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali",
+        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,",
+        "showGenre": "Crime",
+        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
+    },
+	{
         "dateAdded": "31-08-2022-11:50:12 PM",
         "provider": "nf",
         "tmdb": "100883",
@@ -118,20 +132,6 @@
         "keywords": "delhi crime web series, netflix web series, hindi web series, latest web series, new web series, 2022 web series,",
         "showGenre": "Crime",
         "showStory": "As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case."
-    },
-	{
-        "dateAdded": "26-08-2022-06:50:12 PM",
-        "provider": "ullu",
-        "tmdb": "208939",
-        "adult": false,
-        "contentId": "criminaljusticeadhurasach",
-        "showName": "Criminal Justice: Adhura Sach",
-        "showLang": "Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali",
-        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
-        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
-        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,",
-        "showGenre": "Crime",
-        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
     },
 	{
         "dateAdded": "26-08-2022-06:40:12 PM",
