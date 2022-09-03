@@ -1,27 +1,32 @@
 [
 	{
-      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6497/1316497-h-0073cb514439",
-      "contentId": "cadaver_hi_ta",
-	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6497/1316497-h-0073cb514439",
-      "dashName": "Cadaver",
+      "contentId": "cuttputli_hi",
+	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/6530/1326530-h-f2a7e4e4e3d6",
+      "dashName": "Cuttputlli",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
    {
-      "artUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/3680/1313680-h-b598d9f4738e",
-      "contentId": "iamgroot_en",
-	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/3680/1313680-h-b598d9f4738e",
-      "dashName": "I am Groot",
-      "dashType": "Show",
+      "contentId": "vikrantrona_kn",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vikrant-rona-et00128225-1657019014.jpg",
+      "dashName": "Vikrant Rona",
+      "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
    {
-      "artUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/79f685c26a670bad63564848e17c1189d889c26e089c67c909beb7da209709c5._RI_V_TTW_.jpg",
-      "contentId": "crashcourse_hi",
-	  "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/79f685c26a670bad63564848e17c1189d889c26e089c67c909beb7da209709c5._RI_V_TTW_.jpg",
-      "dashName": "Crash Course",
+      "contentId": "ananya_mr",
+	  "image": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a90db397331cbac1a49e06c5db6868bb572f5e300cd2833237b1da3c58c73b59._UY500_UX667_RI_V_TTW_.png",
+      "dashName": "Ananya",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
+      "contentId": "criminaljusticeadhurasach",
+	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+      "dashName": "Criminal Justice: Adhura Sach",
       "dashType": "Show",
       "dashUrl": "",
       "videoUrl": ""
