@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "06-09-2022-11:50:12 PM",
+        "provider": "primeshots",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "chupirustam",
+        "showName": "Chupi Rustam",
+        "showLang": "Hindi",
+        "showImage": "https://i.imgur.com/6CkcAGb.jpg",
+        "showArt": "https://dxhtqaswwzc.zoopstream.com/psapp/Chupi-Rustam/Rustam-1200x500.jpg",
+        "keywords": "chupi rustam web series, primeshots web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama, Fantasy, Romance",
+        "showStory": "Primeshots Web Series."
+    },
+	{
         "dateAdded": "06-09-2022-06:00:12 PM",
         "provider": "ullu",
         "tmdb": "",
@@ -12,20 +26,6 @@
         "keywords": "samne wali khidki web series, ullu web series, hindi web series, bold web series,hot web series,",
         "showGenre": "Drama, Romance",
         "showStory": "Ashish never thought that he will ever fall in love again, after the love of his life cheated on him and left him heartbroken. But destiny had something else in store, when Ashish saw a new tenant Anita across his window, and instantly fell in love. Will this chance encounter mend what was broken, or will it leave a scar even deeper than before."
-    },
-	{
-        "dateAdded": "05-09-2022-08:50:12 PM",
-        "provider": "primeshots",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "chupirustam",
-        "showName": "Chupi Rustam",
-        "showLang": "Hindi",
-        "showImage": "https://i.imgur.com/6CkcAGb.jpg",
-        "showArt": "https://dxhtqaswwzc.zoopstream.com/psapp/Chupi-Rustam/Rustam-1200x500.jpg",
-        "keywords": "chupi rustam web series, primeshots web series, hindi web series, bold web series,hot web series,",
-        "showGenre": "Drama, Fantasy, Romance",
-        "showStory": "Primeshots Web Series."
     },
 	{
         "dateAdded": "05-09-2022-07:37:12 PM",
