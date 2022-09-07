@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "07-09-2022-04:28:12 PM",
+        "provider": "nf",
+        "tmdb": "208130",
+        "adult": false,
+        "contentId": "indianpredator_hi",
+        "showName": "Indian Predator",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNDZkMTUyOWMtYTYzZS00YTAwLWIwNzctZTVmNjVmOTUzZmVlXkEyXkFqcGdeQXVyMjY3Mjc0Njc@._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://static.filmvandaag.nl/shows/original/10000/10251.jpg?v=1&width=400",
+        "keywords": "indian predator web series, netflix web series, hindi web series,",
+        "showGenre": "Documentary",
+        "showStory": "When a suspect is found in a journalist's murder, the case is considered closed until a secret diary suggests 13 more victims — and possible cannibalism."
+    },
+	{
         "dateAdded": "06-09-2022-11:50:12 PM",
         "provider": "primeshots",
         "tmdb": "",
