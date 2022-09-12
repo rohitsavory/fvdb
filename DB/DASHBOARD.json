@@ -8,6 +8,14 @@
       "videoUrl": ""
    },
    {
+      "contentId": "thiruchitrambalam_ta",
+	  "image": "https://nlk.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/thiruchitrambalam-et00004561-15-08-2022-05-10-35.jpg",
+      "dashName": "Thiruchitrambalam",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+   {
       "contentId": "brahmastra_hi",
 	  "image": "https://m.media-amazon.com/images/M/MV5BZjMzN2M0ZWQtMjY3MS00Mzk1LWJjNmMtOWY0ZTAyYzk0MmFhXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
       "dashName": "Brahmastra",
