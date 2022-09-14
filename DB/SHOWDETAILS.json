@@ -3995,67 +3995,8 @@
 		]
 	},
 	{
-		"contentId": "aaryahindi",
+		"contentId": "aarya_hi",
 		"seasons": [
-			{
-				"Episodes": [
-					{
-						"epName": "Episode 1",
-						"epNo": 1,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%201.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 2",
-						"epNo": 2,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%202.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 3",
-						"epNo": 3,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%203.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 4",
-						"epNo": 4,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%204.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 5",
-						"epNo": 5,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%205.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 6",
-						"epNo": 6,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%206.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 7",
-						"epNo": 7,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%207.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 8",
-						"epNo": 8,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%208.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					},
-					{
-						"epName": "Episode 9",
-						"epNo": 9,
-						"epUrl": "http://wbs10.cdnhdfriday.com/Data/Tv/all-group/Aarya/Aarya%20Season%201-HDFriday.CoM%20Episode%209.mkv",
-						"downloadUrl": "https://rocklinks.net/PiUK3"
-					}
-				],
-				"title": "Season 1"
-			},
 			{
 				"Episodes": [
 					{
@@ -4108,6 +4049,21 @@
 					}
 				],
 				"title": "Season 2"
+			}, 
+			{
+				"Episodes": [
+					{
+						"epName": "Episode 01 - 05",
+						"epNo": 1,
+						"epUrl": "https://sblanh.com/sdo0qgxadgaf.html"
+					},
+					{
+						"epName": "Episode 06 - 09",
+						"epNo": 6,
+						"epUrl": "https://sblanh.com/ymhx45b8sspu.html"
+					}
+				],
+				"title": "Season 1"
 			}
 		]
 	},

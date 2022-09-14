@@ -1,5 +1,18 @@
 [
 	{
+        "dateAdded": "14-09-2022-02:01:00 PM",
+        "provider": "hs",
+        "tmdb": "104913",
+        "adult": false,
+        "contentId": "aarya_hi",
+        "showName": "Aarya",
+        "showLang": "Hindi",
+        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9750/1089750-v-0080b96f0348",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1674/691674-h",
+        "showGenre": "Crime, Drama, Thriller",
+        "showStory": "A compelling story of a family, friends, foes and police in Indian drug industry. While one partner wants to get out, the others want a bigger slice of pie. In the chaos that ensues, its difficult to make out a friend from a foe. Can Aarya rise to the occasion?"
+    },
+	{
         "dateAdded": "14-09-2022-01:25:12 PM",
         "provider": "hs",
         "tmdb": "153637",
@@ -2175,19 +2188,6 @@
         "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1U4B0KDCYNvS1eoaybm3v4ouG-NsaJVHKQ&usqp=CAU",
         "showGenre": "Mystery, Thriller",
         "showStory": "LSD revolves around the story of five medical students who excitingly get into an internship program in KMRC hospital, Delhi. There's Kartik (Ishaan Khanna) who has an intense drive of being a top-most doctor but also gets targeted for being the son of the hospital's dean Dr Rana (Rahul Dev)."
-    },
-    {
-        "dateAdded": "18-12-2021-12:00:00 PM",
-        "provider": "hs",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "aaryahindi",
-        "showName": "Aarya",
-        "showLang": "Hindi",
-        "showImage": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9750/1089750-v-0080b96f0348",
-        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1674/691674-h",
-        "showGenre": "Crime, Drama, Thriller",
-        "showStory": "A compelling story of a family, friends, foes and police in Indian drug industry. While one partner wants to get out, the others want a bigger slice of pie. In the chaos that ensues, its difficult to make out a friend from a foe. Can Aarya rise to the occasion?"
     },
     {
         "dateAdded": "11-12-2021-12:00:00 PM",
