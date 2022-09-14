@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "14-09-2022-01:25:12 PM",
+        "provider": "hs",
+        "tmdb": "153637",
+        "adult": false,
+        "contentId": "parampara_hi",
+        "showName": "Parampara",
+        "showLang": "Hindi",
+        "showImage": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/po8pqEdyWdJwzMnWsYJ10kuS4jC.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_2x/sources/r1/cms/prod/3674/1093674-h-09be23862d34",
+        "keywords": "parampara web series, hotstar web series, sarathkumar, r sarathkumar, jagapathi babu, naveen chandra, naina ganguly, aakanksha singh,",
+        "showGenre": "Crime, Drama",
+        "showStory": "When powerful, wily Naidu's ruthlessness becomes too much, his nephew, Gopi, steps up to avenge the injustice met to his father."
+    },
+	{
         "dateAdded": "13-09-2022-08:50:12 PM",
         "provider": "ullu",
         "tmdb": "",
