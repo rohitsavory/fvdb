@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "16-09-2022-03:17:12 PM",
+        "provider": "hs",
+        "tmdb": "208939",
+        "adult": false,
+        "contentId": "criminaljusticeadhurasach",
+        "showName": "Criminal Justice: Adhura Sach (New Ep Every Friday)",
+        "showLang": "Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali",
+        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,",
+        "showGenre": "Crime",
+        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
+    },
+	{
         "dateAdded": "16-09-2022-03:44:12 PM",
         "provider": "ullu",
         "tmdb": "",
@@ -109,20 +123,6 @@
         "keywords": "the lord of the rings the rings of power, the rings of power, the lord of the rings web series, prime web series, hindi web series, english web series,",
         "showGenre": "Sci-Fi, Fantasy, Action, Adventure, Drama",
         "showStory": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone."
-    },
-	{
-        "dateAdded": "09-09-2022-12:50:12 PM",
-        "provider": "hs",
-        "tmdb": "208939",
-        "adult": false,
-        "contentId": "criminaljusticeadhurasach",
-        "showName": "Criminal Justice: Adhura Sach (New Ep Every Friday)",
-        "showLang": "Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali",
-        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
-        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
-        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,",
-        "showGenre": "Crime",
-        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
     },
 	{
         "dateAdded": "07-09-2022-11:38:00 PM",
