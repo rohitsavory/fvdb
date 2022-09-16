@@ -1,6 +1,26 @@
 [
 	{
 		"dateAdded": "16-09-2022-04:40:57 PM",
+		"provider": "chaupaltv",
+		"tmdb": "1008671",
+		"adult": false,
+		"contentId": "jindmahi_pun",
+		"movieName": "Jind Mahi",
+		"movieLang": "Punjabi",
+		"movieImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jind-mahi-et00334362-1657890900.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jind-mahi-et00334362-1657890900.jpg",
+		"movieGenre": "Romance, Drama",
+		"keywords": "jind mahi movie, jind mahi punjabi movie, new punjabi movies, latest punjabi movies, 2022 punjabi movies, sonam bajwa movies,",
+		"movieStory": "A vibrant girl from Punjab bumps into a pessimist on the streets of London. In an unexpected twist of events, the two are forced to stay together.",
+		"movieUrl": "https://sblanh.com/qinmn48mq2db.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "16-09-2022-04:40:57 PM",
 		"provider": "nf",
 		"tmdb": "1014386",
 		"adult": false,
