@@ -1,6 +1,26 @@
 [
 	{
 		"dateAdded": "16-09-2022-04:40:57 PM",
+		"provider": "nf",
+		"tmdb": "863530",
+		"adult": false,
+		"contentId": "thallumaala_multi",
+		"movieName": "Thallumaala",
+		"movieLang": "Malayalam, Tamil, Telugu, Kannada",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BMTU1MjcyMGUtODI3ZS00NTc4LWExNjgtY2ZjZGJlZmUyMmFhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/thallumaala-et00330540-06-06-2022-12-00-43.jpg",
+		"movieGenre": "Comedy, Drama, Action",
+		"keywords": "thallumaala movie, thallumaala malayalam movie, thallumaala telugu, thallumaala tamil, thallumaala kannada, new malayalam movies, latest malayalam movies, 2022 malayalam movies, tovino thomas movies, kalyani priyadarshan movies,",
+		"movieStory": "Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.",
+		"movieUrl": "https://sblanh.com/f0g0dtwf2obs.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "16-09-2022-04:40:57 PM",
 		"provider": "chaupaltv",
 		"tmdb": "1008671",
 		"adult": false,
