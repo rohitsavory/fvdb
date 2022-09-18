@@ -1,5 +1,13 @@
 [
 	{
+      "contentId": "daagadichawl2_mr",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/daagdi-chaawl-2-et00331912-1660026071.jpg",
+      "dashName": "Daagadi Chawl 2",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+   },
+	{
       "contentId": "sitaramam_te",
 	  "image": "https://nlk.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/sita-ramam-et00004555-03-08-2022-09-25-35.jpg",
       "dashName": "Sita Ramam",
@@ -19,14 +27,6 @@
       "contentId": "brahmastra_hi",
 	  "image": "https://m.media-amazon.com/images/M/MV5BZjMzN2M0ZWQtMjY3MS00Mzk1LWJjNmMtOWY0ZTAyYzk0MmFhXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
       "dashName": "Brahmastra",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-   },
-	{
-      "contentId": "red_rapo_hindi",
-	  "image": "https://occ-0-58-33.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW0SBDzmTvq6Pz-K66_g0nXjM43-gVYJzDz2Yg556gZJLL5U_HX9-UsCs_aDoAVmrC09e2-O9u7RC0PtcpA9fgNDCPxXYqw8xjQG.jpg?r=3c3",
-      "dashName": "RED",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
