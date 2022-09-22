@@ -1,5 +1,25 @@
 [
 	{
+		"dateAdded": "22-09-2022-01:35:57 PM",
+		"provider": "hs",
+		"tmdb": "787163",
+		"adult": false,
+		"contentId": "liger_multi",
+		"movieName": "Liger: Saala Crossbreed",
+		"movieLang": "Telugu, Tamil, Kannada, Malayalam",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BZGZjYWI5ZDYtOWEyZC00NWJiLWI2ZmUtNTMyMGJjMDVjMmZlXkEyXkFqcGdeQXVyMTI1NDAzMzM0._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/liger-et00304943-1661158092.jpg",
+		"movieGenre": "Action, Romance",
+		"keywords": "telugu movies, vijay deverakonda movies, ananya pandey movies, ramya krishnan movies, makrand deshpande movies, ronit roy movies, tamil movies, malayalam movies, kannada movies, liger kannada, liger tamil, liger malayalam, liger telugu,",
+		"movieStory": "The journey of Liger, from Karimnagar to Mumbai, from a nobody to a competitor, in his search for recognition while navigating his weaknesses, relationships, and love life.",
+		"movieUrl": "https://sblanh.com/a5889gx4edfl.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "20-09-2022-05:00:57 PM",
 		"provider": "prime",
 		"tmdb": "609118",
