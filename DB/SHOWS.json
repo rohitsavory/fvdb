@@ -1,7 +1,20 @@
 [
 	{
+        "dateAdded": "24-09-2022-04:30:12 PM",
+        "provider": "z5",
+        "tmdb": "114766",
+        "adult": false,
+        "contentId": "blackwidows_altbalaji_hi",
+        "showName": "Black Widows",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BMWNhNzQ5ZTgtM2E3NC00ZDFlLThjODEtNzZkODkwMzRjYTQ2XkEyXkFqcGdeQXVyMTIzMzg0MTM2._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BYTFiZWEwODMtNTIxZS00YjYxLWJkZTctYzAxOGJiZmQ3NzA2XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg",
+        "showGenre": "Drama, Thriller",
+        "showStory": "Tired of their abusive husbands, three women plan and execute their murders. It is an almost perfect plan, till Pankaj Mishra - assigned to the case -- realises there is more to it than met the eye.	"
+    },
+	{
         "dateAdded": "24-09-2022-02:50:59 PM",
-        "provider": "altb",
+        "provider": "altb,z5",
         "tmdb": "123793",
         "adult": false,
         "contentId": "maiherobolrahahu_hi",
@@ -3849,19 +3862,6 @@
         "showArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyefdD_0jPyPFAOBsqpAMw5OeKlxdOXp8fA&usqp=CAU",
         "showGenre": "Action, Crime, Thriller",
         "showStory": "The Bullets story revolves around the two protagonists, Tina and Lolo who are on a quest to gather evidence about an illegal weapons deal happening between the two countries."
-    },
-    {
-        "dateAdded": "04-01-2021-12:12:12 PM",
-        "provider": "z5",
-        "tmdb": "",
-        "adult": true,
-        "contentId": "Black Widows",
-        "showName": "Black Widows",
-        "showLang": "Hindi",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BMWNhNzQ5ZTgtM2E3NC00ZDFlLThjODEtNzZkODkwMzRjYTQ2XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg",
-        "showArt": "https://akamaividz2.zee5.com/image/upload/w_1337,h_536,c_scale,f_auto,q_auto/resources/0-6-3029/cover/1170x658withlogo_178205201.jpg",
-        "showGenre": "Drama, Thriller, Adult",
-        "showStory": "Black Widows is the story of vindication of three women, Veera (Mona Singh), Jayati (Swastika Mukherjee) and Kavita (Shamita Shetty) against their philandering husbands in an attempt to end the misery in their wed-locked lives."
     },
     {
         "dateAdded": "04-01-2021-12:00:00 PM",
