@@ -6801,87 +6801,14 @@
 		]
 	},
 	{
-		"contentId": "maiherobolrahahu",
+		"contentId": "maiherobolrahahu_hi",
 		"seasons": [
 			{
 				"Episodes": [
 					{
 						"epName": "Episode 1",
 						"epNo": 1,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/BQC_MAI_HERO_BOL_RAHA_HU_EP01_HINDI_ZEE5_hi_83305fc18213668683d7fe1fd838f383/index.m3u8",
-						"Views": 4
-					},
-					{
-						"epName": "Episode 10",
-						"epNo": 10,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/MAI_HERO_BOL_RAHA_HU_EP10_HINDI_R1_hi_03d7a13e02cd3a35bcfe23f2f416ad4d/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 11",
-						"epNo": 11,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/BQC_MAI_HERO_BOL_RAHA_HU_EP11_HINDI_hi_5889d4d7b03a6c788a09fbf5daff0052/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 12",
-						"epNo": 12,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/MAI_HERO_BOL_RAHA_HU_EP12_HINDI_hi_d0de383167963947f74cf18598b56c2b/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 13",
-						"epNo": 13,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/MAI_HERO_BOL_RAHA_HU_EP13_HINDI_ZEE5_hi_39a1cc5a0fd81a49e63e4b59564448fd/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 2",
-						"epNo": 2,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/BQC_MAI_HERO_BOL_RAHA_HU_EP02_HINDI_hi_9e111644b6cdc4e92eaf5af31e47a4a8/index.m3u8",
-						"Views": 4
-					},
-					{
-						"epName": "Episode 3",
-						"epNo": 3,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/BQC_MAI_HERO_BOL_RAHA_HU_EP03_HINDI_ZEE5_hi_9809c40e8b6d56811ce61df2b70ef27e/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 4",
-						"epNo": 4,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/BQC_MAI_HERO_BOL_RAHA_HU_EP04_HINDI_ZEE5_hi_16dcdbde78030974b710947506de5ca7/index.m3u8",
-						"Views": 3
-					},
-					{
-						"epName": "Episode 5",
-						"epNo": 5,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/BQC_MAI_HERO_BOL_RAHA_HU_EP05_HINDI_hi_6b442d7ec185de588376df5299c5808b/index.m3u8",
-						"Views": 3
-					},
-					{
-						"epName": "Episode 6",
-						"epNo": 6,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/BQC_MAI_HERO_BOL_RAHA_HU_EP06_HINDI_hi_53eb931d24391ed04b3bcec6aac504be/index.m3u8",
-						"Views": 3
-					},
-					{
-						"epName": "Episode 7",
-						"epNo": 7,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/BQC_MAI_HERO_BOL_RAHA_HU_EP07_HINDI_ZEE5_hi_e79c8c9f619f4b6933ea35e860a289b0/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 8",
-						"epNo": 8,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU/MAI_HERO_BOL_RAHA_HU_EP08_HINDI_R1_hi_ba6f5ba7b4b68679e1c62f6724be2a07/index.m3u8",
-						"Views": 2
-					},
-					{
-						"epName": "Episode 9",
-						"epNo": 9,
-						"epUrl": "https://zee5vodnd.akamaized.net/hls1/elemental/hls/ORIGINALS/ACTION/HINDI/MAI_HERO_BOL_RAHA_HU_ZEE5/MAI_HERO_BOL_RAHA_HU_EP09_HINDI_ZEE5_hi_a4ae8b256f762a30be09706402d45d8b/index.m3u8",
-						"Views": 2
+						"epUrl": "https://sblanh.com/qg2vp2fjcb2l.html"
 					}
 				],
 				"title": "Season 1"
