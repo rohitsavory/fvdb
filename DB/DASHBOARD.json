@@ -8,15 +8,15 @@
       "videoUrl": ""
    },
 	{
-      "contentId": "sitaramam_te",
-	  "image": "https://nlk.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/sita-ramam-et00004555-03-08-2022-09-25-35.jpg",
-      "dashName": "Sita Ramam",
+      "contentId": "bablibouncer_multi",
+	  "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5615/1355615-h-6b80705830d5",
+      "dashName": "Babli Bouncer",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
    },
    {
-      "contentId": "thiruchitrambalam_ta",
+      "contentId": "thiruchitrambalam_ta_hi",
 	  "image": "https://nlk.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/thiruchitrambalam-et00004561-15-08-2022-05-10-35.jpg",
       "dashName": "Thiruchitrambalam",
       "dashType": "Movie",
@@ -24,9 +24,9 @@
       "videoUrl": ""
    },
    {
-      "contentId": "brahmastra_hi",
-	  "image": "https://m.media-amazon.com/images/M/MV5BZjMzN2M0ZWQtMjY3MS00Mzk1LWJjNmMtOWY0ZTAyYzk0MmFhXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
-      "dashName": "Brahmastra",
+      "contentId": "liger_multi",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/liger-et00304943-1661158092.jpg",
+      "dashName": "Liger",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
