@@ -1,0 +1,42 @@
+[
+	{
+      "contentId": "daagadichawl2_mr",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/daagdi-chaawl-2-et00331912-1660026071.jpg",
+      "dashName": "Daagadi Chawl 2",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "bablibouncer_multi",
+	  "image": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5615/1355615-h-6b80705830d5",
+      "dashName": "Babli Bouncer",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "thiruchitrambalam_ta_hi",
+	  "image": "https://nlk.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/thiruchitrambalam-et00004561-15-08-2022-05-10-35.jpg",
+      "dashName": "Thiruchitrambalam",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "liger_multi",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/liger-et00304943-1661158092.jpg",
+      "dashName": "Liger",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "criminaljusticeadhurasach",
+	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+      "dashName": "Criminal Justice: Adhura Sach",
+      "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+	}
+]
