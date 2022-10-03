@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "03-10-2022-08:33:12 AM",
+        "provider": "hs",
+        "tmdb": "208939",
+        "adult": false,
+        "contentId": "criminaljusticeadhurasach",
+        "showName": "Criminal Justice: Adhura Sach (New Ep Every Friday)",
+        "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
+        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
+        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,pankaj tripathi, madhav mishra, swastika mukherjee, purab kohli, adinath kothare, shweta basu prasad,",
+        "showGenre": "Crime",
+        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
+    },
+	{
         "dateAdded": "03-10-2022-08:05:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -67,20 +81,6 @@
 		"keywords": "jamtara web series, jamtara season 2 web series, jamtara season 1, netflix web series, hindi web series, latest web series, new web series, 2022 web series,amit sial, dibyendu bhattacharya, aksha pardasany,",
         "showGenre": "Drama",
         "showStory": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it."
-    },
-	{
-        "dateAdded": "23-09-2022-11:50:12 AM",
-        "provider": "hs",
-        "tmdb": "208939",
-        "adult": false,
-        "contentId": "criminaljusticeadhurasach",
-        "showName": "Criminal Justice: Adhura Sach (New Ep Every Friday)",
-        "showLang": "Hindi, Tamil, Telugu, Kannada, Malayalam",
-        "showImage": "https://github.com/firevideoapp/fvdb/raw/main/images/crjus3.jpg",
-        "showArt": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
-        "keywords": "criminal justice hotstar web series, criminal justice web series, hotstar web series, hindi web series, latest web series, new web series, 2022 web series,pankaj tripathi, madhav mishra, swastika mukherjee, purab kohli, adinath kothare, shweta basu prasad,",
-        "showGenre": "Crime",
-        "showStory": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?"
     },
 	{
         "dateAdded": "23-09-2022-11:25:12 AM",
