@@ -1,6 +1,20 @@
 [
 	{
-        "dateAdded": "07-10-2022-08:10:12 PM",
+        "dateAdded": "07-10-2022-08:25:12 AM",
+        "provider": "ullu",
+        "tmdb": "",
+        "adult": true,
+        "contentId": "walkmans1p2",
+        "showName": "Walkman Part 2",
+        "showLang": "Hindi",
+        "showImage": "https://ullu2-files.ullu.app/media-metadata/633ec999748fd60bc709f296",
+        "showArt": "https://ullu2-files.ullu.app/media-metadata/633ec98ca2d4590bd79d1339",
+        "keywords": "walkman web series, ullu web series, hindi web series, bold web series,hot web series,",
+        "showGenre": "Drama, Romance",
+        "showStory": "As Roshini's fantasies peak her libido, she starts losing control and gives into her temptations with each tape. The new addiction of venereal tales through her Walkman leads her into a haze of confusion between what is real and what is her imagination."
+    },
+	{
+        "dateAdded": "07-10-2022-08:10:12 AM",
         "provider": "hs",
         "tmdb": "208939",
         "adult": false,
