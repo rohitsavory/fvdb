@@ -1,11 +1,43 @@
 [
 	{
-      "contentId": "",
-	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7457/1367457-h-9d44e7be193e",
-      "dashName": "Tap Above 👆 Live Now to Watch",
-      "dashType": "",
+      "contentId": "planaplanb_hi",
+	  "image": "https://m.media-amazon.com/images/M/MV5BMWU5YzcyODEtMjljNy00ZjA1LWI3YTktZjE3ZDI1ZTFkMmFjXkEyXkFqcGdeQXVyMTA1MTMwNDc@._V1_.jpg",
+      "dashName": "Plan A Plan B",
+      "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
-   }
+	},
+	{
+      "contentId": "vikramvedha_hi",
+	  "image": "https://m.media-amazon.com/images/M/MV5BZjIzZGMzNDEtYmVjMy00NWJlLTlmODQtZmE3OGZlNWRmYWJmXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+      "dashName": "Vikram Vedha",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "rangarangavaibhavanga_te_hi",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ranga-ranga-vaibhavanga-et00321753-1661761182.jpg",
+      "dashName": "Ranga Ranga Vaibhavanga",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "dharmaveer_mr",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dharmaveer-et00327394-29-04-2022-04-20-45.jpg",
+      "dashName": "Dharmaveer",
+      "dashType": "Movie",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "criminaljusticeadhurasach",
+	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
+      "dashName": "Criminal Justice: Adhura Sach",
+      "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+	}
 ]
 
