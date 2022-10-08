@@ -1,5 +1,14 @@
 [
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
+		"channelName": "Star Vijay HD",
+		"channelUrl": "http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8",
+		"contentId": "starvijayhd",
+		"drmLicense": ""
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
@@ -1322,15 +1331,6 @@
 		"channelName": "Star Suvarna HD",
 		"channelUrl": "http://103.153.39.36:8000/play/a00n",
 		"contentId": "starsuvarnahd"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
-		"channelName": "Star Vijay HD",
-		"channelUrl": "https://delta12tatasky.akamaized.net/out/i/3562165.mpd",
-		"contentId": "starvijayhd",
-		"drmLicense": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA2OTE5MDM1IiwiaXNlIjp0cnVlLCJqdGkiOiJlMDRlYTgyMy1iYmViLTRhMWItODM2Ny0xNDI3OGFmYzZlZTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ1MjcwMjQ2LCJuYW1lIjoiU2V0aHlhIFIiLCJpYXQiOjE2NDUxODM4NDYsImVudCI6W3siYmlkIjoxMDAwMDAxMTgyLCJlcGlkIjoiU3Vic2NyaXB0aW9uX01vYmlsZV9TdHJlYW1pbmcifV0sImlzcyI6IlRUTiJ9.eCHN8fGNb77M623MD9ebJSiFujeCVR5IF7QcV1TFKog"
 	},
 	{
 		"channelCat": "News",
