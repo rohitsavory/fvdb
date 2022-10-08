@@ -1,6 +1,14 @@
 [
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest/scale-to-width-down/200?cb=20200827090349",
+		"channelName": "ETV",
+		"channelUrl": "http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test",
+		"contentId": "etvteluguhd"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
 		"channelName": "Star Vijay HD",
@@ -594,15 +602,6 @@
 		"channelUrl": "https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8",
 		"contentId": "disneyhindi",
 		"Views": 734
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest/scale-to-width-down/200?cb=20200827090349",
-		"channelName": "ETV",
-		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=ETV_Telugu",
-		"contentId": "etvteluguhd",
-		"hideControls": true
 	},
 	{
 		"channelCat": "News",
