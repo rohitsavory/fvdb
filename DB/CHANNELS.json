@@ -40,6 +40,14 @@
 		"contentId": "ktvhd"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/235?cb=20160804101552",
+		"channelName": "Raj TV",
+		"channelUrl": "http://50.7.237.4:8080/RAJTV/tracks-v1a1/index.m3u8",
+		"contentId": "rajtv"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
