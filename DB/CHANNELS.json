@@ -24,6 +24,14 @@
 		"contentId": "zeetamil_tv"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "http://jayatvnetwork.com/upload/programme/thumb/Sonthangal_small.jpg",
+		"channelName": "Jaya TV HD",
+		"channelUrl": "http://50.7.237.4:8080/JAYATVHD/tracks-v1a1/index.m3u8",
+		"contentId": "jayatvhd"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
