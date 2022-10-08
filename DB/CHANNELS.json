@@ -64,6 +64,22 @@
 		"contentId": "makkaltv"
 	},
 	{
+		"channelCat": "News",
+		"channelLang": "Tamil",
+		"channelLogo": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
+		"channelName": "IBC Tamil",
+		"channelUrl": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8",
+		"contentId": "ibctamil"
+	},
+	{
+		"channelCat": "Devotional",
+		"channelLang": "Tamil",
+		"channelLogo": "https://i0.wp.com/dthhelper.com/wp-content/uploads/2021/07/SVBC-2-channel-number.jpg",
+		"channelName": "SVBC 2",
+		"channelUrl": "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
+		"contentId": "svbc2"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
