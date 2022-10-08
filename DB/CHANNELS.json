@@ -88,6 +88,14 @@
 		"contentId": "vaanavilplus"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "",
+		"channelName": "Tamil Star TV",
+		"channelUrl": "http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8",
+		"contentId": "tamilstartv"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
