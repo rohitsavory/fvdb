@@ -9,6 +9,22 @@
 	},
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"channelLogo": "https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg",
+		"channelName": "Gemini Comedy",
+		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/971.ts",
+		"contentId": "geminicomedy"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
+		"channelName": "Zee Telugu HD",
+		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/940.ts",
+		"contentId": "zeetelugu_hd_channel"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
 		"channelName": "Star Vijay HD",
@@ -1761,15 +1777,6 @@
 		"contentId": "zeetv_hd_tv",
 		"no": 105,
 		"Views": 1744
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Telugu",
-		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
-		"channelName": "Zee Telugu HD",
-		"channelUrl": "http://ranapk.cf/Z5RanaPk.php?c=0-9-zeetelugu",
-		"contentId": "zeetelugu_hd_channel",
-		"Views": 155
 	},
 	{
 		"channelCat": "Movies",
