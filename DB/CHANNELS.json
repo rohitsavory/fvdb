@@ -48,6 +48,14 @@
 		"contentId": "rajtv"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",
+		"channelName": "Raj Digital Plus",
+		"channelUrl": "http://50.7.237.4:8080/RAJDIGITALPLUS/tracks-v1a1/index.m3u8",
+		"contentId": "rajdigitalplus"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
