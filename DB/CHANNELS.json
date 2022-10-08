@@ -5,8 +5,7 @@
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
 		"channelName": "Star Vijay HD",
 		"channelUrl": "http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8",
-		"contentId": "starvijayhd",
-		"drmLicense": ""
+		"contentId": "starvijayhd"
 	},
 	{
 		"channelCat": "Movies",
