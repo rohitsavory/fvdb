@@ -1,6 +1,26 @@
 [
 	{
 		"dateAdded": "08-10-2022-05:33:51 PM",
+		"provider": "",
+		"tmdb": "",
+		"adult": false,
+		"contentId": "hindutva_hi",
+		"movieName": "Hindutva",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNDkwZjkxNDQtY2VlMC00MzNmLWEwNzAtMGJkYTdkNzBhZjNjXkEyXkFqcGdeQXVyOTI3MzI4MzA@._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/hindutva-et00338003-1664174838.jpg",
+		"keywords": "hindutva hindi, agast annand movies, surmeet basra movies, sonarika bhadoria movies, new hindi movies, 2022 hindi movies, latest hindi movies,",
+		"movieGenre": "Comedy, Romance",
+		"movieStory": "The depths of Hinduism is seen through its principal characters.Friendship, love and student politics are put in place.",
+		"movieUrl": "https://sblanh.com/rr03pftqp5td.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "08-10-2022-05:33:51 PM",
 		"provider": "prime",
 		"tmdb": "517508",
 		"adult": false,
