@@ -16,6 +16,14 @@
 		"contentId": "suntvhd"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tamil.jpg",
+		"channelName": "Zee Tamil",
+		"channelUrl": "http://50.7.237.4:8080/ZEETAMILHD/tracks-v1a1/index.m3u8",
+		"contentId": "zeetamil_tv"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
@@ -1673,15 +1681,6 @@
 		"contentId": "zeetv_hd_tv",
 		"no": 105,
 		"Views": 1744
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1010/PORTRAIT/d3Gg9pby.png",
-		"channelName": "Zee Tamil HD",
-		"channelUrl": "http://ranapk.cf/Z5RanaPk.php?c=0-9-zeetamil",
-		"contentId": "zeetamil_tv",
-		"Views": 52
 	},
 	{
 		"channelCat": "Entertainment",
