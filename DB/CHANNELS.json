@@ -1,6 +1,14 @@
 [
 	{
 		"channelCat": "Entertainment",
+		"channelLang": "Telugu",
+		"channelLogo": "https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
+		"channelName": "Gemini Life",
+		"channelUrl": "http://watchindia.net:8880/live/vvv/vvv/931.ts",
+		"contentId": "geminilife"
+	},
+	{
+		"channelCat": "Entertainment",
 		"channelLang": "Tamil",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",
 		"channelName": "Star Vijay HD",
