@@ -80,6 +80,14 @@
 		"contentId": "svbc2"
 	},
 	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://yt3.ggpht.com/Ew1w2oIW1VXo0YSOLFgjSf9os3eqJRSWrn1rVwl010ukn6pshd1Kd1-O8970nKG9nCrmnxpj=s900-c-k-c0x00ffffff-no-rj",
+		"channelName": "Vaanavil Plus",
+		"channelUrl": "https://server.iptelevision.in/hls/vanaviltv.m3u8",
+		"contentId": "vaanavilplus"
+	},
+	{
 		"channelCat": "Movies",
 		"channelLang": "Marathi",
 		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
