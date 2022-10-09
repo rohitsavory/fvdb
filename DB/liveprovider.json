@@ -3,7 +3,6 @@
         "id": "mx",
         "name": "MX Live",
 		"visible": false,
-        "icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/mxplayer_logo.png",
         "icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/mxplayer_logo.png",
         "url": "https://api.mxplay.com/v1/web/live/channels"
     },
@@ -12,15 +11,12 @@
         "name": "Zee5",
 		"visible": true,
         "icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/zee5_logo.jpeg",
-        "url": "https://github.com/Gaurav-V7/FireVideo/raw/main/DB/zee5live.json"
         "url": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/DB/zee5live.json"
     },
     {
         "id": "sun",
         "name": "Sun NXT",
 		"visible": true,
-        "icon": "https://github.com/Gaurav-V7/FireVideo/raw/main/ICONS/sunnxt_logo.png",
-        "url": "https://github.com/Gaurav-V7/FireVideo/raw/main/DB/sunnxtlive.json"
         "icon": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/ICONS/sunnxt_logo.png",
         "url": "https://raw.githubusercontent.com/firevideoapp/fvdb/main/DB/sunnxtlive.json"
     }
