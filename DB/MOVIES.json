@@ -80,7 +80,27 @@
 		"fhdServer": ""
 	},
 	{
-		"dateAdded": "08-10-2022-05:33:49 PM",
+		"dateAdded": "08-10-2022-05:33:47 PM",
+		"provider": "prime",
+		"tmdb": "69775",
+		"adult": true,
+		"contentId": "murder2_hi",
+		"movieName": "Murder 2",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BODBiNTk1NjUtZDY3NC00YjUwLTgxNmItMjExZjcyNDdkZjQ1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d0e90af9287a83c29b198df00e117cedc58b42da0dec6a61eab02020e7bae3a7.jpg",
+		"keywords": "murder 2 hindi movie, murder 2 hindi movie, emran hashmi movies, mallika sherawat movies, hindi movies,",
+		"movieGenre": "Action, Crime, Drama, Thriller",
+		"movieStory": "A former police officer gets hired by a gangster to trace missing call girls and their abductor.",
+		"movieUrl": "https://sbanh.com/amf35koql23k.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
+		"dateAdded": "08-10-2022-05:33:46 PM",
 		"provider": "",
 		"tmdb": "20534",
 		"adult": true,
@@ -100,7 +120,7 @@
 		"fhdServer": ""
 	},
 	{
-		"dateAdded": "08-10-2022-05:33:51 PM",
+		"dateAdded": "08-10-2022-05:33:45 PM",
 		"provider": "prime",
 		"tmdb": "517508",
 		"adult": false,
