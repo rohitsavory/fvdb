@@ -1,5 +1,30 @@
 [
 	{
+		"contentId": "ratrikeyatri_hi",
+		"seasons": [
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbanh.com/81rzza9q3irz.html"
+					}
+				],
+				"title": "Season 2"
+			},
+			{
+				"Episodes": [
+					{
+						"epName": "Complete Season",
+						"epNo": 1,
+						"epUrl": "https://sbanh.com/6szv8tkeuth9.html"
+					}
+				],
+				"title": "Season 1"
+			}
+		]
+	},
+	{
 		"contentId": "mismatchednf_hi",
 		"seasons": [
 			{

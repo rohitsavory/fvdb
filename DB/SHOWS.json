@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "14-10-2022-03:25:12 PM",
+        "provider": "hungamaplay",
+        "tmdb": "107094",
+        "adult": true,
+        "contentId": "ratrikeyatri_hi",
+        "showName": "Ratri Ke Yatri",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BN2ZiODQ2NzgtODc4MS00YWFkLTk0NDAtOGZlODNkZWRkM2M2XkEyXkFqcGdeQXVyMTQ2NjE5MjM3._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/01921c6224dad0acf35bda4c51768381.jpg",	
+        "keywords": "ratri ke yatri hindi, ratri ke yatri web series, ratri ke yatri hungama play, ratri ke yatri hungama play web series, ratri ke yatri season 1 hungama play, ",
+        "showGenre": "Comedy, Drama",
+        "showStory": "5 sensitive and dramatic stories set in red light areas with each episode following a character who seeks fulfillment in life."
+    },
+	{
         "dateAdded": "14-10-2022-02:40:12 PM",
         "provider": "netflix",
         "tmdb": "113457",
