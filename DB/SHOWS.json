@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "14-10-2022-01:40:12 PM",
+        "provider": "prime",
+        "tmdb": "84773",
+        "adult": false,
+        "contentId": "thelordsofthringsofpower_en_hi",
+        "showName": "The Lords of The Rings: The Rings of Power",
+        "showLang": "English, Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://m.media-amazon.com/images/M/MV5BNDdjMGIxMWEtYWFiZC00ZWZjLWFhZGUtNTdjMmEzYWVlMmRjXkEyXkFqcGdeQXNuZXNodQ@@._UY500_UX667_RI_V_TTW_.jpg",	
+        "keywords": "the lord of the rings the rings of power, the rings of power, the lord of the rings web series, prime web series, hindi web series, english web series,",
+        "showGenre": "Sci-Fi, Fantasy, Action, Adventure, Drama",
+        "showStory": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone."
+    },
+	{
         "dateAdded": "14-10-2022-11:40:12 AM",
         "provider": "ullu",
         "tmdb": "",
@@ -26,20 +40,6 @@
         "keywords": "lady finger web series, ullu web series, hindi web series, bold web series,hot web series,",
         "showGenre": "Drama, Romance",
         "showStory": "Sarla's suspicion rings true as Jhanvi unravels that Dev, is indeed cheating on his wife, Sarla. Jhanvi instead of reporting it to Sarla confronts Dev about it and starts hatching a bigger plan. Things take a devious turn when Jhanvi invariably falls for Sarla in the process of spying on her husband, which creates a havoc in the lives of everyone involved."
-    },
-	{
-        "dateAdded": "10-10-2022-02:35:12 PM",
-        "provider": "prime",
-        "tmdb": "84773",
-        "adult": false,
-        "contentId": "thelordsofthringsofpower_en_hi",
-        "showName": "The Lords of The Rings: The Rings of Power",
-        "showLang": "English, Hindi",
-        "showImage": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._UY500_UX667_RI_V_TTW_.jpg",
-        "showArt": "https://m.media-amazon.com/images/M/MV5BNDdjMGIxMWEtYWFiZC00ZWZjLWFhZGUtNTdjMmEzYWVlMmRjXkEyXkFqcGdeQXNuZXNodQ@@._UY500_UX667_RI_V_TTW_.jpg",	
-        "keywords": "the lord of the rings the rings of power, the rings of power, the lord of the rings web series, prime web series, hindi web series, english web series,",
-        "showGenre": "Sci-Fi, Fantasy, Action, Adventure, Drama",
-        "showStory": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone."
     },
 	{
         "dateAdded": "07-10-2022-08:25:12 AM",
