@@ -1,41 +1,41 @@
 [
 	{
-      "contentId": "planaplanb_hi",
-	  "image": "https://m.media-amazon.com/images/M/MV5BMWU5YzcyODEtMjljNy00ZjA1LWI3YTktZjE3ZDI1ZTFkMmFjXkEyXkFqcGdeQXVyMTA1MTMwNDc@._V1_.jpg",
-      "dashName": "Plan A Plan B",
+      "contentId": "doctortamil_hi",
+	  "image": "https://sund-images.sunnxt.com/126552/960x540_Doctor_126552_69ab45a1-ef73-4c59-9244-e60af60bf891.jpg",
+      "dashName": "Doctor (Hindi)",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
 	},
 	{
-      "contentId": "vikramvedha_hi",
-	  "image": "https://m.media-amazon.com/images/M/MV5BZjIzZGMzNDEtYmVjMy00NWJlLTlmODQtZmE3OGZlNWRmYWJmXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
-      "dashName": "Vikram Vedha",
+      "contentId": "kantara_hi",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kantara-hindi-et00342025-1665304124.jpg",
+      "dashName": "Kantara (Hindi)",
       "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
 	},
 	{
-      "contentId": "rangarangavaibhavanga_te_hi",
-	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ranga-ranga-vaibhavanga-et00321753-1661761182.jpg",
-      "dashName": "Ranga Ranga Vaibhavanga",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-	},
-	{
-      "contentId": "dharmaveer_mr",
-	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dharmaveer-et00327394-29-04-2022-04-20-45.jpg",
-      "dashName": "Dharmaveer",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-	},
-	{
-      "contentId": "criminaljusticeadhurasach",
-	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2963/1322963-h-052e974a93a3",
-      "dashName": "Criminal Justice: Adhura Sach",
+      "contentId": "mismatchednf_hi",
+	  "image": "https://occ-0-1009-987.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa2UNG6jAXaIK3PihoUCQDhR7M4O9e6CSyQlDiLH5uvg_jF7L35tmlG7IskP0_LXCdchlH0TR31MROMWYOhpzzPTFQJys2CwQAQ2.jpg?r=a64",
+      "dashName": "Mismatched",
       "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "ratrikeyatri_hi",
+	  "image": "https://dev-resws-hungamatech-com.storage.googleapis.com/featured_content/01921c6224dad0acf35bda4c51768381.jpg",
+      "dashName": "Ratri Ke Yatri",
+      "dashType": "Show",
+      "dashUrl": "",
+      "videoUrl": ""
+	},
+	{
+      "contentId": "dobaaraa_hi",
+	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dobaaraa-et00328501-1660751972.jpg",
+      "dashName": "Dobaaraa",
+      "dashType": "Movie",
       "dashUrl": "",
       "videoUrl": ""
 	}
