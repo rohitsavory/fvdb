@@ -3,7 +3,7 @@
 		"channelCat": "Music",
 		"channelLang": "Hindi",
 		"channelLogo": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/mtv-beats-1x1-1645343090616.png",
-		"channelName": "MTVBeatsHD",
+		"channelName": "MTV Beats HD",
 		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1304",
 		"contentId": "mtv_beats_tv"
 	},
@@ -11,7 +11,7 @@
 		"channelCat": "Entertainment",
 		"channelLang": "Hindi",
 		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png",
-		"channelName": "MTVHD+",
+		"channelName": "MTV HD+",
 		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1300",
 		"contentId": "mtvhdplus"
 	},
@@ -139,7 +139,7 @@
 		"channelCat": "Entertainment",
 		"channelLang": "Gujarati",
 		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_GUJARATI.png",
-		"channelName": "ColorsGujarati",
+		"channelName": "Colors Gujarati",
 		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1312",
 		"contentId": "colorsgujarati"
 	},
