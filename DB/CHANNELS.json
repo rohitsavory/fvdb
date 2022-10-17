@@ -1,11 +1,171 @@
 [
 	{
+		"channelCat": "Music",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/mtv-beats-1x1-1645343090616.png",
+		"channelName": "MTVBeatsHD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1304",
+		"contentId": "mtv_beats_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png",
+		"channelName": "MTVHD+",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1300",
+		"contentId": "mtvhdplus"
+	},
+	{
 		"channelCat": "Entertainment",
 		"channelLang": "Marathi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000042640000/ic_logo_Colors_Marathi_HD_WB.png?o=production",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-marathi-hd-1x1-1649158476569.png",
 		"channelName": "Colors Marathi HD",
 		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1310",
 		"contentId": "colorsmarathi_hd_tv"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-hd-16x9-2-1626706981186.jpg",
+		"channelName": "Nick HD+",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1307",
+		"contentId": "nickhdplus"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",
+		"channelName": "Nick Junior",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1305",
+		"contentId": "nickjr"
+	},
+	{
+		"channelCat": "Kids",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-hd-16x9-2-1626706981186.jpg",
+		"channelName": "Sonic",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1318",
+		"contentId": "sonic"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colors-cineolex-live-channels-16x9-2-1642675634045.jpg",
+		"channelName": "Colors Cineplex Bollywood",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1792",
+		"contentId": "colorscineplex_bollywood_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
+		"channelName": "Colors Cineplex HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1309",
+		"contentId": "colorscineplex_hd_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",
+		"channelName": "Colors Cineplex Superhits",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1628",
+		"contentId": "colorscineplex_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colorshd-1655052666003-1665941211749.jpeg",
+		"channelName": "Colors HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1301",
+		"contentId": "colorshd_tv"
+	},
+	{
+		"channelCat": "Movies",
+		"channelLang": "Kannada",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colors-kannada-ciema-live-channels-16x9-3-1642584279938.jpg",
+		"channelName": "Colors Kannada Cinema",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1623",
+		"contentId": "colorskannadacinema"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Kannada",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_KANNADA.png",
+		"channelName": "Colors Kannada HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1308",
+		"contentId": "colorskannada_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Oriya",
+		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/Live-Tv-Channels-colors-odiya-1607514481822.jpg",
+		"channelName": "Colors Oriya",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1306",
+		"contentId": "colorsodia"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Hindi",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-colors-rishtey-1606037051359.jpg",
+		"channelName": "Colors Rishtey",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1298",
+		"contentId": "colorsrishtey_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Kannada",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_SUPER.png",
+		"channelName": "Colors Super",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1311",
+		"contentId": "colorssuper"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Tamil",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_TAMIL.png",
+		"channelName": "Colors Tamil HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1302",
+		"contentId": "colorstamil_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Bengali",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg",
+		"channelName": "Colors Bangla HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1314",
+		"contentId": "colorsbangla_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "Gujarati",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_GUJARATI.png",
+		"channelName": "ColorsGujarati",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1312",
+		"contentId": "colorsgujarati"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",
+		"channelName": "Colors Infinity HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1313",
+		"contentId": "colorsinfinity_hd"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/live-tv-channels-cc-hd-1606037316791-1620577516088.webp",
+		"channelName": "Comedy Central HD",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1303",
+		"contentId": "comedycentral_hd_tv"
+	},
+	{
+		"channelCat": "Entertainment",
+		"channelLang": "English",
+		"channelLogo": "https://v3img.voot.com/resizeMedium,w_540,h_303/v3Storage/assets/clubbing-tv-live-channels-16x9-1642675776637.jpg",
+		"channelName": "Clubbing TV",
+		"channelUrl": "voot:https://www.techiesneh.tk/api/ottplay?voot=1624",
+		"contentId": "comedycentral_hd_tv"
 	},
 	{
         "contentId": "14020",
@@ -602,154 +762,6 @@
 		"contentId": "cnhindi"
 	},
 	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
-		"channelName": "Colors Cineplex Bollywood",
-		"channelUrl": "https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1792",
-		"contentId": "colorscineplex_bollywood_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png?o=production",
-		"channelName": "Colors Cineplex HD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d",
-		"contentId": "colorscineplex_hd_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Hindi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png?o=production",
-		"channelName": "Colors Cineplex HD +1",
-		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Colors_Cineplex_HD",
-		"contentId": "colorscineplex_hd_1"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-		"channelName": "Colors HD",
-		"channelUrl": "http://103.139.171.5:5001/autoq.php?c=Colors_HD",
-		"contentId": "colorshd_tv"
-	},
-	{
-		"channelCat": "Movies",
-		"channelLang": "Kannada",
-		"channelLogo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Colors_Kannada_Cinema.jpg/revision/latest/scale-to-width-down/300?cb=20180915161418",
-		"channelName": "Colors Kannada Cinema",
-		"channelUrl": "https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1623",
-		"contentId": "colorskannadacinema"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Kannada",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_KANNADA.png",
-		"channelName": "Colors Kannada HD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828525/kannada1/master.mpd",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFanBJNjRfNHgzbHd4QVFjLWZmUHR5TFBZdlpyNDRXdjQ0SkF4M0xMSTdoLUdoRm9xY2hOT1hIVUZWVXEzOV9TU2ZRTWx5SG5GRklyN2lwR3hPb2d0S3lNS014MG9lLUJ2UzhpM0RjQUpNdmVyOHUyNlNjck9tX01CcmxPVEEtemRFZmZBYkFnR0tPSzJ6b3NTNTAtcWh6UDVPaWpYNHBtdDNTNUZadkpyTURmWVV4U0RfeTBSMkdBeE9iRE5lTHgyZlJYeDBiMWl6S0FZekZaU3NJR0p1VmZLX1FwWEtuTXRYbENSVHJVUHN5Wjk0U05UaEFOaGxiclBKSlpCVld1eV9HckR1TlJEdUE3ZzJ1T2xicDV1N2RHanE3WmZuVzFQVWQ3TXFuekc5MDFfNWVZMVAxdE8wbkx0d25OMzZfcmlpTTNDbmlBazZiSEhjeEJKRHVSMUtZcWlNQ1kwb0hMR25IYzhBMEpBZ0drb0Rob0hjMUx2UktoaDAxUkUxLV9QQzVORGxJckVGMHFYbE1JR1YyNnloSkpxaDh2N194Ty0wb3VLdkFuN3hweEJPUnFTTHNWNVFjVkRVT2lLTUZiTDNWT3lWSzI4QWl0T3N1T1ZDb2VTUT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMDY4MjkxNiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNrYW5uYWRhaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkVqcEk2NF80eDNsd3hBUWMtZmZQdHlMUFl2WnI0NFd2NDRKQXgzTExJN2gtR2hGb3FjaE5PWEhVRlZVcTM5X1NTZlFNbHlIbkZGSXI3aXBHeE9vZ3RLeU1LTXgwb2UtQnZTOGkzRGNBSk12ZXI4dTI2U2NyT21fTUJybE9UQS16ZEVmZkFiQWdHS09LMnpvc1M1MC1xaHpQNU9palg0cG10M1M1Rlp2SnJNRGZZVXhTRF95MFIyR0F4T2JETmVMeDJmUlh4MGIxaXpLQVl6RlpTc0lHSnVWZktfUXBYS25NdFhsQ1JUclVQc3laOTRTTlRoQU5obGJyUEpKWkJWV3V5X0dyRHVOUkR1QTdnMnVPbGJwNXU3ZEdqcTdaZm5XMVBVZDdNcW56RzkwMV81ZVkxUDF0TzBuTHR3bk4zNl9yaWlNM0NuaUFrNmJISGN4QkpEdVIxS1lxaU1DWTBvSExHbkhjOEEwSkFnR2tvRGhvSGMxTHZSS2hoMDFSRTEtX1BDNU5EbElyRUYwcVhsTUlHVjI2eWhKSnFoOHY3X3hPLTBvdUt2QW43eHB4Qk9ScVNMc1Y1UWNWRFVPaUtNRmJMM1ZPeVZLMjhBaXRPc3VPVkNvZVNRPSIsInVkaWQiOiI0ZWMyZTkwNGUzMTk0MTZmODY4MTY3NTcwYmZhOWE3ZiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=TxWxKY90%2brcJoqrH4HBUCgOOkSI%3d&sessionId=d977f5d5-8a75-2199-5834-cbfc76a2af15:e9e6f8a1-32cf-d6d7-2362-9884bd28bfc0&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1rYW5uYWRhLWhkLzkxMTY1NA==",
-		"contentId": "colorskannada_hd_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Oriya",
-		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/Live-Tv-Channels-colors-odiya-1607514481822.jpg",
-		"channelName": "Colors Oriya",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828550/colorsodia/master.mpd",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzYiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3Jzb2RpYV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=o0maiyCjQLnv8SgCEllhGEkeV54%3d&sessionId=dfefec3d-dff7-a1de-0418-722e943c29a5:fb7448f7-482d-1c7a-b1f5-99cc8a0b9a1c",
-		"contentId": "colorsodia"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-colors-rishtey-1606037051359.jpg",
-		"channelName": "Colors Rishtey",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0",
-		"contentId": "colorsrishtey_tv"
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-colors-rishtey-1606037051359.jpg",
-		"channelName": "Colors Rishtey +1",
-		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Rishtey",
-		"contentId": "colorsrishtey_tv1",
-		"Views": 326
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Kannada",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_SUPER.png",
-		"channelName": "Colors Super",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd",
-		"contentId": "colorssuper",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzU0NDU2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc3N1cGVyX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=YYEAAJPxzCfQpfbJTDHmo%2bMse38%3d&sessionId=428a7eee-0998-21ff-7f70-d2e3652615b4:e996db95-83fe-51a3-c667-23ac2e6bbd99",
-		"Views": 162
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Tamil",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_TAMIL.png",
-		"channelName": "Colors Tamil HD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd",
-		"contentId": "colorstamil_hd_tv",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==",
-		"Views": 243
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Bengali",
-		"channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Colors_Bengali_HD.png?raw=true",
-		"channelName": "ColorsBanglaHD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd",
-		"contentId": "colorsbangla_hd_tv",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzYmFuZ2xhX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=BGkG1jAoiQaqfAj3Pn6eRJEWcGY=&sessionId=ab922d54-0aaf-2688-0252-65b042e673aa:67881454-4607-a8f9-03d8-93976d00e7f9&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1iYW5nbGEtaGQvODA1OTg4",
-		"Views": 56
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Gujarati",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_GUJARATI.png",
-		"channelName": "ColorsGujarati",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828532/colorsgujarati/master.mpd",
-		"contentId": "colorsgujarati",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ5MzIyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2d1amFyYXRpX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=Qg/Y0x19L7oD6Ge6gBGiV7zGzVQ=&sessionId=dc16e6b4-81cc-1e51-2479-e7c97ffcdc03:3d9fdfb9-333d-4578-6c69-c7fa4f0256e9&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1ndWphcmF0aS85MjMxNTQ=",
-		"Views": 35
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-		"channelName": "ColorsHD+1",
-		"channelUrl": "http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8",
-		"contentId": "colorshd_tv1",
-		"drmLicense": "",
-		"no": 103,
-		"Views": 627
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "English",
-		"channelLogo": "data:image/png;base64,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",
-		"channelName": "ColorsInfinityHD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity1/master.mpd",
-		"contentId": "colorsinfinity_hd",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ5NTIwIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2luZmluaXR5X2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ZOBCiWbJiCvGvPHJ9A/+3K5fqr4=&sessionId=7829e2ab-7da2-c556-2cdf-68b19280ead1:9e6bb76d-cdf6-51e5-6f7a-1c0fd45adcc6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1pbmZpbml0eS1oZC81NTM5MTA=",
-		"Views": 35
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "English",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/live-tv-channels-cc-hd-1606037316791-1620577516088.webp",
-		"channelName": "Comedy Central HD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd",
-		"contentId": "comedycentral_hd_tv",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d",
-		"Views": 144
-	},
-	{
 		"channelCat": "Entertainment",
 		"channelLang": "Punjabi",
 		"channelLogo": "https://j2apps.s.llnwi.net/pic/0263.DDPunjabi.in/en/1x1/208x208/test_pic1538640430775.JPG",
@@ -1071,35 +1083,7 @@
 		"channelUrl": "https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8",
 		"contentId": "mh1"
 	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Hindi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000048710000/PORTRAIT/MJZdklJi.png?o=production",
-		"channelName": "MTVBeatsHD",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
-		"contentId": "mtv_beats_tv",
-		"drmLicense": "https://udrmv3.kaltura.com:443/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQmY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQiLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ==&signature=31BaSrflvGBVRdMf7cuOM1Ha1tk=",
-		"Views": 719
-	},
-	{
-		"channelCat": "Music",
-		"channelLang": "Hindi",
-		"channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000048710000/PORTRAIT/MJZdklJi.png?o=production",
-		"channelName": "MTVBeatsHD+1",
-		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=MTV_Beats_HD",
-		"contentId": "mtv_beats_tv",
-		"Views": 719
-	},
-	{
-		"channelCat": "Entertainment",
-		"channelLang": "Hindi",
-		"channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png",
-		"channelName": "MTVHD+",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd",
-		"contentId": "mtvhdplus",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzODAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoibXR2aGRMaXZlX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=Z7kk0wbEpc4VJmlEM7i8AbzUEiQ=&sessionId=fdd84e96-c3bb-86b8-11d2-08eabcdd1f9c:56d829a4-4e83-020b-5f32-dd2c0f6fb3ea&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL210di1oZC84MDU5ODk=",
-		"Views": 290
-	},
+	
 	{
 		"channelCat": "Music",
 		"channelLang": "Marathi",
@@ -1146,20 +1130,20 @@
 	},
 	{
 		"channelCat": "News",
+		"channelLang": "Punjabi",
+		"channelLogo": "https://j2apps.s.llnwi.net/pic/7053.NewsOnly.in/en/1x1/208x208/test_pic1590737990207.jpg",
+		"channelName": "News Only",
+		"channelUrl": "https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8",
+		"contentId": "newsonly"
+	},
+	{
+		"channelCat": "News",
 		"channelLang": "Tamil",
 		"channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodHW1KT5Ox0pXmRDeSJZ_kap2lneZ8soDyg&usqp=CAU",
 		"channelName": "News 18 Tamilnadu",
 		"channelUrl": "https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8",
 		"contentId": "news18tamil",
 		"Views": 24
-	},
-	{
-		"channelCat": "News",
-		"channelLang": "Punjabi",
-		"channelLogo": "https://j2apps.s.llnwi.net/pic/7053.NewsOnly.in/en/1x1/208x208/test_pic1590737990207.jpg",
-		"channelName": "News Only",
-		"channelUrl": "https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8",
-		"contentId": "newsonly"
 	},
 	{
 		"channelCat": "News",
@@ -1217,39 +1201,11 @@
 	},
 	{
 		"channelCat": "Kids",
-		"channelLang": "English",
-		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-hd-16x9-2-1626706981186.jpg",
-		"channelName": "Nick HD+",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd",
-		"contentId": "nickhdplus",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d"
-	},
-	{
-		"channelCat": "Kids",
 		"channelLang": "Hindi",
 		"channelLogo": "https://yt3.ggpht.com/ytc/AKedOLSP1G34O4FAuno-lsq9_sue9sOoHHvUFjyQhVQ1=s900-c-k-c0x00ffffff-no-rj",
 		"channelName": "Nick Hindi",
 		"channelUrl": "https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Nick_Hindi",
 		"contentId": "nickhdplus"
-	},
-	{
-		"channelCat": "Kids",
-		"channelLang": "English",
-		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",
-		"channelName": "Nick Junior",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd",
-		"contentId": "nickjr",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d"
-	},
-	{
-		"channelCat": "Kids",
-		"channelLang": "Hindi",
-		"channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-nick-jr-1606037359082.jpg",
-		"channelName": "NickJr",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd",
-		"contentId": "nickjr_tv",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ4OTQ3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkViajM2YmlUTFdMMnZVT0I3S3Zyb0hwdnpyTEI0d09oT2V1dHE3ZXFfTXNoOHp4TEJ3eWVKZTR5YVlpeEJhZ3NfU2RWVVpWMkJ5WXZBaWZ0YmgwZzQ4QWtPaE1kdmF0YzRPSlY2djIta1hlV2Y3cjVUT0F0elV3V2lhN3licVhhbUxtU1NJaWN3Sm81RmFSTGtlcTZsSHI1UVQ1VzBRV3F1R0U3SHZRRGlQQnJxb01mUEJvQjhFMEEtV1Nja0RUOHZobkpUSTFCSS1BaHV4TGtUNFdyWEM5SHkwVXRON09USmhtNWRFVm1Bc2M4YmtuTEgwYVRTZkVQcG1rcmxEMHpRS0Q2dng3LUFoUHBxV2FJVjZld1dPQWhDTWRUQ1lXbUN5VmxwNjJ6dDl2bTQ5YTBWRHN3WFRkTXFJVjJxSHZxZWxTSEMyZ2hrdWcya2xEdWhaVzNuNnAwTkdOU0NGanpkTGc4Mi1vMml6ZEpmOUtwVFpUbmJ5aW1MazFPSk1tcURKMkpLUkh2c0o2VU9VSU5MRU9VcU09IiwidWRpZCI6IlkyWTJIVFlRWGVueVhnZ21TaFVkTkpub3RDbjQiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0=&signature=s/2ybrSMeJElGGOMeq/Tj3Edirk=&sessionId=7727abe5-7c70-c0e0-eda7-7e26e6bb39e3:f3f491f1-af0d-1ecb-475a-ef2bbd46d73c&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL25pY2stanIvNTUzOTA5",
-		"Views": 276
 	},
 	{
 		"channelCat": "Sports",
@@ -1398,15 +1354,6 @@
 		"channelUrl": "https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8",
 		"contentId": "showbox_tv",
 		"Views": 71
-	},
-	{
-		"channelCat": "Kids",
-		"channelLang": "English",
-		"channelLogo": "https://v3img.voot.com/resizeHigh,w_540,h_303/v3Storage/assets/nick-hd-16x9-2-1626706981186.jpg",
-		"channelName": "Sonic",
-		"channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd",
-		"contentId": "sonic",
-		"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d"
 	},
 	{
 		"channelCat": "Entertainment",
