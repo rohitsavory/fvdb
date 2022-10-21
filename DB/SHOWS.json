@@ -1,5 +1,19 @@
 [
 	{
+        "dateAdded": "21-10-2022-09:30:12 PM",
+        "provider": "prime",
+        "tmdb": "69710",
+        "adult": false,
+        "contentId": "tripling_hi",
+        "showName": "Tripling",
+        "showLang": "Hindi",
+        "showImage": "https://m.media-amazon.com/images/M/MV5BNTgxMDczMzEtM2RiOC00Yjk2LWJhNTYtZTBmOWY0ODljM2U2XkEyXkFqcGdeQXVyMTIyNzY0NTMx._UY500_UX667_RI_V_TTW_.jpg",
+        "showArt": "https://akamaividz2.zee5.com/image/upload/w_1280,h_720,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/list/1170x658withlogo3ac15a17b1d74035a1ae3072c637e1ff30f68685df484f00a245864a3a2af95d.jpg",
+		"keywords": "tripling web series, tvf tripling, hindi web series,",
+        "showGenre": "Comedy, Drama",
+        "showStory": "Divorced, jobless, hopeless. Three siblings plan a road trip together. Chandan, Chanchal & Chitvan. Together they start a hilarious journey, to find themselves and their relations."
+    },
+	{
         "dateAdded": "21-10-2022-12:00:12 AM",
         "provider": "prime",
         "tmdb": "86165",
