@@ -1,43 +1,11 @@
 [
 	{
-      "contentId": "blackadam_en_hi",
-	  "image": "https://m.media-amazon.com/images/M/MV5BNTAzYzk0MzktY2Y2MC00YWIwLTllODktYWYwNjI3ZjY3NGY5XkEyXkFqcGdeQWpnYW1i._UY1280_UX720_RI_V_TTW_.jpg",
-      "dashName": "Black Adam (Dual)",
-      "dashType": "Movie",
+      "contentId": "",
+	  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4907/1394907-h-2fb6b1fb0b15",
+      "dashName": "Tap Above 👆 Live Now to Watch",
+      "dashType": "",
       "dashUrl": "",
       "videoUrl": ""
-	},
-	{
-      "contentId": "kantara_hi",
-	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kantara-hindi-et00342025-1665304124.jpg",
-      "dashName": "Kantara (Hindi)",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-	},
-	{
-      "contentId": "fourmoreshotsplease_hi",
-	  "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bc5cc0f5858caf678682023eb1d3ef03408f4b700eee8fb0fa02c2df7d48af86._UY1280_UX720_RI_V_TTW_.jpg",
-      "dashName": "Four More Shots Please 3",
-      "dashType": "Show",
-      "dashUrl": "",
-      "videoUrl": ""
-	},
-	{
-      "contentId": "mismatchednf_hi",
-	  "image": "https://occ-0-1009-987.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa2UNG6jAXaIK3PihoUCQDhR7M4O9e6CSyQlDiLH5uvg_jF7L35tmlG7IskP0_LXCdchlH0TR31MROMWYOhpzzPTFQJys2CwQAQ2.jpg?r=a64",
-      "dashName": "Mismatched",
-      "dashType": "Show",
-      "dashUrl": "",
-      "videoUrl": ""
-	},
-	{
-      "contentId": "dobaaraa_hi",
-	  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dobaaraa-et00328501-1660751972.jpg",
-      "dashName": "Dobaaraa",
-      "dashType": "Movie",
-      "dashUrl": "",
-      "videoUrl": ""
-	}
+   }
 ]
 
