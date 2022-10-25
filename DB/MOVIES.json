@@ -1,5 +1,24 @@
 [
 	{
+		"dateAdded": "25-10-2022-10:50:00 PM",
+		"provider": "",
+		"tmdb": "764081",
+		"adult": false,
+		"contentId": "ramsetu_hi",
+		"movieName": "Ram Setu",
+		"movieLang": "Hindi",
+		"movieImage": "https://m.media-amazon.com/images/M/MV5BNGQ3YjM3MWMtMmIxNC00YjI0LWJhMmUtZjJiMjA0ZjY4MDNkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._UY500_UX667_RI_V_TTW_.jpg",
+		"movieArt": "https://m.media-amazon.com/images/M/MV5BODgyMTJjOTMtZmQ1My00Yzk5LWExNTAtMjlmNjFmYzQ4NDFmXkEyXkFqcGdeQWthc2hpa2F4._UY1280_UX720_RI_V_TTW_.jpg",
+		"movieGenre": "Action, Adventure",
+		"movieStory": "An atheist archaeologist turned believer must race against time to prove the true existence of the legendary Ram Setu before evil forces destroy the pillar of India's heritage.",
+		"movieUrl": "https://sbanh.com/qo7xl4s1alsf.html",
+		"downloadUrl": "",
+		"drmLicense": "",
+		"sdServer": "",
+		"hdServer": "",
+		"fhdServer": ""
+	},
+	{
 		"dateAdded": "24-10-2022-10:20:00 AM",
 		"provider": "prime",
 		"tmdb": "563309",
@@ -7,7 +26,7 @@
 		"contentId": "bigil_ta_hi",
 		"movieName": "Bigil",
 		"movieLang": "Tamil, Hindi",
-		"movieImage": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a0ddf192b5103e62a0591d540962e94fcb93dd155e2f64b54d5e3a9d7faa32c8._RI_V_TTW_.jpg",
+		"movieImage": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a0ddf192b5103e62a0591d540962e94fcb93dd155e2f64b54d5e3a9d7faa32c8._UY500_UX667_RI_V_TTW_.jpg",
 		"movieArt": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5a91c4c1b9be8f541ffbf91c6a9266ab73c1aa03d516ad1b40e573d23e884c92._UY1280_UX720_RI_V_TTW_.jpg",
 		"movieGenre": "Action, Drama, Sport",
 		"movieStory": "Michael, an aggressive young man, gives up his dream of becoming a footballer after his father's murder. However, a friend convinces him to coach a women's football team and turn his life around.",
